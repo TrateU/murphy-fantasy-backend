@@ -1,0 +1,621 @@
+{
+    "Schedule":[
+        {
+            "Week": 1,
+            "Matchups": [
+                {
+                    "teamA": "Peyton",
+                    "teamB": "Matt"
+                },
+                {
+                    "teamA": "Dennis",
+                    "teamB": "Jack Jr"
+                },
+                {
+                    "teamA": "Kyle",
+                    "teamB": "Colin"
+                },
+                {
+                    "teamA": "Brian G",
+                    "teamB": "Brian Sr"
+                },
+                {
+                    "teamA": "John",
+                    "teamB": "Scott"
+                },
+                {
+                    "teamA": "Brady",
+                    "teamB": "Sean"
+                },
+                {
+                    "teamA": "Dan",
+                    "teamB": "Trate"
+                },
+                {
+                    "teamA": "Tyler",
+                    "teamB": "Jack Em"
+                },
+                {
+                    "teamA": "Brian Jr",
+                    "teamB": "Michael"
+                }
+            ]
+        },
+        {
+            "Week": 2,
+            "Matchups": [
+                {
+                    "teamA": "Peyton",
+                    "teamB": "Michael"
+                },
+                {
+                    "teamA": "Dennis",
+                    "teamB": "Matt"
+                },
+                {
+                    "teamA": "Kyle",
+                    "teamB": "Jack Jr"
+                },
+                {
+                    "teamA": "Brian G",
+                    "teamB": "Colin"
+                },
+                {
+                    "teamA": "John",
+                    "teamB": "Brian Sr"
+                },
+                {
+                    "teamA": "Brady",
+                    "teamB": "Scott"
+                },
+                {
+                    "teamA": "Dan",
+                    "teamB": "Sean"
+                },
+                {
+                    "teamA": "Tyler",
+                    "teamB": "Trate"
+                },
+                {
+                    "teamA": "Brian Jr",
+                    "teamB": "Jack Em"
+                }
+            ]
+        },
+        {
+            "Week": 3,
+            "Matchups": [
+                {
+                    "teamA": "Peyton",
+                    "teamB": "Jack Em"
+                },
+                {
+                    "teamA": "Dennis",
+                    "teamB": "Michael"
+                },
+                {
+                    "teamA": "Kyle",
+                    "teamB": "Matt"
+                },
+                {
+                    "teamA": "Brian G",
+                    "teamB": "Jack Jr"
+                },
+                {
+                    "teamA": "John",
+                    "teamB": "Colin"
+                },
+                {
+                    "teamA": "Brady",
+                    "teamB": "Brian Sr"
+                },
+                {
+                    "teamA": "Dan",
+                    "teamB": "Scott"
+                },
+                {
+                    "teamA": "Tyler",
+                    "teamB": "Sean"
+                },
+                {
+                    "teamA": "Brian Jr",
+                    "teamB": "Trate"
+                }
+            ]
+        },
+        {
+            "Week": 4,
+            "Matchups": [
+                {
+                    "teamA": "Peyton",
+                    "teamB": "Trate"
+                },
+                {
+                    "teamA": "Dennis",
+                    "teamB": "Jack Em"
+                },
+                {
+                    "teamA": "Kyle",
+                    "teamB": "Michael"
+                },
+                {
+                    "teamA": "Brian G",
+                    "teamB": "Matt"
+                },
+                {
+                    "teamA": "John",
+                    "teamB": "Jack Jr"
+                },
+                {
+                    "teamA": "Brady",
+                    "teamB": "Colin"
+                },
+                {
+                    "teamA": "Dan",
+                    "teamB": "Brian Sr"
+                },
+                {
+                    "teamA": "Tyler",
+                    "teamB": "Scott"
+                },
+                {
+                    "teamA": "Brian Jr",
+                    "teamB": "Sean"
+                }
+            ]
+        },
+        {
+            "Week": 5,
+            "Matchups": [
+                {
+                    "teamA": "Peyton",
+                    "teamB": "Sean"
+                },
+                {
+                    "teamA": "Dennis",
+                    "teamB": "Trate"
+                },
+                {
+                    "teamA": "Kyle",
+                    "teamB": "Jack Em"
+                },
+                {
+                    "teamA": "Brian G",
+                    "teamB": "Michael"
+                },
+                {
+                    "teamA": "John",
+                    "teamB": "Matt"
+                },
+                {
+                    "teamA": "Brady",
+                    "teamB": "Jack Jr"
+                },
+                {
+                    "teamA": "Dan",
+                    "teamB": "Colin"
+                },
+                {
+                    "teamA": "Tyler",
+                    "teamB": "Brian Sr"
+                },
+                {
+                    "teamA": "Brian Jr",
+                    "teamB": "Scott"
+                }
+            ]
+        },
+        {
+            "Week": 6,
+            "Matchups": [
+                {
+                    "teamA": "Peyton",
+                    "teamB": "Scott"
+                },
+                {
+                    "teamA": "Dennis",
+                    "teamB": "Brian Jr"
+                },
+                {
+                    "teamA": "Kyle",
+                    "teamB": "Tyler"
+                },
+                {
+                    "teamA": "Brian G",
+                    "teamB": "Dan"
+                },
+                {
+                    "teamA": "John",
+                    "teamB": "Brady"
+                },
+                {
+                    "teamA": "Sean",
+                    "teamB": "Brian Sr"
+                },
+                {
+                    "teamA": "Trate",
+                    "teamB": "Colin"
+                },
+                {
+                    "teamA": "Jack Em",
+                    "teamB": "Jack Jr"
+                },
+                {
+                    "teamA": "Michael",
+                    "teamB": "Matt"
+                }
+            ]
+        },
+        {
+            "Week": 7,
+            "Matchups": [
+                {
+                    "teamA": "Peyton",
+                    "teamB": "Brian Jr"
+                },
+                {
+                    "teamA": "Dennis",
+                    "teamB": "Tyler"
+                },
+                {
+                    "teamA": "Kyle",
+                    "teamB": "Dan"
+                },
+                {
+                    "teamA": "Brian G",
+                    "teamB": "Brady"
+                },
+                {
+                    "teamA": "John",
+                    "teamB": "Michael"
+                },
+                {
+                    "teamA": "Scott",
+                    "teamB": "Brian Sr"
+                },
+                {
+                    "teamA": "Sean",
+                    "teamB": "Colin"
+                },
+                {
+                    "teamA": "Trate",
+                    "teamB": "Jack Jr"
+                },
+                {
+                    "teamA": "Jack Em",
+                    "teamB": "Matt"
+                }
+            ]
+        },
+        {
+            "Week": 8,
+            "Matchups": [
+                {
+                    "teamA": "Peyton",
+                    "teamB": "Tyler"
+                },
+                {
+                    "teamA": "Dennis",
+                    "teamB": "Dan"
+                },
+                {
+                    "teamA": "Kyle",
+                    "teamB": "Brady"
+                },
+                {
+                    "teamA": "Brian G",
+                    "teamB": "John"
+                },
+                {
+                    "teamA": "Brian Jr",
+                    "teamB": "Brian Sr"
+                },
+                {
+                    "teamA": "Scott",
+                    "teamB": "Colin"
+                },
+                {
+                    "teamA": "Sean",
+                    "teamB": "Jack Jr"
+                },
+                {
+                    "teamA": "Trate",
+                    "teamB": "Matt"
+                },
+                {
+                    "teamA": "Jack Em",
+                    "teamB": "Michael"
+                }
+            ]
+        },
+        {
+            "Week": 9,
+            "Matchups": [
+                {
+                    "teamA": "Peyton",
+                    "teamB": "Dan"
+                },
+                {
+                    "teamA": "Dennis",
+                    "teamB": "Brady"
+                },
+                {
+                    "teamA": "Kyle",
+                    "teamB": "John"
+                },
+                {
+                    "teamA": "Brian G",
+                    "teamB": "Jack Em"
+                },
+                {
+                    "teamA": "Tyler",
+                    "teamB": "Brian Jr"
+                },
+                {
+                    "teamA": "Scott",
+                    "teamB": "Jack Jr"
+                },
+                {
+                    "teamA": "Sean",
+                    "teamB": "Matt"
+                },
+                {
+                    "teamA": "Trate",
+                    "teamB": "Michael"
+                },
+                {
+                    "teamA": "Colin",
+                    "teamB": "Brian Sr"
+                }
+            ]
+        },
+        {
+            "Week": 10,
+            "Matchups": [
+                {
+                    "teamA": "Peyton",
+                    "teamB": "Brady"
+                },
+                {
+                    "teamA": "Dennis",
+                    "teamB": "John"
+                },
+                {
+                    "teamA": "Kyle",
+                    "teamB": "Brian G"
+                },
+                {
+                    "teamA": "Dan",
+                    "teamB": "Brian Jr"
+                },
+                {
+                    "teamA": "Tyler",
+                    "teamB": "Colin"
+                },
+                {
+                    "teamA": "Scott",
+                    "teamB": "Matt"
+                },
+                {
+                    "teamA": "Sean",
+                    "teamB": "Michael"
+                },
+                {
+                    "teamA": "Trate",
+                    "teamB": "Jack Em"
+                },
+                {
+                    "teamA": "Jack Jr",
+                    "teamB": "Brian Sr"
+                }
+            ]
+        },
+        {
+            "Week": 11,
+            "Matchups": [
+                {
+                    "teamA": "Peyton",
+                    "teamB": "John"
+                },
+                {
+                    "teamA": "Dennis",
+                    "teamB": "Brian G"
+                },
+                {
+                    "teamA": "Kyle",
+                    "teamB": "Trate"
+                },
+                {
+                    "teamA": "Brady",
+                    "teamB": "Brian Jr"
+                },
+                {
+                    "teamA": "Dan",
+                    "teamB": "Tyler"
+                },
+                {
+                    "teamA": "Scott",
+                    "teamB": "Michael"
+                },
+                {
+                    "teamA": "Sean",
+                    "teamB": "Jack Em"
+                },
+                {
+                    "teamA": "Matt",
+                    "teamB": "Brian Sr"
+                },
+                {
+                    "teamA": "Jack Jr",
+                    "teamB": "Colin"
+                }
+            ]
+        },
+        {
+            "Week": 12,
+            "Matchups": [
+                {
+                    "teamA": "Peyton",
+                    "teamB": "Brian G"
+                },
+                {
+                    "teamA": "Dennis",
+                    "teamB": "Kyle"
+                },
+                {
+                    "teamA": "John",
+                    "teamB": "Brian Jr"
+                },
+                {
+                    "teamA": "Brady",
+                    "teamB": "Tyler"
+                },
+                {
+                    "teamA": "Dan",
+                    "teamB": "Jack Jr"
+                },
+                {
+                    "teamA": "Scott",
+                    "teamB": "Jack Em"
+                },
+                {
+                    "teamA": "Sean",
+                    "teamB": "Trate"
+                },
+                {
+                    "teamA": "Michael",
+                    "teamB": "Brian Sr"
+                },
+                {
+                    "teamA": "Matt",
+                    "teamB": "Colin"
+                }
+            ]
+        },
+        {
+            "Week": 13,
+            "Matchups": [
+                {
+                    "teamA": "Peyton",
+                    "teamB": "Kyle"
+                },
+                {
+                    "teamA": "Dennis",
+                    "teamB": "Sean"
+                },
+                {
+                    "teamA": "Brian G",
+                    "teamB": "Brian Jr"
+                },
+                {
+                    "teamA": "John",
+                    "teamB": "Tyler"
+                },
+                {
+                    "teamA": "Brady",
+                    "teamB": "Dan"
+                },
+                {
+                    "teamA": "Scott",
+                    "teamB": "Trate"
+                },
+                {
+                    "teamA": "Jack Em",
+                    "teamB": "Brian Sr"
+                },
+                {
+                    "teamA": "Michael",
+                    "teamB": "Colin"
+                },
+                {
+                    "teamA": "Matt",
+                    "teamB": "Jack Jr"
+                }
+            ]
+        },
+        {
+            "Week": 14,
+            "Matchups": [
+                {
+                    "teamA": "Peyton",
+                    "teamB": "Dennis"
+                },
+                {
+                    "teamA": "Kyle",
+                    "teamB": "Brian Jr"
+                },
+                {
+                    "teamA": "Brian G",
+                    "teamB": "Tyler"
+                },
+                {
+                    "teamA": "John",
+                    "teamB": "Dan"
+                },
+                {
+                    "teamA": "Brady",
+                    "teamB": "Matt"
+                },
+                {
+                    "teamA": "Scott",
+                    "teamB": "Sean"
+                },
+                {
+                    "teamA": "Trate",
+                    "teamB": "Brian Sr"
+                },
+                {
+                    "teamA": "Jack Em",
+                    "teamB": "Colin"
+                },
+                {
+                    "teamA": "Michael",
+                    "teamB": "Jack Jr"
+                }
+            ]
+        },
+        {
+            "Week": 15,
+            "Matchups": [
+                {
+                    "teamA": "",
+                    "teamB": ""
+                },
+                {
+                    "teamA": "",
+                    "teamB": ""
+                },
+                {
+                    "teamA": "",
+                    "teamB": ""
+                },
+                {
+                    "teamA": "",
+                    "teamB": ""
+                }
+            ]
+        },
+        {
+            "Week": 16,
+            "Matchups": [
+                {
+                    "teamA": "",
+                    "teamB": ""
+                },
+                {
+                    "teamA": "",
+                    "teamB": ""
+                }
+            ]
+        },
+        {
+            "Week": 17,
+            "Matchups": [
+                {
+                    "teamA": "",
+                    "teamB": ""
+                }
+            ]
+        }
+    ]
+}
