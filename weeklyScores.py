@@ -157,8 +157,8 @@ def getWeeklyScores(year):
     if year == 2021:
         week = {"Week": 17, 
                 "Scores": [
-                    {"Name":"Scott","Team":"I Love Monday Points!","Score":134.54},
-                    {"Name":"Dan","Team":"Future #1 Outlaw","Score":149.9}
+                    {"Name":"Scott","Team":"I Love Monday Points!","Score":156.76},
+                    {"Name":"Dan","Team":"Future #1 Outlaw","Score":176.06}
                 ],
                 "Matchups": [{"teamA":"Scott","teamB":"Dan"}]
                 }
