@@ -154,6 +154,31 @@ def getWeeklyScores(year):
         if week in matchups_mapping:
             week_entry['Matchups'] = matchups_mapping[week]
     
+    if year == 2021:
+        week = {"Week": 17, 
+                "Scores": [
+                    {"Name":"Scott","Team":"I Love Monday Points!","Score":134.54},
+                    {"Name":"Dan","Team":"Future #1 Outlaw","Score":149.9}
+                ],
+                "Matchups": [{"teamA":"Scott","teamB":"Dan"}]
+                }
+        weekly_scores['WeeklyScores'].append(week)
+        for week_entry in weekly_scores['WeeklyScores']:
+            if week_entry['Week'] == '16':
+                for team in week_entry['Scores']:
+                    if team['Name'] == 'Kyle':
+                        team['Score'] = 141.10
+                    if team['Name'] == 'Scott':
+                        team['Score'] = 180.22
+                    if team['Name'] == 'Dan':
+                        team['Score'] = 198.92
+                    if team['Name'] == 'Peyton':
+                        team['Score'] = 132.24
+
+        
+
+
+
     weekly_scores = json.dumps(weekly_scores, indent=1)
     
     return weekly_scores

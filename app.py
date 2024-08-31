@@ -9,7 +9,7 @@ CORS(api)
 
 @api.route('/scores/<year>')
 def get_scores(year):
-    scores = weeklyScores.getWeeklyScores(year)
+    scores = weeklyScores.getWeeklyScores(int(year))
     response_body = scores
 
     return response_body
