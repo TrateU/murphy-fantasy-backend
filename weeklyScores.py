@@ -164,7 +164,7 @@ def getWeeklyScores(year):
                 }
         weekly_scores['WeeklyScores'].append(week)
         for week_entry in weekly_scores['WeeklyScores']:
-            if week_entry['Week'] == '16':
+            if week_entry['Week'] == 16:
                 for team in week_entry['Scores']:
                     if team['Name'] == 'Kyle':
                         team['Score'] = 141.10
