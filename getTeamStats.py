@@ -87,7 +87,7 @@ def getStats(year):
             else:
                 for weeks in info.weekdates2024:
                     if weeks['Week'] == score['Week']:
-                        if today <= datetime.strptime(weeks['end'],"%Y-%m-%d"): 
+                        if today >= datetime.strptime(weeks['end'],"%Y-%m-%d"): 
                             isPast = True
             if isPast:
                 team['TotalFor'] += score['For']
