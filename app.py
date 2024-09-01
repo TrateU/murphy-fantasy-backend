@@ -24,6 +24,6 @@ def get_matchups(year,week):
 def get_teamstats(year):
     return getTeamStats.getStats(int(year))
 
-@api.route('teams')
+@api.route('/teams')
 def get_teams():
     return teamDetails.getTeamDetails(info.currentYear)
