@@ -3,6 +3,8 @@ from flask_cors import CORS
 import weeklyScores
 import getMatchup
 import getTeamStats
+import teamDetails
+import info
 
 api = Flask(__name__)
 CORS(api)
@@ -21,3 +23,7 @@ def get_matchups(year,week):
 @api.route('/stats/<year>')
 def get_teamstats(year):
     return getTeamStats.getStats(int(year))
+
+@api.route('teams')
+def get_teams():
+    return teamDetails.getTeamDetails(info.currentYear)

@@ -38,6 +38,7 @@ def getStats(year):
     for team in load_Data['WeeklyScores'][0]['Scores']:
         new_team = {}
         new_team['Name'] = team['Name']
+        new_team['Team'] = team['Team']
         stats['teamStats'].append(new_team)
     
     for team in stats['teamStats']:
@@ -81,6 +82,7 @@ def getStats(year):
         for score in team['Scores']:
             if score['Week'] > 14:
                 break
+            score["Result"] = 'NA'
             isPast = False
             if year < info.currentYear:
                 isPast = True
@@ -94,10 +96,12 @@ def getStats(year):
                 team['TotalAgainst'] += score['Against']
                 if score['For'] > score['Against']: 
                     team['Wins'] += 1
+                    score['Result'] = 'W'
                     if score['isDivision'] == 'Y':
                         team['DivWins'] += 1
                 if score['For'] < score['Against']: 
                     team['Losses'] += 1
+                    score['Result'] = 'L'
                     if score['isDivision'] == 'Y':
                         team['DivLosses'] += 1
         team['PointDiff'] = team['TotalFor'] - team['TotalAgainst']
