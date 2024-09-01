@@ -98,8 +98,4 @@ def getTeamDetails(year):
                 team["Roster"] = roster['roster']
                 break
     
-    with open("test.json","w") as f:
-        json.dump(teamStats,f)
     return teamStats
-
-getTeamDetails(2023)

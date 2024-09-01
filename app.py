@@ -26,4 +26,4 @@ def get_teamstats(year):
 
 @api.route('/teams')
 def get_teams():
-    return teamDetails.getTeamDetails(2023)
+    return teamDetails.getTeamDetails(info.currentYear)
