@@ -8,11 +8,15 @@ def getTeamDetails(year):
 
     url_A = f'https://lm-api-reads.fantasy.espn.com/apis/v3/games/ffl/seasons/{year}/segments/0/leagues/{league_id_A}'
     url_B = f'https://lm-api-reads.fantasy.espn.com/apis/v3/games/ffl/seasons/{year}/segments/0/leagues/{league_id_B}'
+    url = f'https://lm-api-reads.fantasy.espn.com/apis/v3/games/ffl/seasons/{year}'
 
     rosters_response_A = requests.get(url_A, params={"view": "mRoster"}).json()
     rosters_response_B = requests.get(url_B, params={"view": "mRoster"}).json()
     team_response_A = requests.get(url_A, params={"view": "mTeam"}).json()
     team_response_B = requests.get(url_B, params={"view": "mTeam"}).json()
+    proTeam_response = requests.get(url, params={"view":"proTeamSchedules_wl"}).json()
+
+    
 
     teamStats = getTeamStats.getStats(year)
 
@@ -28,8 +32,7 @@ def getTeamDetails(year):
             add_team['roster'] = []
             for player in team["roster"]["entries"]:
                 new_player = {}
-
-               
+                
                 new_player['name'] = player["playerPoolEntry"]["player"]["fullName"]
                 match player["lineupSlotId"]:
                     case 0:
@@ -63,6 +66,14 @@ def getTeamDetails(year):
                         new_player["position"] = "K"
                     case 16:
                         new_player["position"] = "D/ST"
+
+                id = player['playerPoolEntry']['player']['proTeamId']
+
+                for proTeam in proTeam_response['settings']['proTeams']:
+                    if id == proTeam['id']:
+                        new_player['team'] = proTeam['abbrev']
+                        new_player['bye'] = proTeam['byeWeek']
+
                 new_player['averagePoints'] = 0
                 new_player['totalPoints'] = 0
                 for stat in player['playerPoolEntry']['player']['stats']:
@@ -86,5 +97,9 @@ def getTeamDetails(year):
             if roster['Team'] == team['Team']:
                 team["Roster"] = roster['roster']
                 break
-
+    
+    with open("test.json","w") as f:
+        json.dump(teamStats,f)
     return teamStats
+
+getTeamDetails(2023)

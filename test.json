@@ -153,6 +153,8 @@
                     "name": "Tyreek Hill",
                     "slot": "WR",
                     "position": "WR",
+                    "team": "Mia",
+                    "bye": 10,
                     "averagePoints": 23.525,
                     "totalPoints": 376.4,
                     "posRank": 2
@@ -161,6 +163,8 @@
                     "name": "Garrett Wilson",
                     "slot": "Bench",
                     "position": "WR",
+                    "team": "NYJ",
+                    "bye": 7,
                     "averagePoints": 12.541176470588235,
                     "totalPoints": 213.2,
                     "posRank": 26
@@ -169,6 +173,8 @@
                     "name": "Joe Mixon",
                     "slot": "RB",
                     "position": "RB",
+                    "team": "Hou",
+                    "bye": 7,
                     "averagePoints": 15.705882352941176,
                     "totalPoints": 267.0,
                     "posRank": 6
@@ -177,6 +183,8 @@
                     "name": "Jahmyr Gibbs",
                     "slot": "RB",
                     "position": "RB",
+                    "team": "Det",
+                    "bye": 9,
                     "averagePoints": 16.14,
                     "totalPoints": 242.1,
                     "posRank": 10
@@ -185,6 +193,8 @@
                     "name": "Deebo Samuel",
                     "slot": "WR",
                     "position": "WR",
+                    "team": "SF",
+                    "bye": 9,
                     "averagePoints": 16.246666666666666,
                     "totalPoints": 243.7,
                     "posRank": 15
@@ -193,6 +203,8 @@
                     "name": "Alvin Kamara",
                     "slot": "FLEX",
                     "position": "RB",
+                    "team": "NO",
+                    "bye": 11,
                     "averagePoints": 17.923076923076923,
                     "totalPoints": 233.0,
                     "posRank": 11
@@ -201,6 +213,8 @@
                     "name": "Darren Waller",
                     "slot": "Bench",
                     "position": "TE",
+                    "team": "NYG",
+                    "bye": 13,
                     "averagePoints": 9.433333333333334,
                     "totalPoints": 113.2,
                     "posRank": 22
@@ -209,6 +223,8 @@
                     "name": "Javonte Williams",
                     "slot": "Bench",
                     "position": "RB",
+                    "team": "Den",
+                    "bye": 9,
                     "averagePoints": 11.200000000000001,
                     "totalPoints": 179.20000000000002,
                     "posRank": 29
@@ -217,6 +233,8 @@
                     "name": "George Pickens",
                     "slot": "Bench",
                     "position": "WR",
+                    "team": "Pit",
+                    "bye": 6,
                     "averagePoints": 12.282352941176471,
                     "totalPoints": 208.8,
                     "posRank": 30
@@ -225,6 +243,8 @@
                     "name": "Brian Robinson Jr.",
                     "slot": "Bench",
                     "position": "RB",
+                    "team": "Wsh",
+                    "bye": 14,
                     "averagePoints": 13.206666666666669,
                     "totalPoints": 198.10000000000002,
                     "posRank": 21
@@ -233,6 +253,8 @@
                     "name": "Zay Flowers",
                     "slot": "Bench",
                     "position": "WR",
+                    "team": "Bal",
+                    "bye": 13,
                     "averagePoints": 12.9,
                     "totalPoints": 206.4,
                     "posRank": 31
@@ -241,6 +263,8 @@
                     "name": "Tua Tagovailoa",
                     "slot": "Bench",
                     "position": "QB",
+                    "team": "Mia",
+                    "bye": 10,
                     "averagePoints": 19.31529411764706,
                     "totalPoints": 328.36,
                     "posRank": 10
@@ -249,6 +273,8 @@
                     "name": "Sam LaPorta",
                     "slot": "TE",
                     "position": "TE",
+                    "team": "Det",
+                    "bye": 9,
                     "averagePoints": 14.076470588235296,
                     "totalPoints": 239.3,
                     "posRank": 1
@@ -257,6 +283,8 @@
                     "name": "Matthew Stafford",
                     "slot": "QB",
                     "position": "QB",
+                    "team": "LAR",
+                    "bye": 10,
                     "averagePoints": 19.40666666666667,
                     "totalPoints": 291.1,
                     "posRank": 16
@@ -265,6 +293,8 @@
                     "name": "Jake Moody",
                     "slot": "K",
                     "position": "K",
+                    "team": "SF",
+                    "bye": 9,
                     "averagePoints": 7.470588235294118,
                     "totalPoints": 127.0,
                     "posRank": 20
@@ -273,6 +303,8 @@
                     "name": "Bears D/ST",
                     "slot": "D/ST",
                     "position": "D/ST",
+                    "team": "Chi",
+                    "bye": 13,
                     "averagePoints": 6.470588235294118,
                     "totalPoints": 110.0,
                     "posRank": 17
@@ -432,6 +464,8 @@
                     "name": "Tyreek Hill",
                     "slot": "WR",
                     "position": "WR",
+                    "team": "Mia",
+                    "bye": 10,
                     "averagePoints": 23.525,
                     "totalPoints": 376.4,
                     "posRank": 2
@@ -440,6 +474,8 @@
                     "name": "Stefon Diggs",
                     "slot": "WR",
                     "position": "WR",
+                    "team": "Buf",
+                    "bye": 13,
                     "averagePoints": 16.105882352941176,
                     "totalPoints": 273.8,
                     "posRank": 9
@@ -448,6 +484,8 @@
                     "name": "Patrick Mahomes",
                     "slot": "Bench",
                     "position": "QB",
+                    "team": "KC",
+                    "bye": 10,
                     "averagePoints": 20.88875,
                     "totalPoints": 334.22,
                     "posRank": 8
@@ -456,6 +494,8 @@
                     "name": "Travis Etienne Jr.",
                     "slot": "RB",
                     "position": "RB",
+                    "team": "Jax",
+                    "bye": 9,
                     "averagePoints": 16.611764705882354,
                     "totalPoints": 282.40000000000003,
                     "posRank": 3
@@ -464,6 +504,8 @@
                     "name": "T.J. Hockenson",
                     "slot": "IR",
                     "position": "TE",
+                    "team": "Min",
+                    "bye": 13,
                     "averagePoints": 14.6,
                     "totalPoints": 219.0,
                     "posRank": 4
@@ -472,6 +514,8 @@
                     "name": "Rachaad White",
                     "slot": "RB",
                     "position": "RB",
+                    "team": "TB",
+                    "bye": 5,
                     "averagePoints": 15.758823529411764,
                     "totalPoints": 267.9,
                     "posRank": 4
@@ -480,6 +524,8 @@
                     "name": "Raheem Mostert",
                     "slot": "Bench",
                     "position": "RB",
+                    "team": "Mia",
+                    "bye": 10,
                     "averagePoints": 17.846666666666668,
                     "totalPoints": 267.7,
                     "posRank": 5
@@ -488,6 +534,8 @@
                     "name": "Jakobi Meyers",
                     "slot": "FLEX",
                     "position": "WR",
+                    "team": "LV",
+                    "bye": 13,
                     "averagePoints": 13.786249999999999,
                     "totalPoints": 220.57999999999998,
                     "posRank": 24
@@ -496,6 +544,8 @@
                     "name": "Dustin Hopkins",
                     "slot": "IR",
                     "position": "K",
+                    "team": "Cle",
+                    "bye": 5,
                     "averagePoints": 9.733333333333333,
                     "totalPoints": 146.0,
                     "posRank": 9
@@ -504,6 +554,8 @@
                     "name": "Jets D/ST",
                     "slot": "D/ST",
                     "position": "D/ST",
+                    "team": "NYJ",
+                    "bye": 7,
                     "averagePoints": 9.352941176470589,
                     "totalPoints": 159.0,
                     "posRank": 4
@@ -512,6 +564,8 @@
                     "name": "Dolphins D/ST",
                     "slot": "Bench",
                     "position": "D/ST",
+                    "team": "Mia",
+                    "bye": 10,
                     "averagePoints": 8.176470588235293,
                     "totalPoints": 139.0,
                     "posRank": 7
@@ -520,6 +574,8 @@
                     "name": "Ja'Marr Chase",
                     "slot": "Bench",
                     "position": "WR",
+                    "team": "Cin",
+                    "bye": 7,
                     "averagePoints": 16.42,
                     "totalPoints": 262.72,
                     "posRank": 11
@@ -528,6 +584,8 @@
                     "name": "Jordan Love",
                     "slot": "QB",
                     "position": "QB",
+                    "team": "GB",
+                    "bye": 6,
                     "averagePoints": 22.532941176470587,
                     "totalPoints": 383.06,
                     "posRank": 4
@@ -536,6 +594,8 @@
                     "name": "Rhamondre Stevenson",
                     "slot": "Bench",
                     "position": "RB",
+                    "team": "NE",
+                    "bye": 11,
                     "averagePoints": 12.141666666666667,
                     "totalPoints": 145.70000000000002,
                     "posRank": 35
@@ -544,6 +604,8 @@
                     "name": "Lucas Havrisik",
                     "slot": "K",
                     "position": "K",
+                    "team": "Cle",
+                    "bye": 5,
                     "averagePoints": 7.222222222222222,
                     "totalPoints": 65.0,
                     "posRank": 32
@@ -552,6 +614,8 @@
                     "name": "Noah Brown",
                     "slot": "Bench",
                     "position": "WR",
+                    "team": "Hou",
+                    "bye": 7,
                     "averagePoints": 10.16,
                     "totalPoints": 101.6,
                     "posRank": 67
@@ -560,6 +624,8 @@
                     "name": "Dalton Schultz",
                     "slot": "TE",
                     "position": "TE",
+                    "team": "Hou",
+                    "bye": 7,
                     "averagePoints": 10.033333333333333,
                     "totalPoints": 150.5,
                     "posRank": 10
@@ -719,6 +785,8 @@
                     "name": "Cooper Kupp",
                     "slot": "WR",
                     "position": "WR",
+                    "team": "LAR",
+                    "bye": 10,
                     "averagePoints": 13.700000000000001,
                     "totalPoints": 164.4,
                     "posRank": 40
@@ -727,6 +795,8 @@
                     "name": "Derrick Henry",
                     "slot": "RB",
                     "position": "RB",
+                    "team": "Bal",
+                    "bye": 13,
                     "averagePoints": 14.74470588235294,
                     "totalPoints": 250.66,
                     "posRank": 8
@@ -735,6 +805,8 @@
                     "name": "George Kittle",
                     "slot": "TE",
                     "position": "TE",
+                    "team": "SF",
+                    "bye": 9,
                     "averagePoints": 12.7,
                     "totalPoints": 203.2,
                     "posRank": 5
@@ -743,6 +815,8 @@
                     "name": "Keenan Allen",
                     "slot": "IR",
                     "position": "WR",
+                    "team": "Chi",
+                    "bye": 13,
                     "averagePoints": 21.604615384615386,
                     "totalPoints": 280.86,
                     "posRank": 8
@@ -751,6 +825,8 @@
                     "name": "Bills D/ST",
                     "slot": "D/ST",
                     "position": "D/ST",
+                    "team": "Buf",
+                    "bye": 13,
                     "averagePoints": 9.294117647058824,
                     "totalPoints": 158.0,
                     "posRank": 5
@@ -759,6 +835,8 @@
                     "name": "Brandon Aubrey",
                     "slot": "K",
                     "position": "K",
+                    "team": "Dal",
+                    "bye": 7,
                     "averagePoints": 10.588235294117647,
                     "totalPoints": 180.0,
                     "posRank": 1
@@ -767,6 +845,8 @@
                     "name": "Tank Dell",
                     "slot": "IR",
                     "position": "WR",
+                    "team": "Hou",
+                    "bye": 7,
                     "averagePoints": 15.0,
                     "totalPoints": 165.0,
                     "posRank": 39
@@ -775,6 +855,8 @@
                     "name": "Gabe Davis",
                     "slot": "Bench",
                     "position": "WR",
+                    "team": "Jax",
+                    "bye": 9,
                     "averagePoints": 9.494117647058824,
                     "totalPoints": 161.4,
                     "posRank": 41
@@ -783,6 +865,8 @@
                     "name": "Devin Singletary",
                     "slot": "Bench",
                     "position": "RB",
+                    "team": "NYG",
+                    "bye": 13,
                     "averagePoints": 9.961176470588237,
                     "totalPoints": 169.34000000000003,
                     "posRank": 32
@@ -791,6 +875,8 @@
                     "name": "Browns D/ST",
                     "slot": "Bench",
                     "position": "D/ST",
+                    "team": "Cle",
+                    "bye": 5,
                     "averagePoints": 9.764705882352942,
                     "totalPoints": 166.0,
                     "posRank": 3
@@ -799,6 +885,8 @@
                     "name": "Baker Mayfield",
                     "slot": "Bench",
                     "position": "QB",
+                    "team": "TB",
+                    "bye": 5,
                     "averagePoints": 19.415294117647058,
                     "totalPoints": 330.06,
                     "posRank": 9
@@ -807,6 +895,8 @@
                     "name": "Tua Tagovailoa",
                     "slot": "QB",
                     "position": "QB",
+                    "team": "Mia",
+                    "bye": 10,
                     "averagePoints": 19.31529411764706,
                     "totalPoints": 328.36,
                     "posRank": 10
@@ -815,6 +905,8 @@
                     "name": "A.J. Brown",
                     "slot": "WR",
                     "position": "WR",
+                    "team": "Phi",
+                    "bye": 10,
                     "averagePoints": 17.03529411764706,
                     "totalPoints": 289.6,
                     "posRank": 5
@@ -823,6 +915,8 @@
                     "name": "Tyjae Spears",
                     "slot": "RB",
                     "position": "RB",
+                    "team": "Ten",
+                    "bye": 7,
                     "averagePoints": 9.047058823529412,
                     "totalPoints": 153.8,
                     "posRank": 34
@@ -831,6 +925,8 @@
                     "name": "Curtis Samuel",
                     "slot": "Bench",
                     "position": "WR",
+                    "team": "Buf",
+                    "bye": 13,
                     "averagePoints": 9.825000000000001,
                     "totalPoints": 157.20000000000002,
                     "posRank": 42
@@ -839,6 +935,8 @@
                     "name": "Odell Beckham Jr.",
                     "slot": "Bench",
                     "position": "WR",
+                    "team": "FA",
+                    "bye": 0,
                     "averagePoints": 7.678571428571429,
                     "totalPoints": 107.5,
                     "posRank": 63
@@ -847,6 +945,8 @@
                     "name": "Ty Chandler",
                     "slot": "Bench",
                     "position": "RB",
+                    "team": "Min",
+                    "bye": 13,
                     "averagePoints": 5.9411764705882355,
                     "totalPoints": 101.0,
                     "posRank": 48
@@ -855,6 +955,8 @@
                     "name": "Sam Howell",
                     "slot": "Bench",
                     "position": "QB",
+                    "team": "Sea",
+                    "bye": 5,
                     "averagePoints": 17.62,
                     "totalPoints": 299.54,
                     "posRank": 14
@@ -1014,6 +1116,8 @@
                     "name": "Justin Jefferson",
                     "slot": "WR",
                     "position": "WR",
+                    "team": "Min",
+                    "bye": 13,
                     "averagePoints": 20.22,
                     "totalPoints": 202.2,
                     "posRank": 33
@@ -1022,6 +1126,8 @@
                     "name": "Amon-Ra St. Brown",
                     "slot": "WR",
                     "position": "WR",
+                    "team": "Det",
+                    "bye": 9,
                     "averagePoints": 20.68125,
                     "totalPoints": 330.9,
                     "posRank": 3
@@ -1030,6 +1136,8 @@
                     "name": "Mark Andrews",
                     "slot": "IR",
                     "position": "TE",
+                    "team": "Bal",
+                    "bye": 13,
                     "averagePoints": 13.540000000000001,
                     "totalPoints": 135.4,
                     "posRank": 15
@@ -1038,6 +1146,8 @@
                     "name": "Lamar Jackson",
                     "slot": "QB",
                     "position": "QB",
+                    "team": "Bal",
+                    "bye": 13,
                     "averagePoints": 23.70125,
                     "totalPoints": 379.22,
                     "posRank": 5
@@ -1046,6 +1156,8 @@
                     "name": "Kyren Williams",
                     "slot": "RB",
                     "position": "RB",
+                    "team": "LAR",
+                    "bye": 10,
                     "averagePoints": 21.25,
                     "totalPoints": 255.0,
                     "posRank": 7
@@ -1054,6 +1166,8 @@
                     "name": "Rashee Rice",
                     "slot": "FLEX",
                     "position": "WR",
+                    "team": "KC",
+                    "bye": 10,
                     "averagePoints": 13.28125,
                     "totalPoints": 212.5,
                     "posRank": 27
@@ -1062,6 +1176,8 @@
                     "name": "Joe Mixon",
                     "slot": "RB",
                     "position": "RB",
+                    "team": "Hou",
+                    "bye": 7,
                     "averagePoints": 15.705882352941176,
                     "totalPoints": 267.0,
                     "posRank": 6
@@ -1070,6 +1186,8 @@
                     "name": "Saquon Barkley",
                     "slot": "Bench",
                     "position": "RB",
+                    "team": "Phi",
+                    "bye": 10,
                     "averagePoints": 15.942857142857141,
                     "totalPoints": 223.2,
                     "posRank": 13
@@ -1078,6 +1196,8 @@
                     "name": "Kyler Murray",
                     "slot": "Bench",
                     "position": "QB",
+                    "team": "Ari",
+                    "bye": 14,
                     "averagePoints": 20.795,
                     "totalPoints": 166.36,
                     "posRank": 27
@@ -1086,6 +1206,8 @@
                     "name": "Puka Nacua",
                     "slot": "Bench",
                     "position": "WR",
+                    "team": "LAR",
+                    "bye": 10,
                     "averagePoints": 17.558823529411764,
                     "totalPoints": 298.5,
                     "posRank": 4
@@ -1094,6 +1216,8 @@
                     "name": "Trey McBride",
                     "slot": "TE",
                     "position": "TE",
+                    "team": "Ari",
+                    "bye": 14,
                     "averagePoints": 10.676470588235293,
                     "totalPoints": 181.5,
                     "posRank": 7
@@ -1102,6 +1226,8 @@
                     "name": "Michael Pittman Jr.",
                     "slot": "IR",
                     "position": "WR",
+                    "team": "Ind",
+                    "bye": 11,
                     "averagePoints": 15.6375,
                     "totalPoints": 250.2,
                     "posRank": 13
@@ -1110,6 +1236,8 @@
                     "name": "Trevor Lawrence",
                     "slot": "Bench",
                     "position": "QB",
+                    "team": "Jax",
+                    "bye": 9,
                     "averagePoints": 19.03375,
                     "totalPoints": 304.54,
                     "posRank": 13
@@ -1118,6 +1246,8 @@
                     "name": "Matt Gay",
                     "slot": "K",
                     "position": "K",
+                    "team": "Ind",
+                    "bye": 11,
                     "averagePoints": 8.764705882352942,
                     "totalPoints": 149.0,
                     "posRank": 7
@@ -1126,6 +1256,8 @@
                     "name": "James Conner",
                     "slot": "Bench",
                     "position": "RB",
+                    "team": "Ari",
+                    "bye": 14,
                     "averagePoints": 15.5,
                     "totalPoints": 201.5,
                     "posRank": 18
@@ -1134,6 +1266,8 @@
                     "name": "Isaiah Likely",
                     "slot": "Bench",
                     "position": "TE",
+                    "team": "Bal",
+                    "bye": 13,
                     "averagePoints": 5.947058823529411,
                     "totalPoints": 101.1,
                     "posRank": 25
@@ -1142,6 +1276,8 @@
                     "name": "Eagles D/ST",
                     "slot": "D/ST",
                     "position": "D/ST",
+                    "team": "Phi",
+                    "bye": 10,
                     "averagePoints": 4.705882352941177,
                     "totalPoints": 80.0,
                     "posRank": 28
@@ -1150,6 +1286,8 @@
                     "name": "Clyde Edwards-Helaire",
                     "slot": "Bench",
                     "position": "RB",
+                    "team": "KC",
+                    "bye": 10,
                     "averagePoints": 4.673333333333333,
                     "totalPoints": 70.1,
                     "posRank": 58
@@ -1309,6 +1447,8 @@
                     "name": "Davante Adams",
                     "slot": "FLEX",
                     "position": "WR",
+                    "team": "LV",
+                    "bye": 13,
                     "averagePoints": 15.61176470588235,
                     "totalPoints": 265.4,
                     "posRank": 10
@@ -1317,6 +1457,8 @@
                     "name": "Justin Herbert",
                     "slot": "IR",
                     "position": "QB",
+                    "team": "LAC",
+                    "bye": 5,
                     "averagePoints": 21.089230769230767,
                     "totalPoints": 274.15999999999997,
                     "posRank": 17
@@ -1325,6 +1467,8 @@
                     "name": "Dallas Goedert",
                     "slot": "TE",
                     "position": "TE",
+                    "team": "Phi",
+                    "bye": 10,
                     "averagePoints": 9.735714285714286,
                     "totalPoints": 136.3,
                     "posRank": 14
@@ -1333,6 +1477,8 @@
                     "name": "Jonathan Taylor",
                     "slot": "Bench",
                     "position": "RB",
+                    "team": "Ind",
+                    "bye": 11,
                     "averagePoints": 15.640000000000004,
                     "totalPoints": 156.40000000000003,
                     "posRank": 33
@@ -1341,6 +1487,8 @@
                     "name": "David Montgomery",
                     "slot": "RB",
                     "position": "RB",
+                    "team": "Det",
+                    "bye": 9,
                     "averagePoints": 14.799999999999999,
                     "totalPoints": 207.2,
                     "posRank": 17
@@ -1349,6 +1497,8 @@
                     "name": "Brian Robinson Jr.",
                     "slot": "Bench",
                     "position": "RB",
+                    "team": "Wsh",
+                    "bye": 14,
                     "averagePoints": 13.206666666666669,
                     "totalPoints": 198.10000000000002,
                     "posRank": 21
@@ -1357,6 +1507,8 @@
                     "name": "Garrett Wilson",
                     "slot": "Bench",
                     "position": "WR",
+                    "team": "NYJ",
+                    "bye": 7,
                     "averagePoints": 12.541176470588235,
                     "totalPoints": 213.2,
                     "posRank": 26
@@ -1365,6 +1517,8 @@
                     "name": "Mike Evans",
                     "slot": "WR",
                     "position": "WR",
+                    "team": "TB",
+                    "bye": 5,
                     "averagePoints": 16.61764705882353,
                     "totalPoints": 282.5,
                     "posRank": 7
@@ -1373,6 +1527,8 @@
                     "name": "David Njoku",
                     "slot": "Bench",
                     "position": "TE",
+                    "team": "Cle",
+                    "bye": 5,
                     "averagePoints": 12.575,
                     "totalPoints": 201.2,
                     "posRank": 6
@@ -1381,6 +1537,8 @@
                     "name": "Jake Moody",
                     "slot": "K",
                     "position": "K",
+                    "team": "SF",
+                    "bye": 9,
                     "averagePoints": 7.470588235294118,
                     "totalPoints": 127.0,
                     "posRank": 20
@@ -1389,6 +1547,8 @@
                     "name": "DeMario Douglas",
                     "slot": "Bench",
                     "position": "WR",
+                    "team": "NE",
+                    "bye": 11,
                     "averagePoints": 7.6571428571428575,
                     "totalPoints": 107.2,
                     "posRank": 64
@@ -1397,6 +1557,8 @@
                     "name": "Ravens D/ST",
                     "slot": "D/ST",
                     "position": "D/ST",
+                    "team": "Bal",
+                    "bye": 13,
                     "averagePoints": 10.117647058823529,
                     "totalPoints": 172.0,
                     "posRank": 1
@@ -1405,6 +1567,8 @@
                     "name": "Chris Godwin",
                     "slot": "WR",
                     "position": "WR",
+                    "team": "TB",
+                    "bye": 5,
                     "averagePoints": 12.305882352941175,
                     "totalPoints": 209.2,
                     "posRank": 28
@@ -1413,6 +1577,8 @@
                     "name": "Zack Moss",
                     "slot": "Bench",
                     "position": "RB",
+                    "team": "Cin",
+                    "bye": 7,
                     "averagePoints": 12.114285714285716,
                     "totalPoints": 169.60000000000002,
                     "posRank": 31
@@ -1421,6 +1587,8 @@
                     "name": "Colts D/ST",
                     "slot": "Bench",
                     "position": "D/ST",
+                    "team": "Ind",
+                    "bye": 11,
                     "averagePoints": 7.235294117647059,
                     "totalPoints": 123.0,
                     "posRank": 12
@@ -1429,6 +1597,8 @@
                     "name": "Ezekiel Elliott",
                     "slot": "RB",
                     "position": "RB",
+                    "team": "NE",
+                    "bye": 11,
                     "averagePoints": 10.264705882352942,
                     "totalPoints": 174.5,
                     "posRank": 30
@@ -1437,6 +1607,8 @@
                     "name": "Joe Flacco",
                     "slot": "QB",
                     "position": "QB",
+                    "team": "Ind",
+                    "bye": 11,
                     "averagePoints": 25.368000000000002,
                     "totalPoints": 126.84,
                     "posRank": 30
@@ -1596,6 +1768,8 @@
                     "name": "Ja'Marr Chase",
                     "slot": "WR",
                     "position": "WR",
+                    "team": "Cin",
+                    "bye": 7,
                     "averagePoints": 16.42,
                     "totalPoints": 262.72,
                     "posRank": 11
@@ -1604,6 +1778,8 @@
                     "name": "A.J. Brown",
                     "slot": "WR",
                     "position": "WR",
+                    "team": "Phi",
+                    "bye": 10,
                     "averagePoints": 17.03529411764706,
                     "totalPoints": 289.6,
                     "posRank": 5
@@ -1612,6 +1788,8 @@
                     "name": "Mark Andrews",
                     "slot": "IR",
                     "position": "TE",
+                    "team": "Bal",
+                    "bye": 13,
                     "averagePoints": 13.540000000000001,
                     "totalPoints": 135.4,
                     "posRank": 15
@@ -1620,6 +1798,8 @@
                     "name": "Rachaad White",
                     "slot": "RB",
                     "position": "RB",
+                    "team": "TB",
+                    "bye": 5,
                     "averagePoints": 15.758823529411764,
                     "totalPoints": 267.9,
                     "posRank": 4
@@ -1628,6 +1808,8 @@
                     "name": "Alexander Mattison",
                     "slot": "Bench",
                     "position": "RB",
+                    "team": "LV",
+                    "bye": 13,
                     "averagePoints": 8.325,
                     "totalPoints": 133.2,
                     "posRank": 38
@@ -1636,6 +1818,8 @@
                     "name": "DJ Moore",
                     "slot": "Bench",
                     "position": "WR",
+                    "team": "Chi",
+                    "bye": 13,
                     "averagePoints": 16.852941176470587,
                     "totalPoints": 286.5,
                     "posRank": 6
@@ -1644,6 +1828,8 @@
                     "name": "Pat Freiermuth",
                     "slot": "Bench",
                     "position": "TE",
+                    "team": "Pit",
+                    "bye": 6,
                     "averagePoints": 6.3999999999999995,
                     "totalPoints": 76.8,
                     "posRank": 30
@@ -1652,6 +1838,8 @@
                     "name": "Jahan Dotson",
                     "slot": "Bench",
                     "position": "WR",
+                    "team": "Wsh",
+                    "bye": 14,
                     "averagePoints": 7.341176470588236,
                     "totalPoints": 124.80000000000001,
                     "posRank": 56
@@ -1660,6 +1848,8 @@
                     "name": "Isiah Pacheco",
                     "slot": "RB",
                     "position": "RB",
+                    "team": "KC",
+                    "bye": 10,
                     "averagePoints": 15.278571428571428,
                     "totalPoints": 213.9,
                     "posRank": 15
@@ -1668,6 +1858,8 @@
                     "name": "Harrison Butker",
                     "slot": "K",
                     "position": "K",
+                    "team": "KC",
+                    "bye": 10,
                     "averagePoints": 9.0,
                     "totalPoints": 153.0,
                     "posRank": 5
@@ -1676,6 +1868,8 @@
                     "name": "Nico Collins",
                     "slot": "FLEX",
                     "position": "WR",
+                    "team": "Hou",
+                    "bye": 7,
                     "averagePoints": 17.36,
                     "totalPoints": 260.4,
                     "posRank": 12
@@ -1684,6 +1878,8 @@
                     "name": "Rashee Rice",
                     "slot": "Bench",
                     "position": "WR",
+                    "team": "KC",
+                    "bye": 10,
                     "averagePoints": 13.28125,
                     "totalPoints": 212.5,
                     "posRank": 27
@@ -1692,6 +1888,8 @@
                     "name": "Jared Goff",
                     "slot": "QB",
                     "position": "QB",
+                    "team": "Det",
+                    "bye": 9,
                     "averagePoints": 20.53529411764706,
                     "totalPoints": 349.1,
                     "posRank": 7
@@ -1700,6 +1898,8 @@
                     "name": "Joshua Dobbs",
                     "slot": "Bench",
                     "position": "QB",
+                    "team": "SF",
+                    "bye": 9,
                     "averagePoints": 17.435384615384613,
                     "totalPoints": 226.66,
                     "posRank": 20
@@ -1708,6 +1908,8 @@
                     "name": "Isaiah Likely",
                     "slot": "TE",
                     "position": "TE",
+                    "team": "Bal",
+                    "bye": 13,
                     "averagePoints": 5.947058823529411,
                     "totalPoints": 101.1,
                     "posRank": 25
@@ -1716,6 +1918,8 @@
                     "name": "Ezekiel Elliott",
                     "slot": "Bench",
                     "position": "RB",
+                    "team": "NE",
+                    "bye": 11,
                     "averagePoints": 10.264705882352942,
                     "totalPoints": 174.5,
                     "posRank": 30
@@ -1724,6 +1928,8 @@
                     "name": "Bills D/ST",
                     "slot": "D/ST",
                     "position": "D/ST",
+                    "team": "Buf",
+                    "bye": 13,
                     "averagePoints": 9.294117647058824,
                     "totalPoints": 158.0,
                     "posRank": 5
@@ -1883,6 +2089,8 @@
                     "name": "Bijan Robinson",
                     "slot": "RB",
                     "position": "RB",
+                    "team": "Atl",
+                    "bye": 11,
                     "averagePoints": 14.488235294117647,
                     "totalPoints": 246.3,
                     "posRank": 9
@@ -1891,6 +2099,8 @@
                     "name": "Tony Pollard",
                     "slot": "RB",
                     "position": "RB",
+                    "team": "Ten",
+                    "bye": 7,
                     "averagePoints": 13.094117647058823,
                     "totalPoints": 222.6,
                     "posRank": 14
@@ -1899,6 +2109,8 @@
                     "name": "Chris Olave",
                     "slot": "Bench",
                     "position": "WR",
+                    "team": "NO",
+                    "bye": 11,
                     "averagePoints": 14.45625,
                     "totalPoints": 231.3,
                     "posRank": 16
@@ -1907,6 +2119,8 @@
                     "name": "DeVonta Smith",
                     "slot": "WR",
                     "position": "WR",
+                    "team": "Phi",
+                    "bye": 10,
                     "averagePoints": 14.225000000000001,
                     "totalPoints": 227.60000000000002,
                     "posRank": 19
@@ -1915,6 +2129,8 @@
                     "name": "Justin Fields",
                     "slot": "Bench",
                     "position": "QB",
+                    "team": "Pit",
+                    "bye": 6,
                     "averagePoints": 20.16769230769231,
                     "totalPoints": 262.18,
                     "posRank": 19
@@ -1923,6 +2139,8 @@
                     "name": "Breece Hall",
                     "slot": "FLEX",
                     "position": "RB",
+                    "team": "NYJ",
+                    "bye": 7,
                     "averagePoints": 17.08823529411765,
                     "totalPoints": 290.5,
                     "posRank": 2
@@ -1931,6 +2149,8 @@
                     "name": "Miles Sanders",
                     "slot": "Bench",
                     "position": "RB",
+                    "team": "Car",
+                    "bye": 7,
                     "averagePoints": 5.4750000000000005,
                     "totalPoints": 87.60000000000001,
                     "posRank": 52
@@ -1939,6 +2159,8 @@
                     "name": "DJ Moore",
                     "slot": "WR",
                     "position": "WR",
+                    "team": "Chi",
+                    "bye": 13,
                     "averagePoints": 16.852941176470587,
                     "totalPoints": 286.5,
                     "posRank": 6
@@ -1947,6 +2169,8 @@
                     "name": "D'Andre Swift",
                     "slot": "Bench",
                     "position": "RB",
+                    "team": "Chi",
+                    "bye": 13,
                     "averagePoints": 12.45625,
                     "totalPoints": 199.3,
                     "posRank": 20
@@ -1955,6 +2179,8 @@
                     "name": "Tyler Allgeier",
                     "slot": "Bench",
                     "position": "RB",
+                    "team": "Atl",
+                    "bye": 11,
                     "averagePoints": 8.094117647058823,
                     "totalPoints": 137.6,
                     "posRank": 36
@@ -1963,6 +2189,8 @@
                     "name": "Jordan Addison",
                     "slot": "Bench",
                     "position": "WR",
+                    "team": "Min",
+                    "bye": 13,
                     "averagePoints": 13.01764705882353,
                     "totalPoints": 221.3,
                     "posRank": 23
@@ -1971,6 +2199,8 @@
                     "name": "Cowboys D/ST",
                     "slot": "D/ST",
                     "position": "D/ST",
+                    "team": "Dal",
+                    "bye": 7,
                     "averagePoints": 10.117647058823529,
                     "totalPoints": 172.0,
                     "posRank": 1
@@ -1979,6 +2209,8 @@
                     "name": "Jake Ferguson",
                     "slot": "TE",
                     "position": "TE",
+                    "team": "Dal",
+                    "bye": 7,
                     "averagePoints": 10.417647058823531,
                     "totalPoints": 177.10000000000002,
                     "posRank": 9
@@ -1987,6 +2219,8 @@
                     "name": "Dak Prescott",
                     "slot": "QB",
                     "position": "QB",
+                    "team": "Dal",
+                    "bye": 7,
                     "averagePoints": 24.402352941176474,
                     "totalPoints": 414.84000000000003,
                     "posRank": 2
@@ -1995,6 +2229,8 @@
                     "name": "Justin Tucker",
                     "slot": "Bench",
                     "position": "K",
+                    "team": "Bal",
+                    "bye": 13,
                     "averagePoints": 9.117647058823529,
                     "totalPoints": 155.0,
                     "posRank": 2
@@ -2003,6 +2239,8 @@
                     "name": "Chris Boswell",
                     "slot": "K",
                     "position": "K",
+                    "team": "Pit",
+                    "bye": 6,
                     "averagePoints": 7.705882352941177,
                     "totalPoints": 131.0,
                     "posRank": 17
@@ -2162,6 +2400,8 @@
                     "name": "DeAndre Hopkins",
                     "slot": "WR",
                     "position": "WR",
+                    "team": "Ten",
+                    "bye": 7,
                     "averagePoints": 13.15294117647059,
                     "totalPoints": 223.60000000000002,
                     "posRank": 22
@@ -2170,6 +2410,8 @@
                     "name": "Kenneth Walker III",
                     "slot": "FLEX",
                     "position": "RB",
+                    "team": "Sea",
+                    "bye": 5,
                     "averagePoints": 13.293333333333333,
                     "totalPoints": 199.4,
                     "posRank": 19
@@ -2178,6 +2420,8 @@
                     "name": "Alvin Kamara",
                     "slot": "Bench",
                     "position": "RB",
+                    "team": "NO",
+                    "bye": 11,
                     "averagePoints": 17.923076923076923,
                     "totalPoints": 233.0,
                     "posRank": 11
@@ -2186,6 +2430,8 @@
                     "name": "Brandon Aiyuk",
                     "slot": "WR",
                     "position": "WR",
+                    "team": "SF",
+                    "bye": 9,
                     "averagePoints": 15.575000000000001,
                     "totalPoints": 249.20000000000002,
                     "posRank": 14
@@ -2194,6 +2440,8 @@
                     "name": "49ers D/ST",
                     "slot": "D/ST",
                     "position": "D/ST",
+                    "team": "SF",
+                    "bye": 9,
                     "averagePoints": 8.0,
                     "totalPoints": 136.0,
                     "posRank": 8
@@ -2202,6 +2450,8 @@
                     "name": "Harrison Butker",
                     "slot": "K",
                     "position": "K",
+                    "team": "KC",
+                    "bye": 10,
                     "averagePoints": 9.0,
                     "totalPoints": 153.0,
                     "posRank": 5
@@ -2210,6 +2460,8 @@
                     "name": "Brock Purdy",
                     "slot": "Bench",
                     "position": "QB",
+                    "team": "SF",
+                    "bye": 9,
                     "averagePoints": 22.35,
                     "totalPoints": 357.6,
                     "posRank": 6
@@ -2218,6 +2470,8 @@
                     "name": "Taysom Hill",
                     "slot": "TE",
                     "position": "TE",
+                    "team": "NO",
+                    "bye": 11,
                     "averagePoints": 9.094999999999999,
                     "totalPoints": 145.51999999999998,
                     "posRank": 12
@@ -2226,6 +2480,8 @@
                     "name": "Jaylen Waddle",
                     "slot": "Bench",
                     "position": "WR",
+                    "team": "Mia",
+                    "bye": 10,
                     "averagePoints": 14.185714285714287,
                     "totalPoints": 198.60000000000002,
                     "posRank": 34
@@ -2234,6 +2490,8 @@
                     "name": "James Cook",
                     "slot": "RB",
                     "position": "RB",
+                    "team": "Buf",
+                    "bye": 13,
                     "averagePoints": 13.688235294117646,
                     "totalPoints": 232.7,
                     "posRank": 12
@@ -2242,6 +2500,8 @@
                     "name": "Jayden Reed",
                     "slot": "Bench",
                     "position": "WR",
+                    "team": "GB",
+                    "bye": 6,
                     "averagePoints": 13.575000000000001,
                     "totalPoints": 217.20000000000002,
                     "posRank": 25
@@ -2250,6 +2510,8 @@
                     "name": "Chuba Hubbard",
                     "slot": "RB",
                     "position": "RB",
+                    "team": "Car",
+                    "bye": 7,
                     "averagePoints": 10.735294117647058,
                     "totalPoints": 182.5,
                     "posRank": 27
@@ -2258,6 +2520,8 @@
                     "name": "Christian Watson",
                     "slot": "IR",
                     "position": "WR",
+                    "team": "GB",
+                    "bye": 6,
                     "averagePoints": 10.13,
                     "totalPoints": 101.30000000000001,
                     "posRank": 68
@@ -2266,6 +2530,8 @@
                     "name": "Kareem Hunt",
                     "slot": "Bench",
                     "position": "RB",
+                    "team": "Cle",
+                    "bye": 5,
                     "averagePoints": 7.9,
                     "totalPoints": 118.5,
                     "posRank": 41
@@ -2274,6 +2540,8 @@
                     "name": "Matthew Stafford",
                     "slot": "Bench",
                     "position": "QB",
+                    "team": "LAR",
+                    "bye": 10,
                     "averagePoints": 19.40666666666667,
                     "totalPoints": 291.1,
                     "posRank": 16
@@ -2282,6 +2550,8 @@
                     "name": "Juwan Johnson",
                     "slot": "Bench",
                     "position": "TE",
+                    "team": "NO",
+                    "bye": 11,
                     "averagePoints": 7.523076923076924,
                     "totalPoints": 97.80000000000001,
                     "posRank": 26
@@ -2290,6 +2560,8 @@
                     "name": "Derek Carr",
                     "slot": "QB",
                     "position": "QB",
+                    "team": "NO",
+                    "bye": 11,
                     "averagePoints": 17.12470588235294,
                     "totalPoints": 291.12,
                     "posRank": 15
@@ -2449,6 +2721,8 @@
                     "name": "Derrick Henry",
                     "slot": "RB",
                     "position": "RB",
+                    "team": "Bal",
+                    "bye": 13,
                     "averagePoints": 14.74470588235294,
                     "totalPoints": 250.66,
                     "posRank": 8
@@ -2457,6 +2731,8 @@
                     "name": "CeeDee Lamb",
                     "slot": "WR",
                     "position": "WR",
+                    "team": "Dal",
+                    "bye": 7,
                     "averagePoints": 23.71764705882353,
                     "totalPoints": 403.20000000000005,
                     "posRank": 1
@@ -2465,6 +2741,8 @@
                     "name": "Patrick Mahomes",
                     "slot": "QB",
                     "position": "QB",
+                    "team": "KC",
+                    "bye": 10,
                     "averagePoints": 20.88875,
                     "totalPoints": 334.22,
                     "posRank": 8
@@ -2473,6 +2751,8 @@
                     "name": "Aaron Jones",
                     "slot": "Bench",
                     "position": "RB",
+                    "team": "Min",
+                    "bye": 13,
                     "averagePoints": 12.263636363636364,
                     "totalPoints": 134.9,
                     "posRank": 37
@@ -2481,6 +2761,8 @@
                     "name": "Keenan Allen",
                     "slot": "Bench",
                     "position": "WR",
+                    "team": "Chi",
+                    "bye": 13,
                     "averagePoints": 21.604615384615386,
                     "totalPoints": 280.86,
                     "posRank": 8
@@ -2489,6 +2771,8 @@
                     "name": "Evan Engram",
                     "slot": "TE",
                     "position": "TE",
+                    "team": "Jax",
+                    "bye": 9,
                     "averagePoints": 13.547058823529412,
                     "totalPoints": 230.3,
                     "posRank": 2
@@ -2497,6 +2781,8 @@
                     "name": "Christian Kirk",
                     "slot": "Bench",
                     "position": "WR",
+                    "team": "Jax",
+                    "bye": 9,
                     "averagePoints": 12.521666666666667,
                     "totalPoints": 150.26,
                     "posRank": 47
@@ -2505,6 +2791,8 @@
                     "name": "Tyler Lockett",
                     "slot": "FLEX",
                     "position": "WR",
+                    "team": "Sea",
+                    "bye": 5,
                     "averagePoints": 11.905882352941177,
                     "totalPoints": 202.4,
                     "posRank": 32
@@ -2513,6 +2801,8 @@
                     "name": "Daniel Carlson",
                     "slot": "Bench",
                     "position": "K",
+                    "team": "LV",
+                    "bye": 13,
                     "averagePoints": 6.882352941176471,
                     "totalPoints": 117.0,
                     "posRank": 24
@@ -2521,6 +2811,8 @@
                     "name": "Michael Pittman Jr.",
                     "slot": "WR",
                     "position": "WR",
+                    "team": "Ind",
+                    "bye": 11,
                     "averagePoints": 15.6375,
                     "totalPoints": 250.2,
                     "posRank": 13
@@ -2529,6 +2821,8 @@
                     "name": "D'Andre Swift",
                     "slot": "RB",
                     "position": "RB",
+                    "team": "Chi",
+                    "bye": 13,
                     "averagePoints": 12.45625,
                     "totalPoints": 199.3,
                     "posRank": 20
@@ -2537,6 +2831,8 @@
                     "name": "Derek Carr",
                     "slot": "Bench",
                     "position": "QB",
+                    "team": "NO",
+                    "bye": 11,
                     "averagePoints": 17.12470588235294,
                     "totalPoints": 291.12,
                     "posRank": 15
@@ -2545,6 +2841,8 @@
                     "name": "49ers D/ST",
                     "slot": "D/ST",
                     "position": "D/ST",
+                    "team": "SF",
+                    "bye": 9,
                     "averagePoints": 8.0,
                     "totalPoints": 136.0,
                     "posRank": 8
@@ -2553,6 +2851,8 @@
                     "name": "Tyler Higbee",
                     "slot": "Bench",
                     "position": "TE",
+                    "team": "LAR",
+                    "bye": 10,
                     "averagePoints": 7.233333333333333,
                     "totalPoints": 108.5,
                     "posRank": 24
@@ -2561,6 +2861,8 @@
                     "name": "K.J. Osborn",
                     "slot": "Bench",
                     "position": "WR",
+                    "team": "NE",
+                    "bye": 11,
                     "averagePoints": 7.5,
                     "totalPoints": 120.0,
                     "posRank": 57
@@ -2569,6 +2871,8 @@
                     "name": "Cameron Dicker",
                     "slot": "K",
                     "position": "K",
+                    "team": "LAC",
+                    "bye": 5,
                     "averagePoints": 8.764705882352942,
                     "totalPoints": 149.0,
                     "posRank": 7
@@ -2728,6 +3032,8 @@
                     "name": "Christian McCaffrey",
                     "slot": "RB",
                     "position": "RB",
+                    "team": "SF",
+                    "bye": 9,
                     "averagePoints": 24.456249999999997,
                     "totalPoints": 391.29999999999995,
                     "posRank": 1
@@ -2736,6 +3042,8 @@
                     "name": "Tony Pollard",
                     "slot": "RB",
                     "position": "RB",
+                    "team": "Ten",
+                    "bye": 7,
                     "averagePoints": 13.094117647058823,
                     "totalPoints": 222.6,
                     "posRank": 14
@@ -2744,6 +3052,8 @@
                     "name": "Tee Higgins",
                     "slot": "FLEX",
                     "position": "WR",
+                    "team": "Cin",
+                    "bye": 7,
                     "averagePoints": 11.466666666666669,
                     "totalPoints": 137.60000000000002,
                     "posRank": 51
@@ -2752,6 +3062,8 @@
                     "name": "Josh Allen",
                     "slot": "QB",
                     "position": "QB",
+                    "team": "Buf",
+                    "bye": 13,
                     "averagePoints": 26.508235294117647,
                     "totalPoints": 450.64,
                     "posRank": 1
@@ -2760,6 +3072,8 @@
                     "name": "DeAndre Hopkins",
                     "slot": "WR",
                     "position": "WR",
+                    "team": "Ten",
+                    "bye": 7,
                     "averagePoints": 13.15294117647059,
                     "totalPoints": 223.60000000000002,
                     "posRank": 22
@@ -2768,6 +3082,8 @@
                     "name": "George Kittle",
                     "slot": "TE",
                     "position": "TE",
+                    "team": "SF",
+                    "bye": 9,
                     "averagePoints": 12.7,
                     "totalPoints": 203.2,
                     "posRank": 5
@@ -2776,6 +3092,8 @@
                     "name": "Jerry Jeudy",
                     "slot": "Bench",
                     "position": "WR",
+                    "team": "Cle",
+                    "bye": 5,
                     "averagePoints": 8.8625,
                     "totalPoints": 141.8,
                     "posRank": 50
@@ -2784,6 +3102,8 @@
                     "name": "Trevor Lawrence",
                     "slot": "Bench",
                     "position": "QB",
+                    "team": "Jax",
+                    "bye": 9,
                     "averagePoints": 19.03375,
                     "totalPoints": 304.54,
                     "posRank": 13
@@ -2792,6 +3112,8 @@
                     "name": "Gabe Davis",
                     "slot": "Bench",
                     "position": "WR",
+                    "team": "Jax",
+                    "bye": 9,
                     "averagePoints": 9.494117647058824,
                     "totalPoints": 161.4,
                     "posRank": 41
@@ -2800,6 +3122,8 @@
                     "name": "Puka Nacua",
                     "slot": "WR",
                     "position": "WR",
+                    "team": "LAR",
+                    "bye": 10,
                     "averagePoints": 17.558823529411764,
                     "totalPoints": 298.5,
                     "posRank": 4
@@ -2808,6 +3132,8 @@
                     "name": "Kareem Hunt",
                     "slot": "Bench",
                     "position": "RB",
+                    "team": "Cle",
+                    "bye": 5,
                     "averagePoints": 7.9,
                     "totalPoints": 118.5,
                     "posRank": 41
@@ -2816,6 +3142,8 @@
                     "name": "Noah Brown",
                     "slot": "Bench",
                     "position": "WR",
+                    "team": "Hou",
+                    "bye": 7,
                     "averagePoints": 10.16,
                     "totalPoints": 101.6,
                     "posRank": 67
@@ -2824,6 +3152,8 @@
                     "name": "Jayden Reed",
                     "slot": "Bench",
                     "position": "WR",
+                    "team": "GB",
+                    "bye": 6,
                     "averagePoints": 13.575000000000001,
                     "totalPoints": 217.20000000000002,
                     "posRank": 25
@@ -2832,6 +3162,8 @@
                     "name": "Devin Singletary",
                     "slot": "Bench",
                     "position": "RB",
+                    "team": "NYG",
+                    "bye": 13,
                     "averagePoints": 9.961176470588237,
                     "totalPoints": 169.34000000000003,
                     "posRank": 32
@@ -2840,6 +3172,8 @@
                     "name": "Browns D/ST",
                     "slot": "D/ST",
                     "position": "D/ST",
+                    "team": "Cle",
+                    "bye": 5,
                     "averagePoints": 9.764705882352942,
                     "totalPoints": 166.0,
                     "posRank": 3
@@ -2848,6 +3182,8 @@
                     "name": "Nick Folk",
                     "slot": "K",
                     "position": "K",
+                    "team": "Ten",
+                    "bye": 7,
                     "averagePoints": 7.647058823529412,
                     "totalPoints": 130.0,
                     "posRank": 18
@@ -3007,6 +3343,8 @@
                     "name": "Austin Ekeler",
                     "slot": "RB",
                     "position": "RB",
+                    "team": "Wsh",
+                    "bye": 14,
                     "averagePoints": 13.242857142857144,
                     "totalPoints": 185.4,
                     "posRank": 26
@@ -3015,6 +3353,8 @@
                     "name": "Cooper Kupp",
                     "slot": "WR",
                     "position": "WR",
+                    "team": "LAR",
+                    "bye": 10,
                     "averagePoints": 13.700000000000001,
                     "totalPoints": 164.4,
                     "posRank": 40
@@ -3023,6 +3363,8 @@
                     "name": "Jaylen Waddle",
                     "slot": "WR",
                     "position": "WR",
+                    "team": "Mia",
+                    "bye": 10,
                     "averagePoints": 14.185714285714287,
                     "totalPoints": 198.60000000000002,
                     "posRank": 34
@@ -3031,6 +3373,8 @@
                     "name": "Najee Harris",
                     "slot": "FLEX",
                     "position": "RB",
+                    "team": "Pit",
+                    "bye": 6,
                     "averagePoints": 11.5,
                     "totalPoints": 195.5,
                     "posRank": 23
@@ -3039,6 +3383,8 @@
                     "name": "Dameon Pierce",
                     "slot": "RB",
                     "position": "RB",
+                    "team": "Hou",
+                    "bye": 7,
                     "averagePoints": 5.907142857142857,
                     "totalPoints": 82.69999999999999,
                     "posRank": 55
@@ -3047,6 +3393,8 @@
                     "name": "Chris Godwin",
                     "slot": "Bench",
                     "position": "WR",
+                    "team": "TB",
+                    "bye": 5,
                     "averagePoints": 12.305882352941175,
                     "totalPoints": 209.2,
                     "posRank": 28
@@ -3055,6 +3403,8 @@
                     "name": "Kyle Pitts",
                     "slot": "TE",
                     "position": "TE",
+                    "team": "Atl",
+                    "bye": 11,
                     "averagePoints": 8.076470588235296,
                     "totalPoints": 137.3,
                     "posRank": 13
@@ -3063,6 +3413,8 @@
                     "name": "Jonathan Taylor",
                     "slot": "Bench",
                     "position": "RB",
+                    "team": "Ind",
+                    "bye": 11,
                     "averagePoints": 15.640000000000004,
                     "totalPoints": 156.40000000000003,
                     "posRank": 33
@@ -3071,6 +3423,8 @@
                     "name": "Brandin Cooks",
                     "slot": "Bench",
                     "position": "WR",
+                    "team": "Dal",
+                    "bye": 7,
                     "averagePoints": 10.825,
                     "totalPoints": 173.2,
                     "posRank": 38
@@ -3079,6 +3433,8 @@
                     "name": "Treylon Burks",
                     "slot": "Bench",
                     "position": "WR",
+                    "team": "Ten",
+                    "bye": 7,
                     "averagePoints": 3.627272727272728,
                     "totalPoints": 39.900000000000006,
                     "posRank": 123
@@ -3087,6 +3443,8 @@
                     "name": "Jakobi Meyers",
                     "slot": "Bench",
                     "position": "WR",
+                    "team": "LV",
+                    "bye": 13,
                     "averagePoints": 13.786249999999999,
                     "totalPoints": 220.57999999999998,
                     "posRank": 24
@@ -3095,6 +3453,8 @@
                     "name": "Jake Elliott",
                     "slot": "K",
                     "position": "K",
+                    "team": "Phi",
+                    "bye": 10,
                     "averagePoints": 9.117647058823529,
                     "totalPoints": 155.0,
                     "posRank": 2
@@ -3103,6 +3463,8 @@
                     "name": "Justice Hill",
                     "slot": "Bench",
                     "position": "RB",
+                    "team": "Bal",
+                    "bye": 13,
                     "averagePoints": 6.831250000000001,
                     "totalPoints": 109.30000000000001,
                     "posRank": 44
@@ -3111,6 +3473,8 @@
                     "name": "Brock Purdy",
                     "slot": "QB",
                     "position": "QB",
+                    "team": "SF",
+                    "bye": 9,
                     "averagePoints": 22.35,
                     "totalPoints": 357.6,
                     "posRank": 6
@@ -3119,6 +3483,8 @@
                     "name": "Royce Freeman",
                     "slot": "Bench",
                     "position": "RB",
+                    "team": "LAR",
+                    "bye": 10,
                     "averagePoints": 3.3000000000000003,
                     "totalPoints": 46.2,
                     "posRank": 67
@@ -3127,6 +3493,8 @@
                     "name": "Seahawks D/ST",
                     "slot": "D/ST",
                     "position": "D/ST",
+                    "team": "Sea",
+                    "bye": 5,
                     "averagePoints": 4.705882352941177,
                     "totalPoints": 80.0,
                     "posRank": 28
@@ -3286,6 +3654,8 @@
                     "name": "Travis Kelce",
                     "slot": "TE",
                     "position": "TE",
+                    "team": "KC",
+                    "bye": 10,
                     "averagePoints": 14.626666666666667,
                     "totalPoints": 219.4,
                     "posRank": 3
@@ -3294,6 +3664,8 @@
                     "name": "DK Metcalf",
                     "slot": "WR",
                     "position": "WR",
+                    "team": "Sea",
+                    "bye": 5,
                     "averagePoints": 14.0875,
                     "totalPoints": 225.4,
                     "posRank": 21
@@ -3302,6 +3674,8 @@
                     "name": "Lamar Jackson",
                     "slot": "Bench",
                     "position": "QB",
+                    "team": "Bal",
+                    "bye": 13,
                     "averagePoints": 23.70125,
                     "totalPoints": 379.22,
                     "posRank": 5
@@ -3310,6 +3684,8 @@
                     "name": "Amari Cooper",
                     "slot": "WR",
                     "position": "WR",
+                    "team": "Cle",
+                    "bye": 5,
                     "averagePoints": 15.133333333333333,
                     "totalPoints": 227.0,
                     "posRank": 20
@@ -3318,6 +3694,8 @@
                     "name": "Justin Tucker",
                     "slot": "K",
                     "position": "K",
+                    "team": "Bal",
+                    "bye": 13,
                     "averagePoints": 9.117647058823529,
                     "totalPoints": 155.0,
                     "posRank": 2
@@ -3326,6 +3704,8 @@
                     "name": "Terry McLaurin",
                     "slot": "Bench",
                     "position": "WR",
+                    "team": "Wsh",
+                    "bye": 14,
                     "averagePoints": 12.305882352941175,
                     "totalPoints": 209.2,
                     "posRank": 28
@@ -3334,6 +3714,8 @@
                     "name": "Cowboys D/ST",
                     "slot": "D/ST",
                     "position": "D/ST",
+                    "team": "Dal",
+                    "bye": 7,
                     "averagePoints": 10.117647058823529,
                     "totalPoints": 172.0,
                     "posRank": 1
@@ -3342,6 +3724,8 @@
                     "name": "Raheem Mostert",
                     "slot": "Bench",
                     "position": "RB",
+                    "team": "Mia",
+                    "bye": 10,
                     "averagePoints": 17.846666666666668,
                     "totalPoints": 267.7,
                     "posRank": 5
@@ -3350,6 +3734,8 @@
                     "name": "Jerome Ford",
                     "slot": "RB",
                     "position": "RB",
+                    "team": "Cle",
+                    "bye": 5,
                     "averagePoints": 12.423529411764706,
                     "totalPoints": 211.20000000000002,
                     "posRank": 16
@@ -3358,6 +3744,8 @@
                     "name": "De'Von Achane",
                     "slot": "RB",
                     "position": "RB",
+                    "team": "Mia",
+                    "bye": 10,
                     "averagePoints": 17.336363636363636,
                     "totalPoints": 190.7,
                     "posRank": 24
@@ -3366,6 +3754,8 @@
                     "name": "Gus Edwards",
                     "slot": "Bench",
                     "position": "RB",
+                    "team": "LAC",
+                    "bye": 5,
                     "averagePoints": 11.0,
                     "totalPoints": 187.0,
                     "posRank": 25
@@ -3374,6 +3764,8 @@
                     "name": "Dak Prescott",
                     "slot": "QB",
                     "position": "QB",
+                    "team": "Dal",
+                    "bye": 7,
                     "averagePoints": 24.402352941176474,
                     "totalPoints": 414.84000000000003,
                     "posRank": 2
@@ -3382,6 +3774,8 @@
                     "name": "Jason Sanders",
                     "slot": "Bench",
                     "position": "K",
+                    "team": "Mia",
+                    "bye": 10,
                     "averagePoints": 8.352941176470589,
                     "totalPoints": 142.0,
                     "posRank": 11
@@ -3390,6 +3784,8 @@
                     "name": "David Njoku",
                     "slot": "FLEX",
                     "position": "TE",
+                    "team": "Cle",
+                    "bye": 5,
                     "averagePoints": 12.575,
                     "totalPoints": 201.2,
                     "posRank": 6
@@ -3398,6 +3794,8 @@
                     "name": "Justin Fields",
                     "slot": "Bench",
                     "position": "QB",
+                    "team": "Pit",
+                    "bye": 6,
                     "averagePoints": 20.16769230769231,
                     "totalPoints": 262.18,
                     "posRank": 19
@@ -3406,6 +3804,8 @@
                     "name": "Baker Mayfield",
                     "slot": "Bench",
                     "position": "QB",
+                    "team": "TB",
+                    "bye": 5,
                     "averagePoints": 19.415294117647058,
                     "totalPoints": 330.06,
                     "posRank": 9
@@ -3565,6 +3965,8 @@
                     "name": "Justin Jefferson",
                     "slot": "WR",
                     "position": "WR",
+                    "team": "Min",
+                    "bye": 13,
                     "averagePoints": 20.22,
                     "totalPoints": 202.2,
                     "posRank": 33
@@ -3573,6 +3975,8 @@
                     "name": "Amon-Ra St. Brown",
                     "slot": "WR",
                     "position": "WR",
+                    "team": "Det",
+                    "bye": 9,
                     "averagePoints": 20.68125,
                     "totalPoints": 330.9,
                     "posRank": 3
@@ -3581,6 +3985,8 @@
                     "name": "Josh Jacobs",
                     "slot": "RB",
                     "position": "RB",
+                    "team": "GB",
+                    "bye": 6,
                     "averagePoints": 13.930769230769231,
                     "totalPoints": 181.1,
                     "posRank": 28
@@ -3589,6 +3995,8 @@
                     "name": "Rhamondre Stevenson",
                     "slot": "IR",
                     "position": "RB",
+                    "team": "NE",
+                    "bye": 11,
                     "averagePoints": 12.141666666666667,
                     "totalPoints": 145.70000000000002,
                     "posRank": 35
@@ -3597,6 +4005,8 @@
                     "name": "Calvin Ridley",
                     "slot": "FLEX",
                     "position": "WR",
+                    "team": "Ten",
+                    "bye": 7,
                     "averagePoints": 13.523529411764706,
                     "totalPoints": 229.9,
                     "posRank": 18
@@ -3605,6 +4015,8 @@
                     "name": "Diontae Johnson",
                     "slot": "Bench",
                     "position": "WR",
+                    "team": "Car",
+                    "bye": 7,
                     "averagePoints": 10.907142857142857,
                     "totalPoints": 152.7,
                     "posRank": 45
@@ -3613,6 +4025,8 @@
                     "name": "Kenneth Walker III",
                     "slot": "RB",
                     "position": "RB",
+                    "team": "Sea",
+                    "bye": 5,
                     "averagePoints": 13.293333333333333,
                     "totalPoints": 199.4,
                     "posRank": 19
@@ -3621,6 +4035,8 @@
                     "name": "Drake London",
                     "slot": "Bench",
                     "position": "WR",
+                    "team": "Atl",
+                    "bye": 11,
                     "averagePoints": 10.89875,
                     "totalPoints": 174.38,
                     "posRank": 37
@@ -3629,6 +4045,8 @@
                     "name": "Dallas Goedert",
                     "slot": "Bench",
                     "position": "TE",
+                    "team": "Phi",
+                    "bye": 10,
                     "averagePoints": 9.735714285714286,
                     "totalPoints": 136.3,
                     "posRank": 14
@@ -3637,6 +4055,8 @@
                     "name": "Jordan Addison",
                     "slot": "Bench",
                     "position": "WR",
+                    "team": "Min",
+                    "bye": 13,
                     "averagePoints": 13.01764705882353,
                     "totalPoints": 221.3,
                     "posRank": 23
@@ -3645,6 +4065,8 @@
                     "name": "Evan McPherson",
                     "slot": "K",
                     "position": "K",
+                    "team": "Cin",
+                    "bye": 7,
                     "averagePoints": 7.9411764705882355,
                     "totalPoints": 135.0,
                     "posRank": 14
@@ -3653,6 +4075,8 @@
                     "name": "Chiefs D/ST",
                     "slot": "D/ST",
                     "position": "D/ST",
+                    "team": "KC",
+                    "bye": 10,
                     "averagePoints": 8.235294117647058,
                     "totalPoints": 140.0,
                     "posRank": 6
@@ -3661,6 +4085,8 @@
                     "name": "Tank Dell",
                     "slot": "IR",
                     "position": "WR",
+                    "team": "Hou",
+                    "bye": 7,
                     "averagePoints": 15.0,
                     "totalPoints": 165.0,
                     "posRank": 39
@@ -3669,6 +4095,8 @@
                     "name": "C.J. Stroud",
                     "slot": "Bench",
                     "position": "QB",
+                    "team": "Hou",
+                    "bye": 7,
                     "averagePoints": 21.468,
                     "totalPoints": 322.02,
                     "posRank": 11
@@ -3677,6 +4105,8 @@
                     "name": "Kyler Murray",
                     "slot": "QB",
                     "position": "QB",
+                    "team": "Ari",
+                    "bye": 14,
                     "averagePoints": 20.795,
                     "totalPoints": 166.36,
                     "posRank": 27
@@ -3685,6 +4115,8 @@
                     "name": "Dalton Kincaid",
                     "slot": "TE",
                     "position": "TE",
+                    "team": "Buf",
+                    "bye": 13,
                     "averagePoints": 9.39375,
                     "totalPoints": 150.3,
                     "posRank": 11
@@ -3693,6 +4125,8 @@
                     "name": "Jaylen Warren",
                     "slot": "Bench",
                     "position": "RB",
+                    "team": "Pit",
+                    "bye": 6,
                     "averagePoints": 11.552941176470588,
                     "totalPoints": 196.4,
                     "posRank": 22
@@ -3701,6 +4135,8 @@
                     "name": "Tyjae Spears",
                     "slot": "Bench",
                     "position": "RB",
+                    "team": "Ten",
+                    "bye": 7,
                     "averagePoints": 9.047058823529412,
                     "totalPoints": 153.8,
                     "posRank": 34
@@ -3860,6 +4296,8 @@
                     "name": "Travis Kelce",
                     "slot": "TE",
                     "position": "TE",
+                    "team": "KC",
+                    "bye": 10,
                     "averagePoints": 14.626666666666667,
                     "totalPoints": 219.4,
                     "posRank": 3
@@ -3868,6 +4306,8 @@
                     "name": "CeeDee Lamb",
                     "slot": "WR",
                     "position": "WR",
+                    "team": "Dal",
+                    "bye": 7,
                     "averagePoints": 23.71764705882353,
                     "totalPoints": 403.20000000000005,
                     "posRank": 1
@@ -3876,6 +4316,8 @@
                     "name": "Jalen Hurts",
                     "slot": "QB",
                     "position": "QB",
+                    "team": "Phi",
+                    "bye": 10,
                     "averagePoints": 23.69529411764706,
                     "totalPoints": 402.82,
                     "posRank": 3
@@ -3884,6 +4326,8 @@
                     "name": "Jahmyr Gibbs",
                     "slot": "RB",
                     "position": "RB",
+                    "team": "Det",
+                    "bye": 9,
                     "averagePoints": 16.14,
                     "totalPoints": 242.1,
                     "posRank": 10
@@ -3892,6 +4336,8 @@
                     "name": "Diontae Johnson",
                     "slot": "Bench",
                     "position": "WR",
+                    "team": "Car",
+                    "bye": 7,
                     "averagePoints": 10.907142857142857,
                     "totalPoints": 152.7,
                     "posRank": 45
@@ -3900,6 +4346,8 @@
                     "name": "Isiah Pacheco",
                     "slot": "RB",
                     "position": "RB",
+                    "team": "KC",
+                    "bye": 10,
                     "averagePoints": 15.278571428571428,
                     "totalPoints": 213.9,
                     "posRank": 15
@@ -3908,6 +4356,8 @@
                     "name": "Jared Goff",
                     "slot": "Bench",
                     "position": "QB",
+                    "team": "Det",
+                    "bye": 9,
                     "averagePoints": 20.53529411764706,
                     "totalPoints": 349.1,
                     "posRank": 7
@@ -3916,6 +4366,8 @@
                     "name": "Jake Elliott",
                     "slot": "K",
                     "position": "K",
+                    "team": "Phi",
+                    "bye": 10,
                     "averagePoints": 9.117647058823529,
                     "totalPoints": 155.0,
                     "posRank": 2
@@ -3924,6 +4376,8 @@
                     "name": "Sam LaPorta",
                     "slot": "Bench",
                     "position": "TE",
+                    "team": "Det",
+                    "bye": 9,
                     "averagePoints": 14.076470588235296,
                     "totalPoints": 239.3,
                     "posRank": 1
@@ -3932,6 +4386,8 @@
                     "name": "Chiefs D/ST",
                     "slot": "D/ST",
                     "position": "D/ST",
+                    "team": "KC",
+                    "bye": 10,
                     "averagePoints": 8.235294117647058,
                     "totalPoints": 140.0,
                     "posRank": 6
@@ -3940,6 +4396,8 @@
                     "name": "Adam Thielen",
                     "slot": "Bench",
                     "position": "WR",
+                    "team": "Car",
+                    "bye": 7,
                     "averagePoints": 13.588235294117647,
                     "totalPoints": 231.0,
                     "posRank": 17
@@ -3948,6 +4406,8 @@
                     "name": "Deebo Samuel",
                     "slot": "WR",
                     "position": "WR",
+                    "team": "SF",
+                    "bye": 9,
                     "averagePoints": 16.246666666666666,
                     "totalPoints": 243.7,
                     "posRank": 15
@@ -3956,6 +4416,8 @@
                     "name": "Javonte Williams",
                     "slot": "Bench",
                     "position": "RB",
+                    "team": "Den",
+                    "bye": 9,
                     "averagePoints": 11.200000000000001,
                     "totalPoints": 179.20000000000002,
                     "posRank": 29
@@ -3964,6 +4426,8 @@
                     "name": "Gus Edwards",
                     "slot": "Bench",
                     "position": "RB",
+                    "team": "LAC",
+                    "bye": 5,
                     "averagePoints": 11.0,
                     "totalPoints": 187.0,
                     "posRank": 25
@@ -3972,6 +4436,8 @@
                     "name": "Tee Higgins",
                     "slot": "FLEX",
                     "position": "WR",
+                    "team": "Cin",
+                    "bye": 7,
                     "averagePoints": 11.466666666666669,
                     "totalPoints": 137.60000000000002,
                     "posRank": 51
@@ -3980,6 +4446,8 @@
                     "name": "Chase McLaughlin",
                     "slot": "Bench",
                     "position": "K",
+                    "team": "TB",
+                    "bye": 5,
                     "averagePoints": 7.882352941176471,
                     "totalPoints": 134.0,
                     "posRank": 15
@@ -4139,6 +4607,8 @@
                     "name": "Christian McCaffrey",
                     "slot": "RB",
                     "position": "RB",
+                    "team": "SF",
+                    "bye": 9,
                     "averagePoints": 24.456249999999997,
                     "totalPoints": 391.29999999999995,
                     "posRank": 1
@@ -4147,6 +4617,8 @@
                     "name": "DK Metcalf",
                     "slot": "WR",
                     "position": "WR",
+                    "team": "Sea",
+                    "bye": 5,
                     "averagePoints": 14.0875,
                     "totalPoints": 225.4,
                     "posRank": 21
@@ -4155,6 +4627,8 @@
                     "name": "Najee Harris",
                     "slot": "Bench",
                     "position": "RB",
+                    "team": "Pit",
+                    "bye": 6,
                     "averagePoints": 11.5,
                     "totalPoints": 195.5,
                     "posRank": 23
@@ -4163,6 +4637,8 @@
                     "name": "Evan Engram",
                     "slot": "TE",
                     "position": "TE",
+                    "team": "Jax",
+                    "bye": 9,
                     "averagePoints": 13.547058823529412,
                     "totalPoints": 230.3,
                     "posRank": 2
@@ -4171,6 +4647,8 @@
                     "name": "Drake London",
                     "slot": "Bench",
                     "position": "WR",
+                    "team": "Atl",
+                    "bye": 11,
                     "averagePoints": 10.89875,
                     "totalPoints": 174.38,
                     "posRank": 37
@@ -4179,6 +4657,8 @@
                     "name": "Khalil Herbert",
                     "slot": "Bench",
                     "position": "RB",
+                    "team": "Chi",
+                    "bye": 13,
                     "averagePoints": 9.375,
                     "totalPoints": 112.5,
                     "posRank": 43
@@ -4187,6 +4667,8 @@
                     "name": "Zay Flowers",
                     "slot": "WR",
                     "position": "WR",
+                    "team": "Bal",
+                    "bye": 13,
                     "averagePoints": 12.9,
                     "totalPoints": 206.4,
                     "posRank": 31
@@ -4195,6 +4677,8 @@
                     "name": "Austin Ekeler",
                     "slot": "RB",
                     "position": "RB",
+                    "team": "Wsh",
+                    "bye": 14,
                     "averagePoints": 13.242857142857144,
                     "totalPoints": 185.4,
                     "posRank": 26
@@ -4203,6 +4687,8 @@
                     "name": "Josh Allen",
                     "slot": "QB",
                     "position": "QB",
+                    "team": "Buf",
+                    "bye": 13,
                     "averagePoints": 26.508235294117647,
                     "totalPoints": 450.64,
                     "posRank": 1
@@ -4211,6 +4697,8 @@
                     "name": "De'Von Achane",
                     "slot": "FLEX",
                     "position": "RB",
+                    "team": "Mia",
+                    "bye": 10,
                     "averagePoints": 17.336363636363636,
                     "totalPoints": 190.7,
                     "posRank": 24
@@ -4219,6 +4707,8 @@
                     "name": "Cameron Dicker",
                     "slot": "K",
                     "position": "K",
+                    "team": "LAC",
+                    "bye": 5,
                     "averagePoints": 8.764705882352942,
                     "totalPoints": 149.0,
                     "posRank": 7
@@ -4227,6 +4717,8 @@
                     "name": "Cole Kmet",
                     "slot": "Bench",
                     "position": "TE",
+                    "team": "Chi",
+                    "bye": 13,
                     "averagePoints": 10.65294117647059,
                     "totalPoints": 181.10000000000002,
                     "posRank": 8
@@ -4235,6 +4727,8 @@
                     "name": "Jerome Ford",
                     "slot": "Bench",
                     "position": "RB",
+                    "team": "Cle",
+                    "bye": 5,
                     "averagePoints": 12.423529411764706,
                     "totalPoints": 211.20000000000002,
                     "posRank": 16
@@ -4243,6 +4737,8 @@
                     "name": "Marquise Brown",
                     "slot": "Bench",
                     "position": "WR",
+                    "team": "KC",
+                    "bye": 10,
                     "averagePoints": 9.62142857142857,
                     "totalPoints": 134.7,
                     "posRank": 52
@@ -4251,6 +4747,8 @@
                     "name": "Russell Wilson",
                     "slot": "Bench",
                     "position": "QB",
+                    "team": "Pit",
+                    "bye": 6,
                     "averagePoints": 20.59333333333333,
                     "totalPoints": 308.9,
                     "posRank": 12
@@ -4259,6 +4757,8 @@
                     "name": "Broncos D/ST",
                     "slot": "D/ST",
                     "position": "D/ST",
+                    "team": "Den",
+                    "bye": 9,
                     "averagePoints": 5.764705882352941,
                     "totalPoints": 98.0,
                     "posRank": 21
@@ -4418,6 +4918,8 @@
                     "name": "Davante Adams",
                     "slot": "WR",
                     "position": "WR",
+                    "team": "LV",
+                    "bye": 13,
                     "averagePoints": 15.61176470588235,
                     "totalPoints": 265.4,
                     "posRank": 10
@@ -4426,6 +4928,8 @@
                     "name": "Saquon Barkley",
                     "slot": "RB",
                     "position": "RB",
+                    "team": "Phi",
+                    "bye": 10,
                     "averagePoints": 15.942857142857141,
                     "totalPoints": 223.2,
                     "posRank": 13
@@ -4434,6 +4938,8 @@
                     "name": "Chris Olave",
                     "slot": "Bench",
                     "position": "WR",
+                    "team": "NO",
+                    "bye": 11,
                     "averagePoints": 14.45625,
                     "totalPoints": 231.3,
                     "posRank": 16
@@ -4442,6 +4948,8 @@
                     "name": "DeVonta Smith",
                     "slot": "Bench",
                     "position": "WR",
+                    "team": "Phi",
+                    "bye": 10,
                     "averagePoints": 14.225000000000001,
                     "totalPoints": 227.60000000000002,
                     "posRank": 19
@@ -4450,6 +4958,8 @@
                     "name": "Breece Hall",
                     "slot": "RB",
                     "position": "RB",
+                    "team": "NYJ",
+                    "bye": 7,
                     "averagePoints": 17.08823529411765,
                     "totalPoints": 290.5,
                     "posRank": 2
@@ -4458,6 +4968,8 @@
                     "name": "Justin Herbert",
                     "slot": "Bench",
                     "position": "QB",
+                    "team": "LAC",
+                    "bye": 5,
                     "averagePoints": 21.089230769230767,
                     "totalPoints": 274.15999999999997,
                     "posRank": 17
@@ -4466,6 +4978,8 @@
                     "name": "James Conner",
                     "slot": "Bench",
                     "position": "RB",
+                    "team": "Ari",
+                    "bye": 14,
                     "averagePoints": 15.5,
                     "totalPoints": 201.5,
                     "posRank": 18
@@ -4474,6 +4988,8 @@
                     "name": "James Cook",
                     "slot": "FLEX",
                     "position": "RB",
+                    "team": "Buf",
+                    "bye": 13,
                     "averagePoints": 13.688235294117646,
                     "totalPoints": 232.7,
                     "posRank": 12
@@ -4482,6 +4998,8 @@
                     "name": "Brandon Aiyuk",
                     "slot": "WR",
                     "position": "WR",
+                    "team": "SF",
+                    "bye": 9,
                     "averagePoints": 15.575000000000001,
                     "totalPoints": 249.20000000000002,
                     "posRank": 14
@@ -4490,6 +5008,8 @@
                     "name": "Cole Kmet",
                     "slot": "Bench",
                     "position": "TE",
+                    "team": "Chi",
+                    "bye": 13,
                     "averagePoints": 10.65294117647059,
                     "totalPoints": 181.10000000000002,
                     "posRank": 8
@@ -4498,6 +5018,8 @@
                     "name": "Ravens D/ST",
                     "slot": "Bench",
                     "position": "D/ST",
+                    "team": "Bal",
+                    "bye": 13,
                     "averagePoints": 10.117647058823529,
                     "totalPoints": 172.0,
                     "posRank": 1
@@ -4506,6 +5028,8 @@
                     "name": "Jake Ferguson",
                     "slot": "TE",
                     "position": "TE",
+                    "team": "Dal",
+                    "bye": 7,
                     "averagePoints": 10.417647058823531,
                     "totalPoints": 177.10000000000002,
                     "posRank": 9
@@ -4514,6 +5038,8 @@
                     "name": "David Montgomery",
                     "slot": "Bench",
                     "position": "RB",
+                    "team": "Det",
+                    "bye": 9,
                     "averagePoints": 14.799999999999999,
                     "totalPoints": 207.2,
                     "posRank": 17
@@ -4522,6 +5048,8 @@
                     "name": "Jordan Love",
                     "slot": "QB",
                     "position": "QB",
+                    "team": "GB",
+                    "bye": 6,
                     "averagePoints": 22.532941176470587,
                     "totalPoints": 383.06,
                     "posRank": 4
@@ -4530,6 +5058,8 @@
                     "name": "Brandon Aubrey",
                     "slot": "K",
                     "position": "K",
+                    "team": "Dal",
+                    "bye": 7,
                     "averagePoints": 10.588235294117647,
                     "totalPoints": 180.0,
                     "posRank": 1
@@ -4538,6 +5068,8 @@
                     "name": "Falcons D/ST",
                     "slot": "D/ST",
                     "position": "D/ST",
+                    "team": "Atl",
+                    "bye": 11,
                     "averagePoints": 5.411764705882353,
                     "totalPoints": 92.0,
                     "posRank": 23
@@ -4697,6 +5229,8 @@
                     "name": "Darren Waller",
                     "slot": "TE",
                     "position": "TE",
+                    "team": "NYG",
+                    "bye": 13,
                     "averagePoints": 9.433333333333334,
                     "totalPoints": 113.2,
                     "posRank": 22
@@ -4705,6 +5239,8 @@
                     "name": "Amari Cooper",
                     "slot": "WR",
                     "position": "WR",
+                    "team": "Cle",
+                    "bye": 5,
                     "averagePoints": 15.133333333333333,
                     "totalPoints": 227.0,
                     "posRank": 20
@@ -4713,6 +5249,8 @@
                     "name": "Terry McLaurin",
                     "slot": "Bench",
                     "position": "WR",
+                    "team": "Wsh",
+                    "bye": 14,
                     "averagePoints": 12.305882352941175,
                     "totalPoints": 209.2,
                     "posRank": 28
@@ -4721,6 +5259,8 @@
                     "name": "Courtland Sutton",
                     "slot": "Bench",
                     "position": "WR",
+                    "team": "Den",
+                    "bye": 9,
                     "averagePoints": 11.8875,
                     "totalPoints": 190.2,
                     "posRank": 35
@@ -4729,6 +5269,8 @@
                     "name": "Nico Collins",
                     "slot": "FLEX",
                     "position": "WR",
+                    "team": "Hou",
+                    "bye": 7,
                     "averagePoints": 17.36,
                     "totalPoints": 260.4,
                     "posRank": 12
@@ -4737,6 +5279,8 @@
                     "name": "Josh Jacobs",
                     "slot": "RB",
                     "position": "RB",
+                    "team": "GB",
+                    "bye": 6,
                     "averagePoints": 13.930769230769231,
                     "totalPoints": 181.1,
                     "posRank": 28
@@ -4745,6 +5289,8 @@
                     "name": "Nick Folk",
                     "slot": "K",
                     "position": "K",
+                    "team": "Ten",
+                    "bye": 7,
                     "averagePoints": 7.647058823529412,
                     "totalPoints": 130.0,
                     "posRank": 18
@@ -4753,6 +5299,8 @@
                     "name": "Calvin Ridley",
                     "slot": "WR",
                     "position": "WR",
+                    "team": "Ten",
+                    "bye": 7,
                     "averagePoints": 13.523529411764706,
                     "totalPoints": 229.9,
                     "posRank": 18
@@ -4761,6 +5309,8 @@
                     "name": "Alexander Mattison",
                     "slot": "Bench",
                     "position": "RB",
+                    "team": "LV",
+                    "bye": 13,
                     "averagePoints": 8.325,
                     "totalPoints": 133.2,
                     "posRank": 38
@@ -4769,6 +5319,8 @@
                     "name": "Dalton Kincaid",
                     "slot": "Bench",
                     "position": "TE",
+                    "team": "Buf",
+                    "bye": 13,
                     "averagePoints": 9.39375,
                     "totalPoints": 150.3,
                     "posRank": 11
@@ -4777,6 +5329,8 @@
                     "name": "C.J. Stroud",
                     "slot": "QB",
                     "position": "QB",
+                    "team": "Hou",
+                    "bye": 7,
                     "averagePoints": 21.468,
                     "totalPoints": 322.02,
                     "posRank": 11
@@ -4785,6 +5339,8 @@
                     "name": "Christian Kirk",
                     "slot": "IR",
                     "position": "WR",
+                    "team": "Jax",
+                    "bye": 9,
                     "averagePoints": 12.521666666666667,
                     "totalPoints": 150.26,
                     "posRank": 47
@@ -4793,6 +5349,8 @@
                     "name": "Tyler Lockett",
                     "slot": "Bench",
                     "position": "WR",
+                    "team": "Sea",
+                    "bye": 5,
                     "averagePoints": 11.905882352941177,
                     "totalPoints": 202.4,
                     "posRank": 32
@@ -4801,6 +5359,8 @@
                     "name": "Aaron Jones",
                     "slot": "Bench",
                     "position": "RB",
+                    "team": "Min",
+                    "bye": 13,
                     "averagePoints": 12.263636363636364,
                     "totalPoints": 134.9,
                     "posRank": 37
@@ -4809,6 +5369,8 @@
                     "name": "Jaylen Warren",
                     "slot": "RB",
                     "position": "RB",
+                    "team": "Pit",
+                    "bye": 6,
                     "averagePoints": 11.552941176470588,
                     "totalPoints": 196.4,
                     "posRank": 22
@@ -4817,6 +5379,8 @@
                     "name": "Kyle Pitts",
                     "slot": "Bench",
                     "position": "TE",
+                    "team": "Atl",
+                    "bye": 11,
                     "averagePoints": 8.076470588235296,
                     "totalPoints": 137.3,
                     "posRank": 13
@@ -4825,6 +5389,8 @@
                     "name": "Buccaneers D/ST",
                     "slot": "D/ST",
                     "position": "D/ST",
+                    "team": "TB",
+                    "bye": 5,
                     "averagePoints": 6.352941176470588,
                     "totalPoints": 108.0,
                     "posRank": 18
@@ -4984,6 +5550,8 @@
                     "name": "Bijan Robinson",
                     "slot": "FLEX",
                     "position": "RB",
+                    "team": "Atl",
+                    "bye": 11,
                     "averagePoints": 14.488235294117647,
                     "totalPoints": 246.3,
                     "posRank": 9
@@ -4992,6 +5560,8 @@
                     "name": "Stefon Diggs",
                     "slot": "WR",
                     "position": "WR",
+                    "team": "Buf",
+                    "bye": 13,
                     "averagePoints": 16.105882352941176,
                     "totalPoints": 273.8,
                     "posRank": 9
@@ -5000,6 +5570,8 @@
                     "name": "Travis Etienne Jr.",
                     "slot": "RB",
                     "position": "RB",
+                    "team": "Jax",
+                    "bye": 9,
                     "averagePoints": 16.611764705882354,
                     "totalPoints": 282.40000000000003,
                     "posRank": 3
@@ -5008,6 +5580,8 @@
                     "name": "Jalen Hurts",
                     "slot": "QB",
                     "position": "QB",
+                    "team": "Phi",
+                    "bye": 10,
                     "averagePoints": 23.69529411764706,
                     "totalPoints": 402.82,
                     "posRank": 3
@@ -5016,6 +5590,8 @@
                     "name": "T.J. Hockenson",
                     "slot": "IR",
                     "position": "TE",
+                    "team": "Min",
+                    "bye": 13,
                     "averagePoints": 14.6,
                     "totalPoints": 219.0,
                     "posRank": 4
@@ -5024,6 +5600,8 @@
                     "name": "Mike Evans",
                     "slot": "WR",
                     "position": "WR",
+                    "team": "TB",
+                    "bye": 5,
                     "averagePoints": 16.61764705882353,
                     "totalPoints": 282.5,
                     "posRank": 7
@@ -5032,6 +5610,8 @@
                     "name": "Courtland Sutton",
                     "slot": "IR",
                     "position": "WR",
+                    "team": "Den",
+                    "bye": 9,
                     "averagePoints": 11.8875,
                     "totalPoints": 190.2,
                     "posRank": 35
@@ -5040,6 +5620,8 @@
                     "name": "Steelers D/ST",
                     "slot": "Bench",
                     "position": "D/ST",
+                    "team": "Pit",
+                    "bye": 6,
                     "averagePoints": 7.470588235294118,
                     "totalPoints": 127.0,
                     "posRank": 11
@@ -5048,6 +5630,8 @@
                     "name": "Adam Thielen",
                     "slot": "Bench",
                     "position": "WR",
+                    "team": "Car",
+                    "bye": 7,
                     "averagePoints": 13.588235294117647,
                     "totalPoints": 231.0,
                     "posRank": 17
@@ -5056,6 +5640,8 @@
                     "name": "Kyren Williams",
                     "slot": "RB",
                     "position": "RB",
+                    "team": "LAR",
+                    "bye": 10,
                     "averagePoints": 21.25,
                     "totalPoints": 255.0,
                     "posRank": 7
@@ -5064,6 +5650,8 @@
                     "name": "Taysom Hill",
                     "slot": "Bench",
                     "position": "TE",
+                    "team": "NO",
+                    "bye": 11,
                     "averagePoints": 9.094999999999999,
                     "totalPoints": 145.51999999999998,
                     "posRank": 12
@@ -5072,6 +5660,8 @@
                     "name": "Chuba Hubbard",
                     "slot": "Bench",
                     "position": "RB",
+                    "team": "Car",
+                    "bye": 7,
                     "averagePoints": 10.735294117647058,
                     "totalPoints": 182.5,
                     "posRank": 27
@@ -5080,6 +5670,8 @@
                     "name": "Trey McBride",
                     "slot": "TE",
                     "position": "TE",
+                    "team": "Ari",
+                    "bye": 14,
                     "averagePoints": 10.676470588235293,
                     "totalPoints": 181.5,
                     "posRank": 7
@@ -5088,6 +5680,8 @@
                     "name": "Dolphins D/ST",
                     "slot": "D/ST",
                     "position": "D/ST",
+                    "team": "Mia",
+                    "bye": 10,
                     "averagePoints": 8.176470588235293,
                     "totalPoints": 139.0,
                     "posRank": 7
@@ -5096,6 +5690,8 @@
                     "name": "Cairo Santos",
                     "slot": "K",
                     "position": "K",
+                    "team": "Chi",
+                    "bye": 13,
                     "averagePoints": 9.117647058823529,
                     "totalPoints": 155.0,
                     "posRank": 2
@@ -5104,6 +5700,8 @@
                     "name": "Colts D/ST",
                     "slot": "Bench",
                     "position": "D/ST",
+                    "team": "Ind",
+                    "bye": 11,
                     "averagePoints": 7.235294117647059,
                     "totalPoints": 123.0,
                     "posRank": 12
