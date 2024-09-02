@@ -38,8 +38,7 @@ def getDetailedMatchup(year,week):
     team_response_A = requests.get(url_A, params={"view": "mTeam"}).json()
     team_response_B = requests.get(url_B, params={"view": "mTeam"}).json()
 
-    with open('test.json','w') as f:
-        json.dump(rosters_response_A, f)
+    
 
     rosters = {"teams":[]}
 
@@ -54,11 +53,13 @@ def getDetailedMatchup(year,week):
             for player in team["roster"]["entries"]:
                 new_player = {}
                 new_player['points'] = 0
+                new_player['projPoints'] = 0
 
                 for stat in player["playerPoolEntry"]["player"]["stats"]:
                     if stat["scoringPeriodId"] == week and stat["statSourceId"] == 0:
                         new_player['points'] = stat['appliedTotal']
-                        break
+                    if stat["scoringPeriodId"] == week and stat["statSourceId"] == 1 and stat["statSplitTypeId"] == 1:
+                        new_player["projPoints"] = stat['appliedTotal']
 
                 
                 new_player['name'] = player["playerPoolEntry"]["player"]["fullName"]
@@ -104,6 +105,11 @@ def getDetailedMatchup(year,week):
             team['Name'] = 'Tyler'
         if team['Name'] == 'Brian Jr' and team['Team'] == "P U ":
             team['Name'] = 'Brian Sr'
+    
+    with open('test.json','w') as f:
+        json.dump(rosters, f)
 
 
     return rosters
+
+getDetailedMatchup(2024,1)
