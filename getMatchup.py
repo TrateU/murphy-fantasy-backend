@@ -105,11 +105,5 @@ def getDetailedMatchup(year,week):
             team['Name'] = 'Tyler'
         if team['Name'] == 'Brian Jr' and team['Team'] == "P U ":
             team['Name'] = 'Brian Sr'
-    
-    with open('test.json','w') as f:
-        json.dump(rosters, f)
-
 
     return rosters
-
-getDetailedMatchup(2024,1)
