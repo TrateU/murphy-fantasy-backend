@@ -15,7 +15,6 @@ def getTeamDetails(year):
     team_response_A = requests.get(url_A, params={"view": "mTeam"}).json()
     team_response_B = requests.get(url_B, params={"view": "mTeam"}).json()
     proTeam_response = requests.get(url, params={"view":"proTeamSchedules_wl"}).json()
-
     
 
     teamStats = getTeamStats.getStats(year)

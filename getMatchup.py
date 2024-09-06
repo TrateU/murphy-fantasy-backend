@@ -45,6 +45,7 @@ def getDetailedMatchup(year,week):
     def populateRosters(rosterResponse, teamResponse, week):
         for team in rosterResponse["teams"]:
             add_team = {}
+            add_team['totalPoints'] = 0
             for fullTeam in teamResponse["teams"]:
                 if fullTeam['id'] == team['id']:
                     add_team['Team'] = fullTeam['name']
@@ -83,6 +84,8 @@ def getDetailedMatchup(year,week):
                     case 23:
                         new_player["position"] = "FLEX"
                     
+                if new_player['position'] != 'Bench' and new_player['position'] != 'IR':
+                    add_team['totalPoints'] += new_player['points']
                 add_team['roster'].append(new_player)
 
             rosters["teams"].append(add_team)
