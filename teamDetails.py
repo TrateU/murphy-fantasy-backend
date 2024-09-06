@@ -76,7 +76,7 @@ def getTeamDetails(year):
                 new_player['averagePoints'] = 0
                 new_player['totalPoints'] = 0
                 for stat in player['playerPoolEntry']['player']['stats']:
-                    if stat['scoringPeriodId'] == 0 and stat['statSourceId'] == 0:
+                    if stat['scoringPeriodId'] == 0 and stat['statSourceId'] == 0 and stat['seasonId'] == 2024:
                         new_player['averagePoints'] = stat['appliedAverage']
                         new_player['totalPoints'] = stat['appliedTotal']
                         break

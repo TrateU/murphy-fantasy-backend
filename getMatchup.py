@@ -38,7 +38,8 @@ def getDetailedMatchup(year,week):
     team_response_A = requests.get(url_A, params={"view": "mTeam"}).json()
     team_response_B = requests.get(url_B, params={"view": "mTeam"}).json()
 
-    
+    with open('test.json', 'w') as f:
+        json.dump(rosters_response_A,f)
 
     rosters = {"teams":[]}
 
@@ -110,3 +111,5 @@ def getDetailedMatchup(year,week):
             team['Name'] = 'Brian Sr'
 
     return rosters
+
+getDetailedMatchup(2024,1)
