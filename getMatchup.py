@@ -48,6 +48,7 @@ def getDetailedMatchup(year,week):
             add_team = {}
             add_team['totalPoints'] = 0
             add_team['leftToPlay'] = 0
+            add_team['projPoints'] = 0
             for fullTeam in teamResponse["teams"]:
                 if fullTeam['id'] == team['id']:
                     add_team['Team'] = fullTeam['name']
@@ -90,6 +91,11 @@ def getDetailedMatchup(year,week):
                     add_team['totalPoints'] += new_player['points']
                     if not player['playerPoolEntry']['lineupLocked']:
                         add_team['leftToPlay'] += 1
+                        add_team['projPoints'] += new_player['projPoints']
+                    else:
+                        new_player['projPoints'] = new_player['points']
+                        add_team['projPoints'] += new_player['points']
+                        
                 add_team['roster'].append(new_player)
 
             rosters["teams"].append(add_team)
