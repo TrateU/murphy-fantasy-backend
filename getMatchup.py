@@ -88,7 +88,7 @@ def getDetailedMatchup(year,week):
                     
                 if new_player['position'] != 'Bench' and new_player['position'] != 'IR':
                     add_team['totalPoints'] += new_player['points']
-                    if not player['playerPoolEntry']['linupLocked']:
+                    if not player['playerPoolEntry']['lineupLocked']:
                         add_team['leftToPlay'] += 1
                 add_team['roster'].append(new_player)
 
