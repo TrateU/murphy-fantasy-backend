@@ -100,14 +100,16 @@ def getDetailedMatchup(year,week):
                     
                 if new_player['position'] != 'Bench' and new_player['position'] != 'IR':
                     add_team['totalPoints'] += new_player['points']
-                    add_team['projPoints'] += new_player['projPoints']
                     match new_player['status']:
                         case 'STATUS_SCHEDULED':
                             add_team["leftToPlay"] += 1
+                            add_team['projPoints'] += new_player['projPoints']
                         case 'STATUS_IN_PROGRESS':
                             add_team['inPlay'] += 1
+                            add_team['projPoints'] += new_player['projPoints']
                         case 'STATUS_FINAL':
                             add_team['donePlay'] += 1
+                            add_team['projPoints'] += new_player['points']
 
 
                         
