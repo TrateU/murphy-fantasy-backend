@@ -38,8 +38,8 @@ def getDetailedMatchup(year,week):
     team_response_A = requests.get(url_A, params={"view": "mTeam"}).json()
     team_response_B = requests.get(url_B, params={"view": "mTeam"}).json()
 
-    #with open('test.json', 'w') as f:
-     #   json.dump(rosters_response_A,f)
+   # with open('test.json', 'w') as f:
+       # json.dump(team_response_A,f)
 
     rosters = {"teams":[]}
 
@@ -89,12 +89,9 @@ def getDetailedMatchup(year,week):
                     
                 if new_player['position'] != 'Bench' and new_player['position'] != 'IR':
                     add_team['totalPoints'] += new_player['points']
-                    if not player['playerPoolEntry']['lineupLocked']:
-                        add_team['leftToPlay'] += 1
-                        add_team['projPoints'] += new_player['projPoints']
-                    else:
-                        new_player['projPoints'] = new_player['points']
-                        add_team['projPoints'] += new_player['points']
+                    if player['playerPoolEntry']['lineupLocked']:
+                        add_team['leftToPlay'] += 1   
+                    add_team['projPoints'] += new_player['projPoints']
                         
                 add_team['roster'].append(new_player)
 
