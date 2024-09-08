@@ -1,6 +1,7 @@
 import requests
 import json
 import pandas as pd
+import liveStatus
 
 def getDetailedMatchup(year,week):
     # Define league IDs and year
@@ -37,16 +38,19 @@ def getDetailedMatchup(year,week):
     rosters_response_B = requests.get(url_B, params={"view": "mRoster","scoringPeriodId":week}).json()
     team_response_A = requests.get(url_A, params={"view": "mTeam"}).json()
     team_response_B = requests.get(url_B, params={"view": "mTeam"}).json()
+    
 
-   # with open('test.json', 'w') as f:
-       # json.dump(team_response_A,f)
+    
 
     rosters = {"teams":[]}
+    proTeamInfo = liveStatus.getLiveStatus(year,week)
 
     def populateRosters(rosterResponse, teamResponse, week):
         for team in rosterResponse["teams"]:
             add_team = {}
             add_team['totalPoints'] = 0
+            add_team['donePlay'] = 0
+            add_team['inPlay'] = 0
             add_team['leftToPlay'] = 0
             add_team['projPoints'] = 0
             for fullTeam in teamResponse["teams"]:
@@ -58,6 +62,13 @@ def getDetailedMatchup(year,week):
                 new_player = {}
                 new_player['points'] = 0
                 new_player['projPoints'] = 0
+                new_player['status'] = ''
+                new_player['proTeamId'] = player['playerPoolEntry']['player']['proTeamId']
+
+                for proTeam in proTeamInfo['teams']:
+                    if proTeam['id'] == new_player['proTeamId']:
+                        new_player["proTeamAbbrev"] = proTeam["abbrev"]
+                        new_player["status"] = proTeam['gameStatus']
 
                 for stat in player["playerPoolEntry"]["player"]["stats"]:
                     if stat["scoringPeriodId"] == week and stat["statSourceId"] == 0:
@@ -89,9 +100,16 @@ def getDetailedMatchup(year,week):
                     
                 if new_player['position'] != 'Bench' and new_player['position'] != 'IR':
                     add_team['totalPoints'] += new_player['points']
-                    if player['playerPoolEntry']['lineupLocked']:
-                        add_team['leftToPlay'] += 1   
                     add_team['projPoints'] += new_player['projPoints']
+                    match new_player['status']:
+                        case 'STATUS_SCHEDULED':
+                            add_team["leftToPlay"] += 1
+                        case 'STATUS_IN_PROGRESS':
+                            add_team['inPlay'] += 1
+                        case 'STATUS_FINAL':
+                            add_team['donePlay'] += 1
+
+
                         
                 add_team['roster'].append(new_player)
 
@@ -116,6 +134,8 @@ def getDetailedMatchup(year,week):
         if team['Name'] == 'Brian Jr' and team['Team'] == "P U ":
             team['Name'] = 'Brian Sr'
 
+    #with open('test.json', 'w') as f:
+       # json.dump(rosters,f)
     return rosters
 
 #getDetailedMatchup(2024,1)

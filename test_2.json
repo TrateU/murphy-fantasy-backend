@@ -1,0 +1,184 @@
+{
+    "teams": [
+        {
+            "id": 1,
+            "name": "Falcons",
+            "abbrev": "ATL",
+            "gameStatus": "STATUS_FINAL"
+        },
+        {
+            "id": 2,
+            "name": "Bills",
+            "abbrev": "BUF",
+            "gameStatus": "STATUS_FINAL"
+        },
+        {
+            "id": 3,
+            "name": "Bears",
+            "abbrev": "CHI",
+            "gameStatus": "STATUS_FINAL"
+        },
+        {
+            "id": 4,
+            "name": "Bengals",
+            "abbrev": "CIN",
+            "gameStatus": "STATUS_FINAL"
+        },
+        {
+            "id": 5,
+            "name": "Browns",
+            "abbrev": "CLE",
+            "gameStatus": "STATUS_IN_PROGRESS"
+        },
+        {
+            "id": 6,
+            "name": "Cowboys",
+            "abbrev": "DAL",
+            "gameStatus": "STATUS_IN_PROGRESS"
+        },
+        {
+            "id": 7,
+            "name": "Broncos",
+            "abbrev": "DEN",
+            "gameStatus": "STATUS_FINAL"
+        },
+        {
+            "id": 8,
+            "name": "Lions",
+            "abbrev": "DET",
+            "gameStatus": "STATUS_SCHEDULED"
+        },
+        {
+            "id": 9,
+            "name": "Packers",
+            "abbrev": "GB",
+            "gameStatus": "STATUS_FINAL"
+        },
+        {
+            "id": 10,
+            "name": "Titans",
+            "abbrev": "TEN",
+            "gameStatus": "STATUS_FINAL"
+        },
+        {
+            "id": 11,
+            "name": "Colts",
+            "abbrev": "IND",
+            "gameStatus": "STATUS_FINAL"
+        },
+        {
+            "id": 12,
+            "name": "Chiefs",
+            "abbrev": "KC",
+            "gameStatus": "STATUS_FINAL"
+        },
+        {
+            "id": 13,
+            "name": "Raiders",
+            "abbrev": "LV",
+            "gameStatus": "STATUS_FINAL"
+        },
+        {
+            "id": 14,
+            "name": "Rams",
+            "abbrev": "LAR",
+            "gameStatus": "STATUS_SCHEDULED"
+        },
+        {
+            "id": 15,
+            "name": "Dolphins",
+            "abbrev": "MIA",
+            "gameStatus": "STATUS_FINAL"
+        },
+        {
+            "id": 16,
+            "name": "Vikings",
+            "abbrev": "MIN",
+            "gameStatus": "STATUS_FINAL"
+        },
+        {
+            "id": 17,
+            "name": "Patriots",
+            "abbrev": "NE",
+            "gameStatus": "STATUS_FINAL"
+        },
+        {
+            "id": 18,
+            "name": "Saints",
+            "abbrev": "NO",
+            "gameStatus": "STATUS_FINAL"
+        },
+        {
+            "id": 19,
+            "name": "Giants",
+            "abbrev": "NYG",
+            "gameStatus": "STATUS_FINAL"
+        },
+        {
+            "id": 20,
+            "name": "Jets",
+            "abbrev": "NYJ",
+            "gameStatus": "STATUS_SCHEDULED"
+        },
+        {
+            "id": 21,
+            "name": "Eagles",
+            "abbrev": "PHI",
+            "gameStatus": "STATUS_FINAL"
+        },
+        {
+            "id": 22,
+            "name": "Cardinals",
+            "abbrev": "ARI",
+            "gameStatus": "STATUS_FINAL"
+        },
+        {
+            "id": 23,
+            "name": "Steelers",
+            "abbrev": "PIT",
+            "gameStatus": "STATUS_FINAL"
+        },
+        {
+            "id": 24,
+            "name": "Chargers",
+            "abbrev": "LAC",
+            "gameStatus": "STATUS_FINAL"
+        },
+        {
+            "id": 25,
+            "name": "49ers",
+            "abbrev": "SF",
+            "gameStatus": "STATUS_SCHEDULED"
+        },
+        {
+            "id": 26,
+            "name": "Seahawks",
+            "abbrev": "SEA",
+            "gameStatus": "STATUS_FINAL"
+        },
+        {
+            "id": 27,
+            "name": "Buccaneers",
+            "abbrev": "TB",
+            "gameStatus": "STATUS_IN_PROGRESS"
+        },
+        {
+            "id": 28,
+            "name": "Commanders",
+            "abbrev": "WSH",
+            "gameStatus": "STATUS_IN_PROGRESS"
+        },
+        {
+            "id": 29,
+            "name": "Panthers",
+            "abbrev": "CAR",
+            "gameStatus": "STATUS_FINAL"
+        },
+        {
+            "id": 30,
+            "name": "Jaguars",
+            "abbrev": "JAX",
+            "gameStatus": "STATUS_FINAL"
+        }
+    ]
+}

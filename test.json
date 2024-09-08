@@ -1,1623 +1,2515 @@
 {
-    "draftDetail": {
-        "drafted": true,
-        "inProgress": false
-    },
-    "gameId": 1,
-    "id": 52278251,
-    "members": [
-        {
-            "displayName": "OneLove5Ever",
-            "firstName": "jack",
-            "id": "{0F87DB98-AAD6-4018-8A99-4CE4EE5F71C6}",
-            "lastName": "murphy",
-            "notificationSettings": [
-                {
-                    "enabled": true,
-                    "id": "62d7fba0-8768-3744-beef-0490d2baf0b7",
-                    "type": "TEAM_PLAYER_INJURY"
-                },
-                {
-                    "enabled": true,
-                    "id": "d07939dc-c55a-36f7-b8aa-b74422d3f371",
-                    "type": "TEAM_PLAYER_AVAILABILITY"
-                },
-                {
-                    "enabled": true,
-                    "id": "06c19487-fb02-3d12-88d9-79791026d30e",
-                    "type": "TEAM_PLAYER_NEWS"
-                },
-                {
-                    "enabled": true,
-                    "id": "25b2914e-1a98-3a12-a9dc-eb4f0a48e6aa",
-                    "type": "TEAM_PLAYER_STARTBENCH"
-                },
-                {
-                    "enabled": true,
-                    "id": "3042a02d-d529-3d9b-8c1b-a0c832a0b97f",
-                    "type": "TEAM_TRADE_OFFER"
-                },
-                {
-                    "enabled": true,
-                    "id": "1c578c75-617d-31e5-8962-f6e867d010b3",
-                    "type": "DRAFT"
-                },
-                {
-                    "enabled": true,
-                    "id": "cc9e731c-c18a-39cc-bf68-b6a6a0d145e4",
-                    "type": "TEAM_MATCHUP_SCORE"
-                },
-                {
-                    "enabled": true,
-                    "id": "a1a6307c-cf97-38de-92f6-0563c6529b92",
-                    "type": "REDZONE"
-                },
-                {
-                    "enabled": true,
-                    "id": "287efcfa-cc1b-3499-ac4b-a192bec36283",
-                    "type": "ADD_DROP"
-                },
-                {
-                    "enabled": true,
-                    "id": "1470b259-8f25-35ca-ae7b-7764c668d417",
-                    "type": "WEEKLY_RECAP"
-                },
-                {
-                    "enabled": true,
-                    "id": "e66e8abc-e41e-378a-a984-41e3b0ed7d14",
-                    "type": "WAIVERS"
-                },
-                {
-                    "enabled": true,
-                    "id": "8d5f2187-7eda-37c5-9021-b84860d62501",
-                    "type": "CELEBRATION_SHARE"
-                }
-            ]
-        },
-        {
-            "displayName": "murphman08",
-            "firstName": "Brian",
-            "id": "{110EE426-6B0F-4FB9-B080-39EC67F770A2}",
-            "lastName": "Murphy",
-            "notificationSettings": [
-                {
-                    "enabled": false,
-                    "id": "63ba5ed0-8d33-3d01-a717-cab8ef61c339",
-                    "type": "REDZONE"
-                },
-                {
-                    "enabled": true,
-                    "id": "b67c6c31-2819-31dd-a77c-1b115eda663d",
-                    "type": "TEAM_PLAYER_INJURY"
-                },
-                {
-                    "enabled": true,
-                    "id": "6f5b08e5-4415-3541-901a-a09e6005e2d7",
-                    "type": "TEAM_PLAYER_AVAILABILITY"
-                },
-                {
-                    "enabled": true,
-                    "id": "b642cb9b-88e6-3cb6-aa74-4c7e90280760",
-                    "type": "TEAM_PLAYER_NEWS"
-                },
-                {
-                    "enabled": true,
-                    "id": "d4dae589-3af8-3612-b2b6-216407d7aa00",
-                    "type": "TEAM_PLAYER_STARTBENCH"
-                },
-                {
-                    "enabled": true,
-                    "id": "529bb785-5103-38e8-a123-92ed60a0f266",
-                    "type": "TEAM_TRADE_OFFER"
-                },
-                {
-                    "enabled": true,
-                    "id": "96f9e208-f77e-37e6-a8c3-fa1eaa851d57",
-                    "type": "DRAFT"
-                },
-                {
-                    "enabled": true,
-                    "id": "cb6bdbfa-b634-3e7d-81d9-58175bab8bcd",
-                    "type": "TEAM_MATCHUP_SCORE"
-                },
-                {
-                    "enabled": true,
-                    "id": "b86db436-32cc-3e3c-8642-56caded8d337",
-                    "type": "ADD_DROP"
-                },
-                {
-                    "enabled": true,
-                    "id": "33688278-8c75-3545-9a02-af21815e8211",
-                    "type": "WEEKLY_RECAP"
-                },
-                {
-                    "enabled": true,
-                    "id": "a98ff287-23c6-393f-b44c-c7d2d1e5326c",
-                    "type": "WAIVERS"
-                },
-                {
-                    "enabled": true,
-                    "id": "24d6ed8d-70f8-32b4-b178-efa9226e1b2c",
-                    "type": "CELEBRATION_SHARE"
-                }
-            ]
-        },
-        {
-            "displayName": "espn18289442",
-            "firstName": "Brian",
-            "id": "{36C370D4-D94B-4B1C-8C3C-ABB2A5A95DE7}",
-            "lastName": "Murphy Sr",
-            "notificationSettings": [
-                {
-                    "enabled": true,
-                    "id": "65531509-8491-3f5b-b315-225d9068246a",
-                    "type": "TEAM_PLAYER_INJURY"
-                },
-                {
-                    "enabled": true,
-                    "id": "84d00595-8a1b-371a-a6b5-d7f42afcd7b1",
-                    "type": "TEAM_PLAYER_AVAILABILITY"
-                },
-                {
-                    "enabled": true,
-                    "id": "22fccffa-8e0d-3d0c-9390-8afc6e6a71af",
-                    "type": "TEAM_PLAYER_NEWS"
-                },
-                {
-                    "enabled": true,
-                    "id": "353dfda1-e771-307f-8fe7-1cb9706355b7",
-                    "type": "TEAM_PLAYER_STARTBENCH"
-                },
-                {
-                    "enabled": true,
-                    "id": "6b04aa30-a34a-329a-95be-d552af2d5fef",
-                    "type": "TEAM_TRADE_OFFER"
-                },
-                {
-                    "enabled": true,
-                    "id": "3ec651ab-3339-314b-b14e-ef306af8fdbd",
-                    "type": "DRAFT"
-                },
-                {
-                    "enabled": true,
-                    "id": "d6d89a6a-94c7-36b5-aa94-430d97c55ce4",
-                    "type": "TEAM_MATCHUP_SCORE"
-                },
-                {
-                    "enabled": true,
-                    "id": "45374640-a530-3b70-bcaa-7bbc02cf2a27",
-                    "type": "REDZONE"
-                },
-                {
-                    "enabled": true,
-                    "id": "13285002-6ea7-30ca-b85c-65e4a62650c4",
-                    "type": "ADD_DROP"
-                },
-                {
-                    "enabled": true,
-                    "id": "b44b21a2-90f2-3f61-8af4-b64e36950d8a",
-                    "type": "WEEKLY_RECAP"
-                },
-                {
-                    "enabled": true,
-                    "id": "b7a54eee-c514-3eb5-87ae-5dd505b0ecdb",
-                    "type": "WAIVERS"
-                },
-                {
-                    "enabled": true,
-                    "id": "a537359d-2ee7-3918-a802-3fff9f8bac6d",
-                    "type": "CELEBRATION_SHARE"
-                }
-            ]
-        },
-        {
-            "displayName": "espnfan9600120252",
-            "firstName": "Matthew",
-            "id": "{4AAD9058-FC75-407D-901F-5F00BE21E7CB}",
-            "lastName": "Larsen",
-            "notificationSettings": [
-                {
-                    "enabled": true,
-                    "id": "aa8118cb-12e7-3dca-9238-e805e5c7b5c4",
-                    "type": "TEAM_PLAYER_INJURY"
-                },
-                {
-                    "enabled": true,
-                    "id": "f2b6ca4e-0fe8-3fd8-95eb-5c8186276c14",
-                    "type": "TEAM_PLAYER_AVAILABILITY"
-                },
-                {
-                    "enabled": true,
-                    "id": "dc12cf09-892b-3404-84d4-f4d7fab0856e",
-                    "type": "TEAM_PLAYER_NEWS"
-                },
-                {
-                    "enabled": true,
-                    "id": "7b488ea6-c95f-3044-a1f5-6ef5671ae4c9",
-                    "type": "TEAM_PLAYER_STARTBENCH"
-                },
-                {
-                    "enabled": true,
-                    "id": "cd181da6-1fd0-3b7e-af70-d78775c24f6b",
-                    "type": "TEAM_TRADE_OFFER"
-                },
-                {
-                    "enabled": true,
-                    "id": "c9cfd506-7eaa-371e-a3ba-5b666f1c4e5b",
-                    "type": "DRAFT"
-                },
-                {
-                    "enabled": true,
-                    "id": "020ab9b5-5097-3079-83d5-80b20ca0c17c",
-                    "type": "TEAM_MATCHUP_SCORE"
-                },
-                {
-                    "enabled": true,
-                    "id": "ba3df510-38dc-3dd8-962b-9cbcec858318",
-                    "type": "REDZONE"
-                },
-                {
-                    "enabled": true,
-                    "id": "7ca046d6-ef11-3f20-818f-0596f77eba39",
-                    "type": "ADD_DROP"
-                },
-                {
-                    "enabled": true,
-                    "id": "672bd554-1ed1-3fc4-a896-fc900800f58f",
-                    "type": "WEEKLY_RECAP"
-                },
-                {
-                    "enabled": true,
-                    "id": "06436170-b92f-320e-aaca-c2e7d8b8e2ff",
-                    "type": "WAIVERS"
-                },
-                {
-                    "enabled": true,
-                    "id": "e8076fcd-6207-3afc-8ba0-2cb2c838f5aa",
-                    "type": "CELEBRATION_SHARE"
-                }
-            ]
-        },
-        {
-            "displayName": "TrateU",
-            "firstName": "Trate",
-            "id": "{57685D79-5D3D-49FE-A85D-795D3DD9FEF0}",
-            "lastName": "Underwood",
-            "notificationSettings": [
-                {
-                    "enabled": false,
-                    "id": "20a64022-c742-3425-bad9-3b29c697a686",
-                    "type": "DRAFT"
-                },
-                {
-                    "enabled": false,
-                    "id": "271210e3-3360-3451-90b8-3d71ef2c28d0",
-                    "type": "WAIVERS"
-                },
-                {
-                    "enabled": false,
-                    "id": "774c464f-cf71-3d44-86e3-5961f924b7db",
-                    "type": "WEEKLY_RECAP"
-                },
-                {
-                    "enabled": false,
-                    "id": "87b9292f-93b6-32f7-ab8d-b2fb345deecc",
-                    "type": "TEAM_TRADE_OFFER"
-                },
-                {
-                    "enabled": false,
-                    "id": "967c6bf8-a40c-3cef-a65a-78ebedac088b",
-                    "type": "TEAM_PLAYER_AVAILABILITY"
-                },
-                {
-                    "enabled": false,
-                    "id": "996b7a92-7a4a-365b-9a9f-738a2ed21f45",
-                    "type": "TEAM_PLAYER_INJURY"
-                },
-                {
-                    "enabled": false,
-                    "id": "9c5e767f-2883-3aa9-a67e-879e54319bba",
-                    "type": "TEAM_PLAYER_NEWS"
-                },
-                {
-                    "enabled": false,
-                    "id": "a74f249b-62b8-38bd-9667-8e886609b0f9",
-                    "type": "TEAM_MATCHUP_SCORE"
-                },
-                {
-                    "enabled": false,
-                    "id": "b1c83a68-c5c8-3bff-86f8-761fe86fff27",
-                    "type": "ADD_DROP"
-                },
-                {
-                    "enabled": false,
-                    "id": "bc3fc5a0-e7c5-3295-95d6-f774bc6598b0",
-                    "type": "TEAM_PLAYER_STARTBENCH"
-                },
-                {
-                    "enabled": false,
-                    "id": "d14baeb6-8b60-3426-9560-b41bdc90c6a3",
-                    "type": "REDZONE"
-                },
-                {
-                    "enabled": true,
-                    "id": "0bec2b47-ad5a-368f-81dc-7d832a07a2f8",
-                    "type": "TEAM_PLAYER_INJURY"
-                },
-                {
-                    "enabled": true,
-                    "id": "a7bf8d1a-a5f4-3ac6-bcf1-634516044ad0",
-                    "type": "TEAM_PLAYER_AVAILABILITY"
-                },
-                {
-                    "enabled": true,
-                    "id": "17b8f6f5-e2cf-3ba1-bcf7-9e48a3041069",
-                    "type": "TEAM_PLAYER_NEWS"
-                },
-                {
-                    "enabled": true,
-                    "id": "db80f53d-fa6c-33d4-83a3-4e901fe95988",
-                    "type": "TEAM_PLAYER_STARTBENCH"
-                },
-                {
-                    "enabled": true,
-                    "id": "968b1cf5-3ad0-3ebe-a7d4-d42c19bf7fc5",
-                    "type": "TEAM_TRADE_OFFER"
-                },
-                {
-                    "enabled": true,
-                    "id": "e3cb3713-32a3-3b98-a66e-b51de5fac1e0",
-                    "type": "DRAFT"
-                },
-                {
-                    "enabled": true,
-                    "id": "82c1504d-5b67-3472-8008-fa7f14820b6e",
-                    "type": "TEAM_MATCHUP_SCORE"
-                },
-                {
-                    "enabled": true,
-                    "id": "679392b6-f1dc-3089-8c68-87946f1544dc",
-                    "type": "REDZONE"
-                },
-                {
-                    "enabled": true,
-                    "id": "b30e4744-184c-331f-ba95-61ed3a44c030",
-                    "type": "ADD_DROP"
-                },
-                {
-                    "enabled": true,
-                    "id": "699ca664-55b7-36ed-b9fc-e772fce57e91",
-                    "type": "WEEKLY_RECAP"
-                },
-                {
-                    "enabled": true,
-                    "id": "3498e9c9-935a-3ce7-9bbd-806a00c82d7a",
-                    "type": "WAIVERS"
-                },
-                {
-                    "enabled": true,
-                    "id": "e31228a9-0668-3c73-a5f9-4dd7613cd393",
-                    "type": "CELEBRATION_SHARE"
-                }
-            ]
-        },
-        {
-            "displayName": "espn96510795",
-            "firstName": "Sean",
-            "id": "{88D64FB7-44C6-4DB5-AFBF-D3136E76744E}",
-            "lastName": "Murphy",
-            "notificationSettings": [
-                {
-                    "enabled": true,
-                    "id": "de893201-6ec1-3a5b-9f2a-5cbc1ce98747",
-                    "type": "TEAM_PLAYER_INJURY"
-                },
-                {
-                    "enabled": true,
-                    "id": "9435367c-836c-3957-910e-3cd9123145e6",
-                    "type": "TEAM_PLAYER_AVAILABILITY"
-                },
-                {
-                    "enabled": true,
-                    "id": "a4223dec-610a-3807-ae83-eb0510b59311",
-                    "type": "TEAM_PLAYER_NEWS"
-                },
-                {
-                    "enabled": true,
-                    "id": "a21673f7-89ef-32db-96a6-c054f49731e9",
-                    "type": "TEAM_PLAYER_STARTBENCH"
-                },
-                {
-                    "enabled": true,
-                    "id": "835be92f-b385-30c8-8350-fb32ce9a233c",
-                    "type": "TEAM_TRADE_OFFER"
-                },
-                {
-                    "enabled": true,
-                    "id": "9d96c07c-37dc-30d3-89ef-656b50e0a5d9",
-                    "type": "DRAFT"
-                },
-                {
-                    "enabled": true,
-                    "id": "697db029-e765-3088-8dae-73fddd7c79ef",
-                    "type": "TEAM_MATCHUP_SCORE"
-                },
-                {
-                    "enabled": true,
-                    "id": "3b39b81f-9ccc-3b46-80fb-0a8de8e8a190",
-                    "type": "REDZONE"
-                },
-                {
-                    "enabled": true,
-                    "id": "a173ee62-3e6f-3840-b0b6-fb69b74d7382",
-                    "type": "ADD_DROP"
-                },
-                {
-                    "enabled": true,
-                    "id": "02b12eaf-e64e-33e4-9cd5-d45b21a114ed",
-                    "type": "WEEKLY_RECAP"
-                },
-                {
-                    "enabled": true,
-                    "id": "c3adf310-1d44-3a4f-9c40-03233bb88f76",
-                    "type": "WAIVERS"
-                },
-                {
-                    "enabled": true,
-                    "id": "4fcf3f38-70b2-343b-b419-8176647ca52d",
-                    "type": "CELEBRATION_SHARE"
-                }
-            ]
-        },
-        {
-            "displayName": "Seeba",
-            "firstName": "Daniel",
-            "id": "{AD0C8351-96CF-4C5D-9E9B-0004BA3FD667}",
-            "lastName": "Seeba",
-            "notificationSettings": [
-                {
-                    "enabled": true,
-                    "id": "55a761a9-f1d3-365e-880a-61645189ff6f",
-                    "type": "TEAM_PLAYER_INJURY"
-                },
-                {
-                    "enabled": true,
-                    "id": "06f1f249-8afe-3360-a173-c2aadf176699",
-                    "type": "TEAM_PLAYER_AVAILABILITY"
-                },
-                {
-                    "enabled": true,
-                    "id": "bd0db9d4-878d-3a6c-9505-49b49a9e10ad",
-                    "type": "TEAM_PLAYER_NEWS"
-                },
-                {
-                    "enabled": true,
-                    "id": "d3a4fce4-0895-360d-ba1f-a02a0ef17043",
-                    "type": "TEAM_PLAYER_STARTBENCH"
-                },
-                {
-                    "enabled": true,
-                    "id": "3a2193f3-4c28-30f0-8300-bf4e3abeee1c",
-                    "type": "TEAM_TRADE_OFFER"
-                },
-                {
-                    "enabled": true,
-                    "id": "c1166581-9a09-3cd8-83a3-77c36f3f3e18",
-                    "type": "DRAFT"
-                },
-                {
-                    "enabled": true,
-                    "id": "1d22bb33-845c-380c-a262-35d4f8e45639",
-                    "type": "TEAM_MATCHUP_SCORE"
-                },
-                {
-                    "enabled": true,
-                    "id": "0c3cd9e6-92fc-3a23-bb30-d9e569d42544",
-                    "type": "REDZONE"
-                },
-                {
-                    "enabled": true,
-                    "id": "22fc848d-ca68-32c1-b12e-d8d8a8ab96aa",
-                    "type": "ADD_DROP"
-                },
-                {
-                    "enabled": true,
-                    "id": "4386c2e7-fc00-3086-84aa-5ac64bae7ab2",
-                    "type": "WEEKLY_RECAP"
-                },
-                {
-                    "enabled": true,
-                    "id": "96dc4067-8e4a-3741-88dd-da96fbdca021",
-                    "type": "WAIVERS"
-                },
-                {
-                    "enabled": true,
-                    "id": "ba6442ba-bf5a-3abc-a5d7-41f68110ca48",
-                    "type": "CELEBRATION_SHARE"
-                }
-            ]
-        },
-        {
-            "displayName": "kavalla4221",
-            "firstName": "Jack",
-            "id": "{C732A445-7027-4B50-82BE-9B37760B36A7}",
-            "lastName": "Murphy",
-            "notificationSettings": [
-                {
-                    "enabled": true,
-                    "id": "6e7285a5-db85-32c0-ba5a-9da4a336c759",
-                    "type": "TEAM_PLAYER_INJURY"
-                },
-                {
-                    "enabled": true,
-                    "id": "b94a4b3e-8240-39bc-abb9-50605f22f11f",
-                    "type": "TEAM_PLAYER_AVAILABILITY"
-                },
-                {
-                    "enabled": true,
-                    "id": "5471b72b-32b3-3dc4-af60-215e83bf462c",
-                    "type": "TEAM_PLAYER_NEWS"
-                },
-                {
-                    "enabled": true,
-                    "id": "20484bca-0bc3-3481-abd9-b3b3fb155a5f",
-                    "type": "TEAM_PLAYER_STARTBENCH"
-                },
-                {
-                    "enabled": true,
-                    "id": "8db43a5b-514d-3dca-ab64-3debfc2ead39",
-                    "type": "TEAM_TRADE_OFFER"
-                },
-                {
-                    "enabled": true,
-                    "id": "5485e74d-868f-3f7c-91f9-98f6465f3b39",
-                    "type": "DRAFT"
-                },
-                {
-                    "enabled": true,
-                    "id": "84c23f61-ad50-32c9-92f4-391cd4daeebb",
-                    "type": "TEAM_MATCHUP_SCORE"
-                },
-                {
-                    "enabled": true,
-                    "id": "0591b964-4a39-396b-9c8a-69234d7e1340",
-                    "type": "REDZONE"
-                },
-                {
-                    "enabled": true,
-                    "id": "97ada0d2-ecaf-37ff-b42c-b44715c2022d",
-                    "type": "ADD_DROP"
-                },
-                {
-                    "enabled": true,
-                    "id": "a3ba7502-7dde-30e1-ab20-7735c24204c3",
-                    "type": "WEEKLY_RECAP"
-                },
-                {
-                    "enabled": true,
-                    "id": "f20f6445-e0c0-3aa4-8fe2-336e672078d9",
-                    "type": "WAIVERS"
-                },
-                {
-                    "enabled": true,
-                    "id": "cf0a4963-9b89-33fa-a1e4-55d6e02b4ff8",
-                    "type": "CELEBRATION_SHARE"
-                }
-            ]
-        },
-        {
-            "displayName": "Towgunner",
-            "firstName": "Michael",
-            "id": "{EA136F56-F17F-4118-936F-56F17F4118A1}",
-            "lastName": "Murphy",
-            "notificationSettings": [
-                {
-                    "enabled": true,
-                    "id": "a091b5d1-283c-3c81-aa00-7d63594253dc",
-                    "type": "TEAM_PLAYER_INJURY"
-                },
-                {
-                    "enabled": true,
-                    "id": "df6d6705-7686-3026-8dbc-22f0a7dedd49",
-                    "type": "TEAM_PLAYER_AVAILABILITY"
-                },
-                {
-                    "enabled": true,
-                    "id": "7b96afe1-1528-3143-8f8d-b442792df863",
-                    "type": "TEAM_PLAYER_NEWS"
-                },
-                {
-                    "enabled": true,
-                    "id": "d7463c3e-6929-3810-a974-a02fd6a2e4bc",
-                    "type": "TEAM_PLAYER_STARTBENCH"
-                },
-                {
-                    "enabled": true,
-                    "id": "8c943307-28a5-36ce-bab6-0e03dcf5eb98",
-                    "type": "TEAM_TRADE_OFFER"
-                },
-                {
-                    "enabled": true,
-                    "id": "24b752f6-eb8d-36b7-93b2-325fbde1878f",
-                    "type": "DRAFT"
-                },
-                {
-                    "enabled": true,
-                    "id": "a0017671-4657-3b87-9382-f0c02d638118",
-                    "type": "TEAM_MATCHUP_SCORE"
-                },
-                {
-                    "enabled": true,
-                    "id": "1fff7938-7aa0-3e00-98c1-0256c23e5449",
-                    "type": "REDZONE"
-                },
-                {
-                    "enabled": true,
-                    "id": "d637c415-c587-39fc-8555-d79571adb132",
-                    "type": "ADD_DROP"
-                },
-                {
-                    "enabled": true,
-                    "id": "67a5a994-be11-36cb-964e-fbeb3c3e3566",
-                    "type": "WEEKLY_RECAP"
-                },
-                {
-                    "enabled": true,
-                    "id": "8b149d9c-3b54-3259-a4bd-e5e8b257d000",
-                    "type": "WAIVERS"
-                },
-                {
-                    "enabled": true,
-                    "id": "1a679fa5-5993-348c-a4b3-32dfe05b4079",
-                    "type": "CELEBRATION_SHARE"
-                }
-            ]
-        },
-        {
-            "displayName": "CThomp1600",
-            "firstName": "Colin",
-            "id": "{F98A212C-11B8-4354-8A21-2C11B8E35492}",
-            "lastName": "Thompson",
-            "notificationSettings": [
-                {
-                    "enabled": true,
-                    "id": "2c5fef74-a2f4-32d1-ade4-1ee8c5da2a8d",
-                    "type": "TEAM_PLAYER_INJURY"
-                },
-                {
-                    "enabled": true,
-                    "id": "e936b5df-53d1-3d68-bba8-6c6b8bbdce47",
-                    "type": "TEAM_PLAYER_AVAILABILITY"
-                },
-                {
-                    "enabled": true,
-                    "id": "8e4c322d-fb8e-35ea-b776-e01c8e2b0153",
-                    "type": "TEAM_PLAYER_NEWS"
-                },
-                {
-                    "enabled": true,
-                    "id": "1712003b-18f4-38ee-abac-d3907a69bdfe",
-                    "type": "TEAM_PLAYER_STARTBENCH"
-                },
-                {
-                    "enabled": true,
-                    "id": "d6fd90fc-53bc-32ae-ae35-fb12c497fb37",
-                    "type": "TEAM_TRADE_OFFER"
-                },
-                {
-                    "enabled": true,
-                    "id": "a16aa202-907a-3972-962a-84e2bd0e9916",
-                    "type": "DRAFT"
-                },
-                {
-                    "enabled": true,
-                    "id": "22b902e6-af00-3e26-8849-916c0b2988bb",
-                    "type": "TEAM_MATCHUP_SCORE"
-                },
-                {
-                    "enabled": true,
-                    "id": "6d07e07e-eeb8-334a-a1dd-057977dc6c74",
-                    "type": "REDZONE"
-                },
-                {
-                    "enabled": true,
-                    "id": "a19fc67e-db73-3f80-a951-833610452b64",
-                    "type": "ADD_DROP"
-                },
-                {
-                    "enabled": true,
-                    "id": "54e2fba1-1cd9-3a4c-b957-e3c994b1f4f6",
-                    "type": "WEEKLY_RECAP"
-                },
-                {
-                    "enabled": true,
-                    "id": "9e11aa6a-d176-3a77-84b6-7eac5f33a31f",
-                    "type": "WAIVERS"
-                },
-                {
-                    "enabled": true,
-                    "id": "6595a0e9-d0a4-3763-aaee-60d44b449049",
-                    "type": "CELEBRATION_SHARE"
-                }
-            ]
-        },
-        {
-            "displayName": "Scott.A.Underwood",
-            "firstName": "Scott",
-            "id": "{FAFD64E5-BFD6-4DFD-BAC5-6F92DB1E33D6}",
-            "lastName": "Underwood",
-            "notificationSettings": [
-                {
-                    "enabled": true,
-                    "id": "6108e168-cf47-3327-bd28-e97659bbf9d2",
-                    "type": "TEAM_PLAYER_INJURY"
-                },
-                {
-                    "enabled": true,
-                    "id": "95fb2531-a17c-30a3-be98-341096a1aa67",
-                    "type": "TEAM_PLAYER_AVAILABILITY"
-                },
-                {
-                    "enabled": true,
-                    "id": "36a7871b-9108-3b39-9d04-10f4715fb98a",
-                    "type": "TEAM_PLAYER_NEWS"
-                },
-                {
-                    "enabled": true,
-                    "id": "4b4eb2f9-9f7e-3c72-91c1-ec29f333c9a7",
-                    "type": "TEAM_PLAYER_STARTBENCH"
-                },
-                {
-                    "enabled": true,
-                    "id": "131292ba-5ce2-3af9-9243-91ebdddf294a",
-                    "type": "TEAM_TRADE_OFFER"
-                },
-                {
-                    "enabled": true,
-                    "id": "ca250e91-7c1b-35b1-9b7b-b8c3e733a004",
-                    "type": "DRAFT"
-                },
-                {
-                    "enabled": true,
-                    "id": "ea7d8ad4-e94c-3abc-a595-3707deb9fd7c",
-                    "type": "TEAM_MATCHUP_SCORE"
-                },
-                {
-                    "enabled": true,
-                    "id": "9d90ac5b-6ff2-30c5-be7c-58a5ef50e6f8",
-                    "type": "REDZONE"
-                },
-                {
-                    "enabled": true,
-                    "id": "ed8d67be-7943-30be-aa43-ef162c950c04",
-                    "type": "ADD_DROP"
-                },
-                {
-                    "enabled": true,
-                    "id": "49b30e21-3785-324b-8db1-42d349e7af52",
-                    "type": "WEEKLY_RECAP"
-                },
-                {
-                    "enabled": true,
-                    "id": "e978643e-0c08-3595-a89d-0c5ef8598ce2",
-                    "type": "WAIVERS"
-                },
-                {
-                    "enabled": true,
-                    "id": "9a6364ec-64f8-3880-a926-df1752f4406d",
-                    "type": "CELEBRATION_SHARE"
-                }
-            ]
-        }
-    ],
-    "scoringPeriodId": 1,
-    "seasonId": 2024,
-    "segmentId": 0,
-    "status": {
-        "activatedDate": 1721076884625,
-        "createdAsLeagueType": 3,
-        "currentLeagueType": 0,
-        "currentMatchupPeriod": 1,
-        "finalScoringPeriod": 17,
-        "firstScoringPeriod": 1,
-        "isActive": true,
-        "isExpired": false,
-        "isFull": true,
-        "isPlayoffMatchupEdited": true,
-        "isToBeDeleted": false,
-        "isViewable": false,
-        "isWaiverOrderEdited": false,
-        "latestScoringPeriod": 1,
-        "previousSeasons": [
-            2021,
-            2022,
-            2023
-        ],
-        "standingsUpdateDate": 1725780186716,
-        "teamsJoined": 9,
-        "transactionScoringPeriod": 1,
-        "waiverLastExecutionDate": 1725780185929,
-        "waiverProcessStatus": {
-            "2024-09-04T07:06:50.564+0000": 3
-        }
-    },
     "teams": [
         {
-            "abbrev": "JEM",
-            "currentProjectedRank": 5,
-            "divisionId": 1,
-            "draftDayProjectedRank": 2,
-            "draftStrategy": {
-                "keeperPlayerIds": []
-            },
-            "id": 1,
-            "isActive": false,
-            "logo": "https://g.espncdn.com/lm-static/logo-packs/ffl/HelmetAlphabet-ESPN/Helmet-J.svg",
-            "logoType": "VECTOR",
-            "name": "Jack Emmett",
-            "owners": [
-                "{0F87DB98-AAD6-4018-8A99-4CE4EE5F71C6}"
+            "totalPoints": 120.22,
+            "donePlay": 9,
+            "inPlay": 0,
+            "leftToPlay": 0,
+            "projPoints": 131.0249404559,
+            "Team": "Jack Emmett",
+            "ownerId": "{0F87DB98-AAD6-4018-8A99-4CE4EE5F71C6}",
+            "roster": [
+                {
+                    "points": 15.9,
+                    "projPoints": 18.1340282479,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 16,
+                    "proTeamAbbrev": "MIN",
+                    "name": "Justin Jefferson",
+                    "position": "WR"
+                },
+                {
+                    "points": 33.199999999999996,
+                    "projPoints": 17.311080914000005,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 21,
+                    "proTeamAbbrev": "PHI",
+                    "name": "Saquon Barkley",
+                    "position": "RB"
+                },
+                {
+                    "points": 7.1,
+                    "projPoints": 15.531441766000002,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 11,
+                    "proTeamAbbrev": "IND",
+                    "name": "Michael Pittman Jr.",
+                    "position": "WR"
+                },
+                {
+                    "points": 10.9,
+                    "projPoints": 16.393160225000003,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 13,
+                    "proTeamAbbrev": "LV",
+                    "name": "Davante Adams",
+                    "position": "FLEX"
+                },
+                {
+                    "points": 18.900000000000002,
+                    "projPoints": 16.110538766000005,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 26,
+                    "proTeamAbbrev": "SEA",
+                    "name": "Kenneth Walker III",
+                    "position": "RB"
+                },
+                {
+                    "points": 8.0,
+                    "projPoints": 12.469623027,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 22,
+                    "proTeamAbbrev": "ARI",
+                    "name": "Trey McBride",
+                    "position": "TE"
+                },
+                {
+                    "points": 13.46,
+                    "projPoints": 19.458163682,
+                    "status": "STATUS_IN_PROGRESS",
+                    "proTeamId": 6,
+                    "proTeamAbbrev": "DAL",
+                    "name": "Dak Prescott",
+                    "position": "Bench"
+                },
+                {
+                    "points": 17.3,
+                    "projPoints": 14.0111070368,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 12,
+                    "proTeamAbbrev": "KC",
+                    "name": "Rashee Rice",
+                    "position": "Bench"
+                },
+                {
+                    "points": 4.0,
+                    "projPoints": 12.835515491399999,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 30,
+                    "proTeamAbbrev": "JAX",
+                    "name": "Christian Kirk",
+                    "position": "Bench"
+                },
+                {
+                    "points": 3.9,
+                    "projPoints": 11.22848596,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 15,
+                    "proTeamAbbrev": "MIA",
+                    "name": "Raheem Mostert",
+                    "position": "Bench"
+                },
+                {
+                    "points": 13.0,
+                    "projPoints": 6.164608917,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 23,
+                    "proTeamAbbrev": "PIT",
+                    "name": "Steelers D/ST",
+                    "position": "D/ST"
+                },
+                {
+                    "points": 6.0,
+                    "projPoints": 8.353436458,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 4,
+                    "proTeamAbbrev": "CIN",
+                    "name": "Evan McPherson",
+                    "position": "K"
+                },
+                {
+                    "points": 7.220000000000001,
+                    "projPoints": 20.557022135,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 3,
+                    "proTeamAbbrev": "CHI",
+                    "name": "Caleb Williams",
+                    "position": "QB"
+                },
+                {
+                    "points": 12.3,
+                    "projPoints": 11.890800856,
+                    "status": "STATUS_IN_PROGRESS",
+                    "proTeamId": 5,
+                    "proTeamAbbrev": "CLE",
+                    "name": "Jerome Ford",
+                    "position": "Bench"
+                }
             ],
-            "playoffSeed": 9,
-            "points": 0.0,
-            "pointsAdjusted": 0.0,
-            "pointsDelta": 0.0,
-            "primaryOwner": "{0F87DB98-AAD6-4018-8A99-4CE4EE5F71C6}",
-            "rankCalculatedFinal": 0,
-            "rankFinal": 0,
-            "record": {
-                "away": {
-                    "gamesBack": 0.0,
-                    "losses": 0,
-                    "percentage": 0.0,
-                    "pointsAgainst": 0.0,
-                    "pointsFor": 0.0,
-                    "streakLength": 0,
-                    "streakType": "NONE",
-                    "ties": 0,
-                    "wins": 0
-                },
-                "division": {
-                    "gamesBack": 0.0,
-                    "losses": 0,
-                    "percentage": 0.0,
-                    "pointsAgainst": 0.0,
-                    "pointsFor": 0.0,
-                    "streakLength": 0,
-                    "streakType": "NONE",
-                    "ties": 0,
-                    "wins": 0
-                },
-                "home": {
-                    "gamesBack": 0.0,
-                    "losses": 0,
-                    "percentage": 0.0,
-                    "pointsAgainst": 0.0,
-                    "pointsFor": 0.0,
-                    "streakLength": 0,
-                    "streakType": "NONE",
-                    "ties": 0,
-                    "wins": 0
-                },
-                "overall": {
-                    "gamesBack": 0.0,
-                    "losses": 0,
-                    "percentage": 0.0,
-                    "pointsAgainst": 0.0,
-                    "pointsFor": 0.0,
-                    "streakLength": 0,
-                    "streakType": "NONE",
-                    "ties": 0,
-                    "wins": 0
-                }
-            },
-            "tradeBlock": {
-                "players": {
-                    "2576414": "ON_THE_BLOCK",
-                    "4262921": "ON_THE_BLOCK",
-                    "4428331": "ON_THE_BLOCK"
-                }
-            },
-            "transactionCounter": {
-                "acquisitionBudgetSpent": 0,
-                "acquisitions": 0,
-                "drops": 2,
-                "matchupAcquisitionTotals": {},
-                "misc": 0,
-                "moveToActive": 1,
-                "moveToIR": 0,
-                "paid": 0.0,
-                "teamCharges": 0.0,
-                "trades": 0
-            },
-            "valuesByStat": {},
-            "waiverRank": 9
+            "Name": "Jack Em"
         },
         {
-            "abbrev": "SST",
-            "currentProjectedRank": 4,
-            "divisionId": 1,
-            "draftDayProjectedRank": 5,
-            "draftStrategy": {
-                "keeperPlayerIds": []
-            },
-            "id": 2,
-            "isActive": false,
-            "logo": "https://g.espncdn.com/lm-static/ffl/images/default_logos/6.svg",
-            "logoType": "VECTOR",
-            "name": "Sean's Super Team",
-            "owners": [
-                "{88D64FB7-44C6-4DB5-AFBF-D3136E76744E}"
-            ],
-            "playoffSeed": 8,
-            "points": 0.0,
-            "pointsAdjusted": 0.0,
-            "pointsDelta": 0.0,
-            "primaryOwner": "{88D64FB7-44C6-4DB5-AFBF-D3136E76744E}",
-            "rankCalculatedFinal": 0,
-            "rankFinal": 0,
-            "record": {
-                "away": {
-                    "gamesBack": 0.0,
-                    "losses": 0,
-                    "percentage": 0.0,
-                    "pointsAgainst": 0.0,
-                    "pointsFor": 0.0,
-                    "streakLength": 0,
-                    "streakType": "NONE",
-                    "ties": 0,
-                    "wins": 0
+            "totalPoints": 120.86,
+            "donePlay": 8,
+            "inPlay": 0,
+            "leftToPlay": 1,
+            "projPoints": 130.9458505188,
+            "Team": "Sean's Super Team",
+            "ownerId": "{88D64FB7-44C6-4DB5-AFBF-D3136E76744E}",
+            "roster": [
+                {
+                    "points": 16.1,
+                    "projPoints": 18.559790455999998,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 1,
+                    "proTeamAbbrev": "ATL",
+                    "name": "Bijan Robinson",
+                    "position": "RB"
                 },
-                "division": {
-                    "gamesBack": 0.0,
-                    "losses": 0,
-                    "percentage": 0.0,
-                    "pointsAgainst": 0.0,
-                    "pointsFor": 0.0,
-                    "streakLength": 0,
-                    "streakType": "NONE",
-                    "ties": 0,
-                    "wins": 0
+                {
+                    "points": 0,
+                    "projPoints": 16.535497811699997,
+                    "status": "STATUS_SCHEDULED",
+                    "proTeamId": 20,
+                    "proTeamAbbrev": "NYJ",
+                    "name": "Garrett Wilson",
+                    "position": "WR"
                 },
-                "home": {
-                    "gamesBack": 0.0,
-                    "losses": 0,
-                    "percentage": 0.0,
-                    "pointsAgainst": 0.0,
-                    "pointsFor": 0.0,
-                    "streakLength": 0,
-                    "streakType": "NONE",
-                    "ties": 0,
-                    "wins": 0
+                {
+                    "points": 15.8,
+                    "projPoints": 15.259431222999998,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 12,
+                    "proTeamAbbrev": "KC",
+                    "name": "Isiah Pacheco",
+                    "position": "FLEX"
                 },
-                "overall": {
-                    "gamesBack": 0.0,
-                    "losses": 0,
-                    "percentage": 0.0,
-                    "pointsAgainst": 0.0,
-                    "pointsFor": 0.0,
-                    "streakLength": 0,
-                    "streakType": "NONE",
-                    "ties": 0,
-                    "wins": 0
+                {
+                    "points": 22.0,
+                    "projPoints": 17.68731794,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 18,
+                    "proTeamAbbrev": "NO",
+                    "name": "Alvin Kamara",
+                    "position": "RB"
+                },
+                {
+                    "points": 0,
+                    "projPoints": 13.531713054,
+                    "status": "STATUS_SCHEDULED",
+                    "proTeamId": 25,
+                    "proTeamAbbrev": "SF",
+                    "name": "Brandon Aiyuk",
+                    "position": "Bench"
+                },
+                {
+                    "points": 22.66,
+                    "projPoints": 22.929079721999997,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 34,
+                    "proTeamAbbrev": "HOU",
+                    "name": "C.J. Stroud",
+                    "position": "QB"
+                },
+                {
+                    "points": 16.2,
+                    "projPoints": 13.7363322741,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 15,
+                    "proTeamAbbrev": "MIA",
+                    "name": "Jaylen Waddle",
+                    "position": "WR"
+                },
+                {
+                    "points": 4.6000000000000005,
+                    "projPoints": 13.204425683,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 13,
+                    "proTeamAbbrev": "LV",
+                    "name": "Zamir White",
+                    "position": "Bench"
+                },
+                {
+                    "points": 7.1,
+                    "projPoints": 10.041365305,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 21,
+                    "proTeamAbbrev": "PHI",
+                    "name": "Dallas Goedert",
+                    "position": "TE"
+                },
+                {
+                    "points": 20.8,
+                    "projPoints": 11.3614465258,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 12,
+                    "proTeamAbbrev": "KC",
+                    "name": "Xavier Worthy",
+                    "position": "Bench"
+                },
+                {
+                    "points": 0,
+                    "projPoints": 19.579931773,
+                    "status": "STATUS_SCHEDULED",
+                    "proTeamId": 25,
+                    "proTeamAbbrev": "SF",
+                    "name": "Brock Purdy",
+                    "position": "Bench"
+                },
+                {
+                    "points": 7.199999999999999,
+                    "projPoints": 10.723122587999999,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 10,
+                    "proTeamAbbrev": "TEN",
+                    "name": "Tyjae Spears",
+                    "position": "Bench"
+                },
+                {
+                    "points": 4.0,
+                    "projPoints": 7.855130153,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 4,
+                    "proTeamAbbrev": "CIN",
+                    "name": "Bengals D/ST",
+                    "position": "D/ST"
+                },
+                {
+                    "points": 17.0,
+                    "projPoints": 8.341905634,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 34,
+                    "proTeamAbbrev": "HOU",
+                    "name": "Ka'imi Fairbairn",
+                    "position": "K"
                 }
-            },
-            "tradeBlock": {},
-            "transactionCounter": {
-                "acquisitionBudgetSpent": 0,
-                "acquisitions": 0,
-                "drops": 0,
-                "matchupAcquisitionTotals": {},
-                "misc": 0,
-                "moveToActive": 1,
-                "moveToIR": 0,
-                "paid": 0.0,
-                "teamCharges": 0.0,
-                "trades": 0
-            },
-            "valuesByStat": {},
-            "waiverRank": 3
+            ],
+            "Name": "Sean"
         },
         {
-            "abbrev": "LARS",
-            "currentProjectedRank": 1,
-            "divisionId": 1,
-            "draftDayProjectedRank": 1,
-            "draftStrategy": {
-                "keeperPlayerIds": []
-            },
-            "id": 3,
-            "isActive": false,
-            "logo": "https://g.espncdn.com/lm-static/logo-packs/core/Mascots/mascots-9.svg",
-            "logoType": "VECTOR",
-            "name": "Watsons  Bad habits ",
-            "owners": [
-                "{4AAD9058-FC75-407D-901F-5F00BE21E7CB}"
-            ],
-            "playoffSeed": 7,
-            "points": 0.0,
-            "pointsAdjusted": 0.0,
-            "pointsDelta": 0.0,
-            "primaryOwner": "{4AAD9058-FC75-407D-901F-5F00BE21E7CB}",
-            "rankCalculatedFinal": 0,
-            "rankFinal": 0,
-            "record": {
-                "away": {
-                    "gamesBack": 0.0,
-                    "losses": 0,
-                    "percentage": 0.0,
-                    "pointsAgainst": 0.0,
-                    "pointsFor": 0.0,
-                    "streakLength": 0,
-                    "streakType": "NONE",
-                    "ties": 0,
-                    "wins": 0
+            "totalPoints": 55.78000000000001,
+            "donePlay": 3,
+            "inPlay": 2,
+            "leftToPlay": 4,
+            "projPoints": 134.0324629637,
+            "Team": "Watsons  Bad habits ",
+            "ownerId": "{4AAD9058-FC75-407D-901F-5F00BE21E7CB}",
+            "roster": [
+                {
+                    "points": 0,
+                    "projPoints": 22.474535311,
+                    "status": "STATUS_SCHEDULED",
+                    "proTeamId": 25,
+                    "proTeamAbbrev": "SF",
+                    "name": "Christian McCaffrey",
+                    "position": "RB"
                 },
-                "division": {
-                    "gamesBack": 0.0,
-                    "losses": 0,
-                    "percentage": 0.0,
-                    "pointsAgainst": 0.0,
-                    "pointsFor": 0.0,
-                    "streakLength": 0,
-                    "streakType": "NONE",
-                    "ties": 0,
-                    "wins": 0
+                {
+                    "points": 0,
+                    "projPoints": 17.145307721699997,
+                    "status": "STATUS_SCHEDULED",
+                    "proTeamId": 14,
+                    "proTeamAbbrev": "LAR",
+                    "name": "Puka Nacua",
+                    "position": "WR"
                 },
-                "home": {
-                    "gamesBack": 0.0,
-                    "losses": 0,
-                    "percentage": 0.0,
-                    "pointsAgainst": 0.0,
-                    "pointsFor": 0.0,
-                    "streakLength": 0,
-                    "streakType": "NONE",
-                    "ties": 0,
-                    "wins": 0
+                {
+                    "points": 0,
+                    "projPoints": 15.687108454,
+                    "status": "STATUS_SCHEDULED",
+                    "proTeamId": 14,
+                    "proTeamAbbrev": "LAR",
+                    "name": "Kyren Williams",
+                    "position": "RB"
                 },
-                "overall": {
-                    "gamesBack": 0.0,
-                    "losses": 0,
-                    "percentage": 0.0,
-                    "pointsAgainst": 0.0,
-                    "pointsFor": 0.0,
-                    "streakLength": 0,
-                    "streakType": "NONE",
-                    "ties": 0,
-                    "wins": 0
+                {
+                    "points": 16.6,
+                    "projPoints": 17.135584701000003,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 27,
+                    "proTeamAbbrev": "TB",
+                    "name": "Rachaad White",
+                    "position": "FLEX"
+                },
+                {
+                    "points": 11.600000000000001,
+                    "projPoints": 13.976577928,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 19,
+                    "proTeamAbbrev": "NYG",
+                    "name": "Malik Nabers",
+                    "position": "Bench"
+                },
+                {
+                    "points": 1.5,
+                    "projPoints": 12.007445276,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 30,
+                    "proTeamAbbrev": "JAX",
+                    "name": "Evan Engram",
+                    "position": "TE"
+                },
+                {
+                    "points": 30.080000000000002,
+                    "projPoints": 21.402879845999998,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 11,
+                    "proTeamAbbrev": "IND",
+                    "name": "Anthony Richardson",
+                    "position": "QB"
+                },
+                {
+                    "points": 13.5,
+                    "projPoints": 12.8345808573,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 23,
+                    "proTeamAbbrev": "PIT",
+                    "name": "George Pickens",
+                    "position": "Bench"
+                },
+                {
+                    "points": 3.6,
+                    "projPoints": 13.764739504,
+                    "status": "STATUS_IN_PROGRESS",
+                    "proTeamId": 5,
+                    "proTeamAbbrev": "CLE",
+                    "name": "Amari Cooper",
+                    "position": "WR"
+                },
+                {
+                    "points": 8.9,
+                    "projPoints": 11.332226628,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 23,
+                    "proTeamAbbrev": "PIT",
+                    "name": "Najee Harris",
+                    "position": "Bench"
+                },
+                {
+                    "points": 4.0,
+                    "projPoints": 10.200622589,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 23,
+                    "proTeamAbbrev": "PIT",
+                    "name": "Jaylen Warren",
+                    "position": "Bench"
+                },
+                {
+                    "points": 6.5,
+                    "projPoints": 11.693070879000002,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 16,
+                    "proTeamAbbrev": "MIN",
+                    "name": "Jordan Addison",
+                    "position": "Bench"
+                },
+                {
+                    "points": 4.0,
+                    "projPoints": 6.503604671000001,
+                    "status": "STATUS_IN_PROGRESS",
+                    "proTeamId": 5,
+                    "proTeamAbbrev": "CLE",
+                    "name": "Browns D/ST",
+                    "position": "D/ST"
+                },
+                {
+                    "points": 0,
+                    "projPoints": 7.9112574790000005,
+                    "status": "STATUS_SCHEDULED",
+                    "proTeamId": 25,
+                    "proTeamAbbrev": "SF",
+                    "name": "Jake Moody",
+                    "position": "K"
                 }
-            },
-            "tradeBlock": {},
-            "transactionCounter": {
-                "acquisitionBudgetSpent": 0,
-                "acquisitions": 0,
-                "drops": 0,
-                "matchupAcquisitionTotals": {},
-                "misc": 0,
-                "moveToActive": 1,
-                "moveToIR": 0,
-                "paid": 0.0,
-                "teamCharges": 0.0,
-                "trades": 0
-            },
-            "valuesByStat": {},
-            "waiverRank": 7
+            ],
+            "Name": "Matt"
         },
         {
-            "abbrev": "PU",
-            "currentProjectedRank": 3,
-            "divisionId": 1,
-            "draftDayProjectedRank": 6,
-            "draftStrategy": {
-                "keeperPlayerIds": []
-            },
-            "id": 4,
-            "isActive": false,
-            "logo": "https://g.espncdn.com/lm-static/logo-packs/ffl/AtTheStadium-RobbHarskamp/At_The_Stadium_13.svg",
-            "logoType": "VECTOR",
-            "name": "P U ",
-            "owners": [
-                "{110EE426-6B0F-4FB9-B080-39EC67F770A2}",
-                "{36C370D4-D94B-4B1C-8C3C-ABB2A5A95DE7}"
-            ],
-            "playoffSeed": 6,
-            "points": 0.0,
-            "pointsAdjusted": 0.0,
-            "pointsDelta": 0.0,
-            "primaryOwner": "{110EE426-6B0F-4FB9-B080-39EC67F770A2}",
-            "rankCalculatedFinal": 0,
-            "rankFinal": 0,
-            "record": {
-                "away": {
-                    "gamesBack": 0.0,
-                    "losses": 0,
-                    "percentage": 0.0,
-                    "pointsAgainst": 0.0,
-                    "pointsFor": 0.0,
-                    "streakLength": 0,
-                    "streakType": "NONE",
-                    "ties": 0,
-                    "wins": 0
+            "totalPoints": 97.23999999999998,
+            "donePlay": 7,
+            "inPlay": 0,
+            "leftToPlay": 2,
+            "projPoints": 123.78795987270001,
+            "Team": "P U ",
+            "ownerId": "{110EE426-6B0F-4FB9-B080-39EC67F770A2}",
+            "roster": [
+                {
+                    "points": 26.0,
+                    "projPoints": 19.686607589700003,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 15,
+                    "proTeamAbbrev": "MIA",
+                    "name": "Tyreek Hill",
+                    "position": "WR"
                 },
-                "division": {
-                    "gamesBack": 0.0,
-                    "losses": 0,
-                    "percentage": 0.0,
-                    "pointsAgainst": 0.0,
-                    "pointsFor": 0.0,
-                    "streakLength": 0,
-                    "streakType": "NONE",
-                    "ties": 0,
-                    "wins": 0
+                {
+                    "points": 22.9,
+                    "projPoints": 17.194557334000002,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 21,
+                    "proTeamAbbrev": "PHI",
+                    "name": "A.J. Brown",
+                    "position": "WR"
                 },
-                "home": {
-                    "gamesBack": 0.0,
-                    "losses": 0,
-                    "percentage": 0.0,
-                    "pointsAgainst": 0.0,
-                    "pointsFor": 0.0,
-                    "streakLength": 0,
-                    "streakType": "NONE",
-                    "ties": 0,
-                    "wins": 0
+                {
+                    "points": 3.5,
+                    "projPoints": 14.364949434000001,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 1,
+                    "proTeamAbbrev": "ATL",
+                    "name": "Drake London",
+                    "position": "FLEX"
                 },
-                "overall": {
-                    "gamesBack": 0.0,
-                    "losses": 0,
-                    "percentage": 0.0,
-                    "pointsAgainst": 0.0,
-                    "pointsFor": 0.0,
-                    "streakLength": 0,
-                    "streakType": "NONE",
-                    "ties": 0,
-                    "wins": 0
+                {
+                    "points": 17.700000000000003,
+                    "projPoints": 14.47650994,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 34,
+                    "proTeamAbbrev": "HOU",
+                    "name": "Nico Collins",
+                    "position": "Bench"
+                },
+                {
+                    "points": 17.14,
+                    "projPoints": 23.545016372,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 12,
+                    "proTeamAbbrev": "KC",
+                    "name": "Patrick Mahomes",
+                    "position": "QB"
+                },
+                {
+                    "points": 2.1,
+                    "projPoints": 11.544059290000002,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 2,
+                    "proTeamAbbrev": "BUF",
+                    "name": "Dalton Kincaid",
+                    "position": "TE"
+                },
+                {
+                    "points": 21.6,
+                    "projPoints": 13.081345828999998,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 17,
+                    "proTeamAbbrev": "NE",
+                    "name": "Rhamondre Stevenson",
+                    "position": "RB"
+                },
+                {
+                    "points": 8.9,
+                    "projPoints": 13.385255220200001,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 34,
+                    "proTeamAbbrev": "HOU",
+                    "name": "Tank Dell",
+                    "position": "Bench"
+                },
+                {
+                    "points": 17.9,
+                    "projPoints": 11.690948913000001,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 28,
+                    "proTeamAbbrev": "WSH",
+                    "name": "Brian Robinson Jr.",
+                    "position": "Bench"
+                },
+                {
+                    "points": 0,
+                    "projPoints": 12.711824387000004,
+                    "status": "STATUS_SCHEDULED",
+                    "proTeamId": 8,
+                    "proTeamAbbrev": "DET",
+                    "name": "David Montgomery",
+                    "position": "RB"
+                },
+                {
+                    "points": 7.800000000000001,
+                    "projPoints": 11.911573701999998,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 7,
+                    "proTeamAbbrev": "DEN",
+                    "name": "Courtland Sutton",
+                    "position": "Bench"
+                },
+                {
+                    "points": 14.9,
+                    "projPoints": 10.7954620653,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 24,
+                    "proTeamAbbrev": "LAC",
+                    "name": "Ladd McConkey",
+                    "position": "Bench"
+                },
+                {
+                    "points": 0,
+                    "projPoints": 3.8546357420000006,
+                    "status": "STATUS_SCHEDULED",
+                    "proTeamId": 20,
+                    "proTeamAbbrev": "NYJ",
+                    "name": "Jets D/ST",
+                    "position": "D/ST"
+                },
+                {
+                    "points": 4.0,
+                    "projPoints": 7.804963895,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 1,
+                    "proTeamAbbrev": "ATL",
+                    "name": "Younghoe Koo",
+                    "position": "K"
                 }
-            },
-            "tradeBlock": {},
-            "transactionCounter": {
-                "acquisitionBudgetSpent": 0,
-                "acquisitions": 0,
-                "drops": 0,
-                "matchupAcquisitionTotals": {},
-                "misc": 0,
-                "moveToActive": 1,
-                "moveToIR": 0,
-                "paid": 0.0,
-                "teamCharges": 0.0,
-                "trades": 0
-            },
-            "valuesByStat": {},
-            "waiverRank": 4
+            ],
+            "Name": "Brian Sr"
         },
         {
-            "abbrev": "SC",
-            "currentProjectedRank": 8,
-            "divisionId": 1,
-            "draftDayProjectedRank": 9,
-            "draftStrategy": {
-                "keeperPlayerIds": []
-            },
-            "id": 5,
-            "isActive": false,
-            "logo": "https://g.espncdn.com/lm-static/logo-packs/ffl/Xmas-AndrewJanik/XMas_15.svg",
-            "logoType": "VECTOR",
-            "name": "Santa's Coming to Trophy",
-            "owners": [
-                "{EA136F56-F17F-4118-936F-56F17F4118A1}"
-            ],
-            "playoffSeed": 5,
-            "points": 0.0,
-            "pointsAdjusted": 0.0,
-            "pointsDelta": 0.0,
-            "primaryOwner": "{EA136F56-F17F-4118-936F-56F17F4118A1}",
-            "rankCalculatedFinal": 0,
-            "rankFinal": 0,
-            "record": {
-                "away": {
-                    "gamesBack": 0.0,
-                    "losses": 0,
-                    "percentage": 0.0,
-                    "pointsAgainst": 0.0,
-                    "pointsFor": 0.0,
-                    "streakLength": 0,
-                    "streakType": "NONE",
-                    "ties": 0,
-                    "wins": 0
+            "totalPoints": 102.88000000000001,
+            "donePlay": 6,
+            "inPlay": 0,
+            "leftToPlay": 3,
+            "projPoints": 129.21708467809998,
+            "Team": "Santa's Coming to Trophy",
+            "ownerId": "{EA136F56-F17F-4118-936F-56F17F4118A1}",
+            "roster": [
+                {
+                    "points": 10.8,
+                    "projPoints": 16.75361728,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 11,
+                    "proTeamAbbrev": "IND",
+                    "name": "Jonathan Taylor",
+                    "position": "RB"
                 },
-                "division": {
-                    "gamesBack": 0.0,
-                    "losses": 0,
-                    "percentage": 0.0,
-                    "pointsAgainst": 0.0,
-                    "pointsFor": 0.0,
-                    "streakLength": 0,
-                    "streakType": "NONE",
-                    "ties": 0,
-                    "wins": 0
+                {
+                    "points": 35.18,
+                    "projPoints": 27.398241186,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 2,
+                    "proTeamAbbrev": "BUF",
+                    "name": "Josh Allen",
+                    "position": "QB"
                 },
-                "home": {
-                    "gamesBack": 0.0,
-                    "losses": 0,
-                    "percentage": 0.0,
-                    "pointsAgainst": 0.0,
-                    "pointsFor": 0.0,
-                    "streakLength": 0,
-                    "streakType": "NONE",
-                    "ties": 0,
-                    "wins": 0
+                {
+                    "points": 0,
+                    "projPoints": 14.058799597,
+                    "status": "STATUS_SCHEDULED",
+                    "proTeamId": 8,
+                    "proTeamAbbrev": "DET",
+                    "name": "Sam LaPorta",
+                    "position": "TE"
                 },
-                "overall": {
-                    "gamesBack": 0.0,
-                    "losses": 0,
-                    "percentage": 0.0,
-                    "pointsAgainst": 0.0,
-                    "pointsFor": 0.0,
-                    "streakLength": 0,
-                    "streakType": "NONE",
-                    "ties": 0,
-                    "wins": 0
+                {
+                    "points": 21.900000000000002,
+                    "projPoints": 14.2837083411,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 34,
+                    "proTeamAbbrev": "HOU",
+                    "name": "Stefon Diggs",
+                    "position": "WR"
+                },
+                {
+                    "points": 0,
+                    "projPoints": 16.179370809999998,
+                    "status": "STATUS_SCHEDULED",
+                    "proTeamId": 25,
+                    "proTeamAbbrev": "SF",
+                    "name": "Deebo Samuel Sr.",
+                    "position": "WR"
+                },
+                {
+                    "points": 23.0,
+                    "projPoints": 13.992232031000002,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 15,
+                    "proTeamAbbrev": "MIA",
+                    "name": "De'Von Achane",
+                    "position": "RB"
+                },
+                {
+                    "points": 5.0,
+                    "projPoints": 12.572438626999999,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 3,
+                    "proTeamAbbrev": "CHI",
+                    "name": "D'Andre Swift",
+                    "position": "FLEX"
+                },
+                {
+                    "points": 11.6,
+                    "projPoints": 10.416233624000002,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 1,
+                    "proTeamAbbrev": "ATL",
+                    "name": "Kyle Pitts",
+                    "position": "Bench"
+                },
+                {
+                    "points": 7.0,
+                    "projPoints": 8.227022522999999,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 33,
+                    "proTeamAbbrev": "BAL",
+                    "name": "Justin Tucker",
+                    "position": "K"
+                },
+                {
+                    "points": 0,
+                    "projPoints": 5.751654283,
+                    "status": "STATUS_SCHEDULED",
+                    "proTeamId": 25,
+                    "proTeamAbbrev": "SF",
+                    "name": "49ers D/ST",
+                    "position": "D/ST"
+                },
+                {
+                    "points": 33.1,
+                    "projPoints": 11.812212024899999,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 9,
+                    "proTeamAbbrev": "GB",
+                    "name": "Jayden Reed",
+                    "position": "Bench"
+                },
+                {
+                    "points": 10.2,
+                    "projPoints": 12.127567197000003,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 28,
+                    "proTeamAbbrev": "WSH",
+                    "name": "Austin Ekeler",
+                    "position": "Bench"
+                },
+                {
+                    "points": 14.7,
+                    "projPoints": 10.952149951,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 30,
+                    "proTeamAbbrev": "JAX",
+                    "name": "Brian Thomas Jr.",
+                    "position": "Bench"
+                },
+                {
+                    "points": 9.100000000000001,
+                    "projPoints": 11.565923154,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 2,
+                    "proTeamAbbrev": "BUF",
+                    "name": "Keon Coleman",
+                    "position": "Bench"
                 }
-            },
-            "tradeBlock": {},
-            "transactionCounter": {
-                "acquisitionBudgetSpent": 0,
-                "acquisitions": 0,
-                "drops": 0,
-                "matchupAcquisitionTotals": {},
-                "misc": 0,
-                "moveToActive": 2,
-                "moveToIR": 0,
-                "paid": 0.0,
-                "teamCharges": 0.0,
-                "trades": 0
-            },
-            "valuesByStat": {},
-            "waiverRank": 1
+            ],
+            "Name": "Michael"
         },
         {
-            "abbrev": "THOM",
-            "currentProjectedRank": 9,
-            "divisionId": 1,
-            "draftDayProjectedRank": 8,
-            "draftStrategy": {
-                "keeperPlayerIds": []
-            },
-            "id": 6,
-            "isActive": false,
-            "logo": "https://g.espncdn.com/lm-static/logo-packs/core/Mascots/mascots-9.svg",
-            "logoType": "VECTOR",
-            "name": "HAWK TUAH 2024",
-            "owners": [
-                "{F98A212C-11B8-4354-8A21-2C11B8E35492}"
-            ],
-            "playoffSeed": 4,
-            "points": 0.0,
-            "pointsAdjusted": 0.0,
-            "pointsDelta": 0.0,
-            "primaryOwner": "{F98A212C-11B8-4354-8A21-2C11B8E35492}",
-            "rankCalculatedFinal": 0,
-            "rankFinal": 0,
-            "record": {
-                "away": {
-                    "gamesBack": 0.0,
-                    "losses": 0,
-                    "percentage": 0.0,
-                    "pointsAgainst": 0.0,
-                    "pointsFor": 0.0,
-                    "streakLength": 0,
-                    "streakType": "NONE",
-                    "ties": 0,
-                    "wins": 0
+            "totalPoints": 71.8,
+            "donePlay": 6,
+            "inPlay": 0,
+            "leftToPlay": 3,
+            "projPoints": 127.1583372641,
+            "Team": "HAWK TUAH 2024",
+            "ownerId": "{F98A212C-11B8-4354-8A21-2C11B8E35492}",
+            "roster": [
+                {
+                    "points": 0,
+                    "projPoints": 17.936340469999998,
+                    "status": "STATUS_SCHEDULED",
+                    "proTeamId": 20,
+                    "proTeamAbbrev": "NYJ",
+                    "name": "Breece Hall",
+                    "position": "RB"
                 },
-                "division": {
-                    "gamesBack": 0.0,
-                    "losses": 0,
-                    "percentage": 0.0,
-                    "pointsAgainst": 0.0,
-                    "pointsFor": 0.0,
-                    "streakLength": 0,
-                    "streakType": "NONE",
-                    "ties": 0,
-                    "wins": 0
+                {
+                    "points": 3.1,
+                    "projPoints": 16.26999922,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 18,
+                    "proTeamAbbrev": "NO",
+                    "name": "Chris Olave",
+                    "position": "WR"
                 },
-                "home": {
-                    "gamesBack": 0.0,
-                    "losses": 0,
-                    "percentage": 0.0,
-                    "pointsAgainst": 0.0,
-                    "pointsFor": 0.0,
-                    "streakLength": 0,
-                    "streakType": "NONE",
-                    "ties": 0,
-                    "wins": 0
+                {
+                    "points": 1.4,
+                    "projPoints": 15.403083057,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 22,
+                    "proTeamAbbrev": "ARI",
+                    "name": "Marvin Harrison Jr.",
+                    "position": "WR"
                 },
-                "overall": {
-                    "gamesBack": 0.0,
-                    "losses": 0,
-                    "percentage": 0.0,
-                    "pointsAgainst": 0.0,
-                    "pointsFor": 0.0,
-                    "streakLength": 0,
-                    "streakType": "NONE",
-                    "ties": 0,
-                    "wins": 0
+                {
+                    "points": 0,
+                    "projPoints": 11.349451505,
+                    "status": "STATUS_SCHEDULED",
+                    "proTeamId": 25,
+                    "proTeamAbbrev": "SF",
+                    "name": "George Kittle",
+                    "position": "TE"
+                },
+                {
+                    "points": 26.799999999999997,
+                    "projPoints": 16.253041135999997,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 34,
+                    "proTeamAbbrev": "HOU",
+                    "name": "Joe Mixon",
+                    "position": "RB"
+                },
+                {
+                    "points": 11.100000000000001,
+                    "projPoints": 14.8360590861,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 33,
+                    "proTeamAbbrev": "BAL",
+                    "name": "Zay Flowers",
+                    "position": "FLEX"
+                },
+                {
+                    "points": 20.4,
+                    "projPoints": 22.200486027,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 9,
+                    "proTeamAbbrev": "GB",
+                    "name": "Jordan Love",
+                    "position": "QB"
+                },
+                {
+                    "points": 3.7,
+                    "projPoints": 13.215460625,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 28,
+                    "proTeamAbbrev": "WSH",
+                    "name": "Terry McLaurin",
+                    "position": "Bench"
+                },
+                {
+                    "points": 4.5,
+                    "projPoints": 10.458059398,
+                    "status": "STATUS_IN_PROGRESS",
+                    "proTeamId": 6,
+                    "proTeamAbbrev": "DAL",
+                    "name": "Jake Ferguson",
+                    "position": "Bench"
+                },
+                {
+                    "points": 3.9000000000000004,
+                    "projPoints": 12.475858510000002,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 26,
+                    "proTeamAbbrev": "SEA",
+                    "name": "Jaxon Smith-Njigba",
+                    "position": "Bench"
+                },
+                {
+                    "points": 28.16,
+                    "projPoints": 19.955833386000002,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 28,
+                    "proTeamAbbrev": "WSH",
+                    "name": "Jayden Daniels",
+                    "position": "Bench"
+                },
+                {
+                    "points": 1.4000000000000001,
+                    "projPoints": 11.578720135,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 29,
+                    "proTeamAbbrev": "CAR",
+                    "name": "Chuba Hubbard",
+                    "position": "Bench"
+                },
+                {
+                    "points": 9.0,
+                    "projPoints": 8.404155849,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 12,
+                    "proTeamAbbrev": "KC",
+                    "name": "Harrison Butker",
+                    "position": "K"
+                },
+                {
+                    "points": 0,
+                    "projPoints": 4.505720914000001,
+                    "status": "STATUS_SCHEDULED",
+                    "proTeamId": 8,
+                    "proTeamAbbrev": "DET",
+                    "name": "Lions D/ST",
+                    "position": "D/ST"
                 }
-            },
-            "tradeBlock": {},
-            "transactionCounter": {
-                "acquisitionBudgetSpent": 0,
-                "acquisitions": 0,
-                "drops": 0,
-                "matchupAcquisitionTotals": {},
-                "misc": 0,
-                "moveToActive": 0,
-                "moveToIR": 0,
-                "paid": 0.0,
-                "teamCharges": 0.0,
-                "trades": 0
-            },
-            "valuesByStat": {},
-            "waiverRank": 6
+            ],
+            "Name": "Colin"
         },
         {
-            "abbrev": "TTC",
-            "currentProjectedRank": 7,
-            "divisionId": 1,
-            "draftDayProjectedRank": 7,
-            "draftStrategy": {
-                "excludedPlayerIds": [],
-                "keeperPlayerIds": []
-            },
-            "id": 7,
-            "isActive": false,
-            "logo": "https://g.espncdn.com/lm-static/ffl/images/default_logos/20.svg",
-            "logoType": "VECTOR",
-            "name": "Two Time Champs",
-            "owners": [
-                "{FAFD64E5-BFD6-4DFD-BAC5-6F92DB1E33D6}"
-            ],
-            "playoffSeed": 3,
-            "points": 0.0,
-            "pointsAdjusted": 0.0,
-            "pointsDelta": 0.0,
-            "primaryOwner": "{FAFD64E5-BFD6-4DFD-BAC5-6F92DB1E33D6}",
-            "rankCalculatedFinal": 0,
-            "rankFinal": 0,
-            "record": {
-                "away": {
-                    "gamesBack": 0.0,
-                    "losses": 0,
-                    "percentage": 0.0,
-                    "pointsAgainst": 0.0,
-                    "pointsFor": 0.0,
-                    "streakLength": 0,
-                    "streakType": "NONE",
-                    "ties": 0,
-                    "wins": 0
+            "totalPoints": 89.72,
+            "donePlay": 6,
+            "inPlay": 1,
+            "leftToPlay": 2,
+            "projPoints": 129.62209427210001,
+            "Team": "Two Time Champs",
+            "ownerId": "{FAFD64E5-BFD6-4DFD-BAC5-6F92DB1E33D6}",
+            "roster": [
+                {
+                    "points": 0,
+                    "projPoints": 19.4093208631,
+                    "status": "STATUS_SCHEDULED",
+                    "proTeamId": 8,
+                    "proTeamAbbrev": "DET",
+                    "name": "Amon-Ra St. Brown",
+                    "position": "WR"
                 },
-                "division": {
-                    "gamesBack": 0.0,
-                    "losses": 0,
-                    "percentage": 0.0,
-                    "pointsAgainst": 0.0,
-                    "pointsFor": 0.0,
-                    "streakLength": 0,
-                    "streakType": "NONE",
-                    "ties": 0,
-                    "wins": 0
+                {
+                    "points": 20.42,
+                    "projPoints": 24.014557386999996,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 21,
+                    "proTeamAbbrev": "PHI",
+                    "name": "Jalen Hurts",
+                    "position": "QB"
                 },
-                "home": {
-                    "gamesBack": 0.0,
-                    "losses": 0,
-                    "percentage": 0.0,
-                    "pointsAgainst": 0.0,
-                    "pointsFor": 0.0,
-                    "streakLength": 0,
-                    "streakType": "NONE",
-                    "ties": 0,
-                    "wins": 0
+                {
+                    "points": 11.9,
+                    "projPoints": 14.286297729000003,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 30,
+                    "proTeamAbbrev": "JAX",
+                    "name": "Travis Etienne Jr.",
+                    "position": "RB"
                 },
-                "overall": {
-                    "gamesBack": 0.0,
-                    "losses": 0,
-                    "percentage": 0.0,
-                    "pointsAgainst": 0.0,
-                    "pointsFor": 0.0,
-                    "streakLength": 0,
-                    "streakType": "NONE",
-                    "ties": 0,
-                    "wins": 0
+                {
+                    "points": 10.600000000000001,
+                    "projPoints": 14.735908553,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 33,
+                    "proTeamAbbrev": "BAL",
+                    "name": "Derrick Henry",
+                    "position": "RB"
+                },
+                {
+                    "points": 12.4,
+                    "projPoints": 15.768539554999997,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 9,
+                    "proTeamAbbrev": "GB",
+                    "name": "Josh Jacobs",
+                    "position": "FLEX"
+                },
+                {
+                    "points": 0,
+                    "projPoints": 14.7684978,
+                    "status": "STATUS_SCHEDULED",
+                    "proTeamId": 14,
+                    "proTeamAbbrev": "LAR",
+                    "name": "Cooper Kupp",
+                    "position": "WR"
+                },
+                {
+                    "points": 0.0,
+                    "projPoints": 0.0,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 4,
+                    "proTeamAbbrev": "CIN",
+                    "name": "Tee Higgins",
+                    "position": "Bench"
+                },
+                {
+                    "points": 8.4,
+                    "projPoints": 10.978198128,
+                    "status": "STATUS_IN_PROGRESS",
+                    "proTeamId": 5,
+                    "proTeamAbbrev": "CLE",
+                    "name": "David Njoku",
+                    "position": "TE"
+                },
+                {
+                    "points": 3.3000000000000003,
+                    "projPoints": 12.318960532999998,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 7,
+                    "proTeamAbbrev": "DEN",
+                    "name": "Javonte Williams",
+                    "position": "Bench"
+                },
+                {
+                    "points": 1.8,
+                    "projPoints": 11.948594296000001,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 10,
+                    "proTeamAbbrev": "TEN",
+                    "name": "DeAndre Hopkins",
+                    "position": "Bench"
+                },
+                {
+                    "points": 13.280000000000001,
+                    "projPoints": 17.751457986000002,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 30,
+                    "proTeamAbbrev": "JAX",
+                    "name": "Trevor Lawrence",
+                    "position": "Bench"
+                },
+                {
+                    "points": 11.8,
+                    "projPoints": 9.771022105,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 13,
+                    "proTeamAbbrev": "LV",
+                    "name": "Brock Bowers",
+                    "position": "Bench"
+                },
+                {
+                    "points": 10.0,
+                    "projPoints": 8.425354911000001,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 21,
+                    "proTeamAbbrev": "PHI",
+                    "name": "Jake Elliott",
+                    "position": "K"
+                },
+                {
+                    "points": 16.0,
+                    "projPoints": 7.235419346000001,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 18,
+                    "proTeamAbbrev": "NO",
+                    "name": "Saints D/ST",
+                    "position": "D/ST"
                 }
-            },
-            "tradeBlock": {},
-            "transactionCounter": {
-                "acquisitionBudgetSpent": 0,
-                "acquisitions": 0,
-                "drops": 0,
-                "matchupAcquisitionTotals": {},
-                "misc": 0,
-                "moveToActive": 0,
-                "moveToIR": 0,
-                "paid": 0.0,
-                "teamCharges": 0.0,
-                "trades": 0
-            },
-            "valuesByStat": {},
-            "waiverRank": 2
+            ],
+            "Name": "Scott"
         },
         {
-            "abbrev": "EURP",
-            "currentProjectedRank": 2,
-            "divisionId": 1,
-            "draftDayProjectedRank": 3,
-            "draftStrategy": {
-                "excludedPlayerIds": [
-                    3116406
-                ],
-                "keeperPlayerIds": []
-            },
-            "id": 8,
-            "isActive": false,
-            "logo": "https://g.espncdn.com/lm-static/logo-packs/ffl/ShieldsOfGlory-LDopa/ShieldsOfGlory-15.svg",
-            "logoType": "VECTOR",
-            "name": "Team Dragonfly",
-            "owners": [
-                "{C732A445-7027-4B50-82BE-9B37760B36A7}"
-            ],
-            "playoffSeed": 2,
-            "points": 0.0,
-            "pointsAdjusted": 0.0,
-            "pointsDelta": 0.0,
-            "primaryOwner": "{C732A445-7027-4B50-82BE-9B37760B36A7}",
-            "rankCalculatedFinal": 0,
-            "rankFinal": 0,
-            "record": {
-                "away": {
-                    "gamesBack": 0.0,
-                    "losses": 0,
-                    "percentage": 0.0,
-                    "pointsAgainst": 0.0,
-                    "pointsFor": 0.0,
-                    "streakLength": 0,
-                    "streakType": "NONE",
-                    "ties": 0,
-                    "wins": 0
+            "totalPoints": 143.02,
+            "donePlay": 6,
+            "inPlay": 3,
+            "leftToPlay": 0,
+            "projPoints": 131.34624630049998,
+            "Team": "Team Dragonfly",
+            "ownerId": "{C732A445-7027-4B50-82BE-9B37760B36A7}",
+            "roster": [
+                {
+                    "points": 13.600000000000001,
+                    "projPoints": 20.295362246899998,
+                    "status": "STATUS_IN_PROGRESS",
+                    "proTeamId": 6,
+                    "proTeamAbbrev": "DAL",
+                    "name": "CeeDee Lamb",
+                    "position": "WR"
                 },
-                "division": {
-                    "gamesBack": 0.0,
-                    "losses": 0,
-                    "percentage": 0.0,
-                    "pointsAgainst": 0.0,
-                    "pointsFor": 0.0,
-                    "streakLength": 0,
-                    "streakType": "NONE",
-                    "ties": 0,
-                    "wins": 0
+                {
+                    "points": 6.4,
+                    "projPoints": 14.1439097776,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 12,
+                    "proTeamAbbrev": "KC",
+                    "name": "Travis Kelce",
+                    "position": "TE"
                 },
-                "home": {
-                    "gamesBack": 0.0,
-                    "losses": 0,
-                    "percentage": 0.0,
-                    "pointsAgainst": 0.0,
-                    "pointsFor": 0.0,
-                    "streakLength": 0,
-                    "streakType": "NONE",
-                    "ties": 0,
-                    "wins": 0
+                {
+                    "points": 27.12,
+                    "projPoints": 23.015010931,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 33,
+                    "proTeamAbbrev": "BAL",
+                    "name": "Lamar Jackson",
+                    "position": "QB"
                 },
-                "overall": {
-                    "gamesBack": 0.0,
-                    "losses": 0,
-                    "percentage": 0.0,
-                    "pointsAgainst": 0.0,
-                    "pointsFor": 0.0,
-                    "streakLength": 0,
-                    "streakType": "NONE",
-                    "ties": 0,
-                    "wins": 0
+                {
+                    "points": 13.3,
+                    "projPoints": 17.274239641999998,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 2,
+                    "proTeamAbbrev": "BUF",
+                    "name": "James Cook",
+                    "position": "RB"
+                },
+                {
+                    "points": 5.9,
+                    "projPoints": 13.942892226000001,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 26,
+                    "proTeamAbbrev": "SEA",
+                    "name": "DK Metcalf",
+                    "position": "WR"
+                },
+                {
+                    "points": 19.3,
+                    "projPoints": 13.332622637000002,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 22,
+                    "proTeamAbbrev": "ARI",
+                    "name": "James Conner",
+                    "position": "RB"
+                },
+                {
+                    "points": 15.4,
+                    "projPoints": 14.526008163000002,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 21,
+                    "proTeamAbbrev": "PHI",
+                    "name": "DeVonta Smith",
+                    "position": "FLEX"
+                },
+                {
+                    "points": 22.3,
+                    "projPoints": 13.885085104500002,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 27,
+                    "proTeamAbbrev": "TB",
+                    "name": "Chris Godwin",
+                    "position": "Bench"
+                },
+                {
+                    "points": 21.0,
+                    "projPoints": 6.941522125999999,
+                    "status": "STATUS_IN_PROGRESS",
+                    "proTeamId": 6,
+                    "proTeamAbbrev": "DAL",
+                    "name": "Cowboys D/ST",
+                    "position": "D/ST"
+                },
+                {
+                    "points": 10.3,
+                    "projPoints": 12.328149178000002,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 9,
+                    "proTeamAbbrev": "GB",
+                    "name": "Christian Watson",
+                    "position": "Bench"
+                },
+                {
+                    "points": 18.400000000000002,
+                    "projPoints": 11.019010192999998,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 10,
+                    "proTeamAbbrev": "TEN",
+                    "name": "Tony Pollard",
+                    "position": "Bench"
+                },
+                {
+                    "points": 2.1,
+                    "projPoints": 9.6879964886,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 3,
+                    "proTeamAbbrev": "CHI",
+                    "name": "Rome Odunze",
+                    "position": "Bench"
+                },
+                {
+                    "points": 21.0,
+                    "projPoints": 7.874678551,
+                    "status": "STATUS_IN_PROGRESS",
+                    "proTeamId": 6,
+                    "proTeamAbbrev": "DAL",
+                    "name": "Brandon Aubrey",
+                    "position": "K"
+                },
+                {
+                    "points": 12.36,
+                    "projPoints": 20.357375407,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 24,
+                    "proTeamAbbrev": "LAC",
+                    "name": "Justin Herbert",
+                    "position": "Bench"
                 }
-            },
-            "tradeBlock": {},
-            "transactionCounter": {
-                "acquisitionBudgetSpent": 0,
-                "acquisitions": 0,
-                "drops": 0,
-                "matchupAcquisitionTotals": {},
-                "misc": 0,
-                "moveToActive": 0,
-                "moveToIR": 0,
-                "paid": 0.0,
-                "teamCharges": 0.0,
-                "trades": 0
-            },
-            "valuesByStat": {},
-            "waiverRank": 5
+            ],
+            "Name": "Jack Jr"
         },
         {
-            "abbrev": "TFT",
-            "currentProjectedRank": 6,
-            "divisionId": 1,
-            "draftDayProjectedRank": 4,
-            "draftStrategy": {
-                "keeperPlayerIds": []
-            },
-            "id": 9,
-            "isActive": false,
-            "logo": "https://g.espncdn.com/lm-static/logo-packs/core/AnimalHeads/animal_heads-13.svg",
-            "logoType": "VECTOR",
-            "name": "Trate's Football Team",
-            "owners": [
-                "{57685D79-5D3D-49FE-A85D-795D3DD9FEF0}",
-                "{AD0C8351-96CF-4C5D-9E9B-0004BA3FD667}"
-            ],
-            "playoffSeed": 1,
-            "points": 0.0,
-            "pointsAdjusted": 0.0,
-            "pointsDelta": 0.0,
-            "primaryOwner": "{57685D79-5D3D-49FE-A85D-795D3DD9FEF0}",
-            "rankCalculatedFinal": 0,
-            "rankFinal": 0,
-            "record": {
-                "away": {
-                    "gamesBack": 0.0,
-                    "losses": 0,
-                    "percentage": 0.0,
-                    "pointsAgainst": 0.0,
-                    "pointsFor": 0.0,
-                    "streakLength": 0,
-                    "streakType": "NONE",
-                    "ties": 0,
-                    "wins": 0
+            "totalPoints": 99.56,
+            "donePlay": 8,
+            "inPlay": 0,
+            "leftToPlay": 1,
+            "projPoints": 119.612774127,
+            "Team": "Trate's Football Team",
+            "ownerId": "{57685D79-5D3D-49FE-A85D-795D3DD9FEF0}",
+            "roster": [
+                {
+                    "points": 12.2,
+                    "projPoints": 16.6567397451,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 4,
+                    "proTeamAbbrev": "CIN",
+                    "name": "Ja'Marr Chase",
+                    "position": "WR"
                 },
-                "division": {
-                    "gamesBack": 0.0,
-                    "losses": 0,
-                    "percentage": 0.0,
-                    "pointsAgainst": 0.0,
-                    "pointsFor": 0.0,
-                    "streakLength": 0,
-                    "streakType": "NONE",
-                    "ties": 0,
-                    "wins": 0
+                {
+                    "points": 0,
+                    "projPoints": 16.589690961000002,
+                    "status": "STATUS_SCHEDULED",
+                    "proTeamId": 8,
+                    "proTeamAbbrev": "DET",
+                    "name": "Jahmyr Gibbs",
+                    "position": "Bench"
                 },
-                "home": {
-                    "gamesBack": 0.0,
-                    "losses": 0,
-                    "percentage": 0.0,
-                    "pointsAgainst": 0.0,
-                    "pointsFor": 0.0,
-                    "streakLength": 0,
-                    "streakType": "NONE",
-                    "ties": 0,
-                    "wins": 0
+                {
+                    "points": 23.1,
+                    "projPoints": 15.177799207000003,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 27,
+                    "proTeamAbbrev": "TB",
+                    "name": "Mike Evans",
+                    "position": "WR"
                 },
-                "overall": {
-                    "gamesBack": 0.0,
-                    "losses": 0,
-                    "percentage": 0.0,
-                    "pointsAgainst": 0.0,
-                    "pointsFor": 0.0,
-                    "streakLength": 0,
-                    "streakType": "NONE",
-                    "ties": 0,
-                    "wins": 0
+                {
+                    "points": 3.4000000000000004,
+                    "projPoints": 13.12757402,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 33,
+                    "proTeamAbbrev": "BAL",
+                    "name": "Mark Andrews",
+                    "position": "TE"
+                },
+                {
+                    "points": 10.0,
+                    "projPoints": 13.6300036048,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 3,
+                    "proTeamAbbrev": "CHI",
+                    "name": "DJ Moore",
+                    "position": "Bench"
+                },
+                {
+                    "points": 8.06,
+                    "projPoints": 23.155739333,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 4,
+                    "proTeamAbbrev": "CIN",
+                    "name": "Joe Burrow",
+                    "position": "QB"
+                },
+                {
+                    "points": 8.0,
+                    "projPoints": 14.410173885899997,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 10,
+                    "proTeamAbbrev": "TEN",
+                    "name": "Calvin Ridley",
+                    "position": "FLEX"
+                },
+                {
+                    "points": 18.9,
+                    "projPoints": 13.648479061000002,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 16,
+                    "proTeamAbbrev": "MIN",
+                    "name": "Aaron Jones",
+                    "position": "RB"
+                },
+                {
+                    "points": 6.9,
+                    "projPoints": 12.8606951067,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 3,
+                    "proTeamAbbrev": "CHI",
+                    "name": "Keenan Allen",
+                    "position": "Bench"
+                },
+                {
+                    "points": 16.18,
+                    "projPoints": 20.188838553,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 22,
+                    "proTeamAbbrev": "ARI",
+                    "name": "Kyler Murray",
+                    "position": "Bench"
+                },
+                {
+                    "points": 12.9,
+                    "projPoints": 9.803026818000001,
+                    "status": "STATUS_IN_PROGRESS",
+                    "proTeamId": 6,
+                    "proTeamAbbrev": "DAL",
+                    "name": "Ezekiel Elliott",
+                    "position": "Bench"
+                },
+                {
+                    "points": 0.0,
+                    "projPoints": 0.0,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 16,
+                    "proTeamAbbrev": "MIN",
+                    "name": "T.J. Hockenson",
+                    "position": "IR"
+                },
+                {
+                    "points": 3.0,
+                    "projPoints": 3.773091074999999,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 33,
+                    "proTeamAbbrev": "BAL",
+                    "name": "Ravens D/ST",
+                    "position": "D/ST"
+                },
+                {
+                    "points": 0,
+                    "projPoints": 7.864991032999999,
+                    "status": "STATUS_SCHEDULED",
+                    "proTeamId": 20,
+                    "proTeamAbbrev": "NYJ",
+                    "name": "Greg Zuerlein",
+                    "position": "K"
+                },
+                {
+                    "points": 22.9,
+                    "projPoints": 11.798186767000002,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 24,
+                    "proTeamAbbrev": "LAC",
+                    "name": "J.K. Dobbins",
+                    "position": "RB"
                 }
-            },
-            "tradeBlock": {},
-            "transactionCounter": {
-                "acquisitionBudgetSpent": 0,
-                "acquisitions": 0,
-                "drops": 0,
-                "matchupAcquisitionTotals": {},
-                "misc": 0,
-                "moveToActive": 1,
-                "moveToIR": 1,
-                "paid": 0.0,
-                "teamCharges": 0.0,
-                "trades": 0
-            },
-            "valuesByStat": {},
-            "waiverRank": 8
+            ],
+            "Name": "Trate"
+        },
+        {
+            "totalPoints": 78.92,
+            "donePlay": 5,
+            "inPlay": 2,
+            "leftToPlay": 2,
+            "projPoints": 125.1028103089,
+            "Team": "Dumb Doras",
+            "ownerId": "{110EE426-6B0F-4FB9-B080-39EC67F770A2}",
+            "roster": [
+                {
+                    "points": 13.600000000000001,
+                    "projPoints": 20.295362246899998,
+                    "status": "STATUS_IN_PROGRESS",
+                    "proTeamId": 6,
+                    "proTeamAbbrev": "DAL",
+                    "name": "CeeDee Lamb",
+                    "position": "FLEX"
+                },
+                {
+                    "points": 1.4,
+                    "projPoints": 15.403083057,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 22,
+                    "proTeamAbbrev": "ARI",
+                    "name": "Marvin Harrison Jr.",
+                    "position": "WR"
+                },
+                {
+                    "points": 3.5,
+                    "projPoints": 14.364949434000001,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 1,
+                    "proTeamAbbrev": "ATL",
+                    "name": "Drake London",
+                    "position": "WR"
+                },
+                {
+                    "points": 27.12,
+                    "projPoints": 23.015010931,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 33,
+                    "proTeamAbbrev": "BAL",
+                    "name": "Lamar Jackson",
+                    "position": "QB"
+                },
+                {
+                    "points": 3.4000000000000004,
+                    "projPoints": 13.12757402,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 33,
+                    "proTeamAbbrev": "BAL",
+                    "name": "Mark Andrews",
+                    "position": "TE"
+                },
+                {
+                    "points": 17.3,
+                    "projPoints": 14.0111070368,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 12,
+                    "proTeamAbbrev": "KC",
+                    "name": "Rashee Rice",
+                    "position": "Bench"
+                },
+                {
+                    "points": 2.1,
+                    "projPoints": 11.544059290000002,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 2,
+                    "proTeamAbbrev": "BUF",
+                    "name": "Dalton Kincaid",
+                    "position": "Bench"
+                },
+                {
+                    "points": 0,
+                    "projPoints": 12.711824387000004,
+                    "status": "STATUS_SCHEDULED",
+                    "proTeamId": 8,
+                    "proTeamAbbrev": "DET",
+                    "name": "David Montgomery",
+                    "position": "RB"
+                },
+                {
+                    "points": 8.9,
+                    "projPoints": 11.332226628,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 23,
+                    "proTeamAbbrev": "PIT",
+                    "name": "Najee Harris",
+                    "position": "RB"
+                },
+                {
+                    "points": 0.0,
+                    "projPoints": 0.0,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 29,
+                    "proTeamAbbrev": "CAR",
+                    "name": "Jonathon Brooks",
+                    "position": "IR"
+                },
+                {
+                    "points": 9.100000000000001,
+                    "projPoints": 11.565923154,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 2,
+                    "proTeamAbbrev": "BUF",
+                    "name": "Keon Coleman",
+                    "position": "Bench"
+                },
+                {
+                    "points": 21.0,
+                    "projPoints": 6.941522125999999,
+                    "status": "STATUS_IN_PROGRESS",
+                    "proTeamId": 6,
+                    "proTeamAbbrev": "DAL",
+                    "name": "Cowboys D/ST",
+                    "position": "D/ST"
+                },
+                {
+                    "points": 0,
+                    "projPoints": 7.9112574790000005,
+                    "status": "STATUS_SCHEDULED",
+                    "proTeamId": 25,
+                    "proTeamAbbrev": "SF",
+                    "name": "Jake Moody",
+                    "position": "K"
+                },
+                {
+                    "points": 9.2,
+                    "projPoints": 11.959614969,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 19,
+                    "proTeamAbbrev": "NYG",
+                    "name": "Devin Singletary",
+                    "position": "Bench"
+                },
+                {
+                    "points": 16.18,
+                    "projPoints": 20.188838553,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 22,
+                    "proTeamAbbrev": "ARI",
+                    "name": "Kyler Murray",
+                    "position": "Bench"
+                }
+            ],
+            "Name": "Brian Jr"
+        },
+        {
+            "totalPoints": 91.86,
+            "donePlay": 7,
+            "inPlay": 1,
+            "leftToPlay": 1,
+            "projPoints": 125.93771048155998,
+            "Team": "Fluffy Bunny Feet",
+            "ownerId": "{2C2C9FFD-CDA3-4381-AC9F-FDCDA3A381C7}",
+            "roster": [
+                {
+                    "points": 0,
+                    "projPoints": 22.474535311,
+                    "status": "STATUS_SCHEDULED",
+                    "proTeamId": 25,
+                    "proTeamAbbrev": "SF",
+                    "name": "Christian McCaffrey",
+                    "position": "RB"
+                },
+                {
+                    "points": 11.9,
+                    "projPoints": 14.286297729000003,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 30,
+                    "proTeamAbbrev": "JAX",
+                    "name": "Travis Etienne Jr.",
+                    "position": "RB"
+                },
+                {
+                    "points": 3.1,
+                    "projPoints": 16.26999922,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 18,
+                    "proTeamAbbrev": "NO",
+                    "name": "Chris Olave",
+                    "position": "WR"
+                },
+                {
+                    "points": 12.4,
+                    "projPoints": 15.768539554999997,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 9,
+                    "proTeamAbbrev": "GB",
+                    "name": "Josh Jacobs",
+                    "position": "FLEX"
+                },
+                {
+                    "points": 5.9,
+                    "projPoints": 13.942892226000001,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 26,
+                    "proTeamAbbrev": "SEA",
+                    "name": "DK Metcalf",
+                    "position": "Bench"
+                },
+                {
+                    "points": 13.46,
+                    "projPoints": 19.458163682,
+                    "status": "STATUS_IN_PROGRESS",
+                    "proTeamId": 6,
+                    "proTeamAbbrev": "DAL",
+                    "name": "Dak Prescott",
+                    "position": "QB"
+                },
+                {
+                    "points": 15.4,
+                    "projPoints": 14.526008163000002,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 21,
+                    "proTeamAbbrev": "PHI",
+                    "name": "DeVonta Smith",
+                    "position": "WR"
+                },
+                {
+                    "points": 8.9,
+                    "projPoints": 13.385255220200001,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 34,
+                    "proTeamAbbrev": "HOU",
+                    "name": "Tank Dell",
+                    "position": "Bench"
+                },
+                {
+                    "points": 3.6,
+                    "projPoints": 13.764739504,
+                    "status": "STATUS_IN_PROGRESS",
+                    "proTeamId": 5,
+                    "proTeamAbbrev": "CLE",
+                    "name": "Amari Cooper",
+                    "position": "Bench"
+                },
+                {
+                    "points": 10.3,
+                    "projPoints": 12.328149178000002,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 9,
+                    "proTeamAbbrev": "GB",
+                    "name": "Christian Watson",
+                    "position": "Bench"
+                },
+                {
+                    "points": 7.800000000000001,
+                    "projPoints": 11.911573701999998,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 7,
+                    "proTeamAbbrev": "DEN",
+                    "name": "Courtland Sutton",
+                    "position": "Bench"
+                },
+                {
+                    "points": 4.6,
+                    "projPoints": 7.26250146656,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 18,
+                    "proTeamAbbrev": "NO",
+                    "name": "Taysom Hill",
+                    "position": "TE"
+                },
+                {
+                    "points": 21.0,
+                    "projPoints": 7.8518740000000005,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 16,
+                    "proTeamAbbrev": "MIN",
+                    "name": "Vikings D/ST",
+                    "position": "D/ST"
+                },
+                {
+                    "points": 10.0,
+                    "projPoints": 8.039791354999998,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 2,
+                    "proTeamAbbrev": "BUF",
+                    "name": "Tyler Bass",
+                    "position": "K"
+                }
+            ],
+            "Name": "John"
+        },
+        {
+            "totalPoints": 98.28,
+            "donePlay": 7,
+            "inPlay": 0,
+            "leftToPlay": 2,
+            "projPoints": 123.53379785299998,
+            "Team": "brady's Best Team",
+            "ownerId": "{0C3DEE60-4AB3-454A-9925-78D9E65D1A1D}",
+            "roster": [
+                {
+                    "points": 16.1,
+                    "projPoints": 18.559790455999998,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 1,
+                    "proTeamAbbrev": "ATL",
+                    "name": "Bijan Robinson",
+                    "position": "RB"
+                },
+                {
+                    "points": 15.8,
+                    "projPoints": 15.259431222999998,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 12,
+                    "proTeamAbbrev": "KC",
+                    "name": "Isiah Pacheco",
+                    "position": "RB"
+                },
+                {
+                    "points": 7.1,
+                    "projPoints": 15.531441766000002,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 11,
+                    "proTeamAbbrev": "IND",
+                    "name": "Michael Pittman Jr.",
+                    "position": "WR"
+                },
+                {
+                    "points": 11.600000000000001,
+                    "projPoints": 13.976577928,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 19,
+                    "proTeamAbbrev": "NYG",
+                    "name": "Malik Nabers",
+                    "position": "WR"
+                },
+                {
+                    "points": 0,
+                    "projPoints": 16.179370809999998,
+                    "status": "STATUS_SCHEDULED",
+                    "proTeamId": 25,
+                    "proTeamAbbrev": "SF",
+                    "name": "Deebo Samuel Sr.",
+                    "position": "FLEX"
+                },
+                {
+                    "points": 30.080000000000002,
+                    "projPoints": 21.402879845999998,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 11,
+                    "proTeamAbbrev": "IND",
+                    "name": "Anthony Richardson",
+                    "position": "QB"
+                },
+                {
+                    "points": 8.0,
+                    "projPoints": 14.410173885899997,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 10,
+                    "proTeamAbbrev": "TEN",
+                    "name": "Calvin Ridley",
+                    "position": "Bench"
+                },
+                {
+                    "points": 11.6,
+                    "projPoints": 10.416233624000002,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 1,
+                    "proTeamAbbrev": "ATL",
+                    "name": "Kyle Pitts",
+                    "position": "TE"
+                },
+                {
+                    "points": 6.9,
+                    "projPoints": 12.8606951067,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 3,
+                    "proTeamAbbrev": "CHI",
+                    "name": "Keenan Allen",
+                    "position": "Bench"
+                },
+                {
+                    "points": 17.9,
+                    "projPoints": 11.690948913000001,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 28,
+                    "proTeamAbbrev": "WSH",
+                    "name": "Brian Robinson Jr.",
+                    "position": "Bench"
+                },
+                {
+                    "points": 6.5,
+                    "projPoints": 11.693070879000002,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 16,
+                    "proTeamAbbrev": "MIN",
+                    "name": "Jordan Addison",
+                    "position": "Bench"
+                },
+                {
+                    "points": 7.199999999999999,
+                    "projPoints": 10.723122587999999,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 10,
+                    "proTeamAbbrev": "TEN",
+                    "name": "Tyjae Spears",
+                    "position": "Bench"
+                },
+                {
+                    "points": 0,
+                    "projPoints": 3.8546357420000006,
+                    "status": "STATUS_SCHEDULED",
+                    "proTeamId": 20,
+                    "proTeamAbbrev": "NYJ",
+                    "name": "Jets D/ST",
+                    "position": "D/ST"
+                },
+                {
+                    "points": 6.0,
+                    "projPoints": 8.353436458,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 4,
+                    "proTeamAbbrev": "CIN",
+                    "name": "Evan McPherson",
+                    "position": "K"
+                }
+            ],
+            "Name": "Brady"
+        },
+        {
+            "totalPoints": 130.26,
+            "donePlay": 7,
+            "inPlay": 0,
+            "leftToPlay": 2,
+            "projPoints": 129.658866216,
+            "Team": "Philly Fanatics",
+            "ownerId": "{C3FA1FC7-613C-4FE7-A05C-02608D26ACA4}",
+            "roster": [
+                {
+                    "points": 0,
+                    "projPoints": 17.936340469999998,
+                    "status": "STATUS_SCHEDULED",
+                    "proTeamId": 20,
+                    "proTeamAbbrev": "NYJ",
+                    "name": "Breece Hall",
+                    "position": "FLEX"
+                },
+                {
+                    "points": 22.9,
+                    "projPoints": 17.194557334000002,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 21,
+                    "proTeamAbbrev": "PHI",
+                    "name": "A.J. Brown",
+                    "position": "WR"
+                },
+                {
+                    "points": 23.1,
+                    "projPoints": 15.177799207000003,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 27,
+                    "proTeamAbbrev": "TB",
+                    "name": "Mike Evans",
+                    "position": "WR"
+                },
+                {
+                    "points": 0,
+                    "projPoints": 14.058799597,
+                    "status": "STATUS_SCHEDULED",
+                    "proTeamId": 8,
+                    "proTeamAbbrev": "DET",
+                    "name": "Sam LaPorta",
+                    "position": "TE"
+                },
+                {
+                    "points": 23.0,
+                    "projPoints": 13.992232031000002,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 15,
+                    "proTeamAbbrev": "MIA",
+                    "name": "De'Von Achane",
+                    "position": "RB"
+                },
+                {
+                    "points": 22.66,
+                    "projPoints": 22.929079721999997,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 34,
+                    "proTeamAbbrev": "HOU",
+                    "name": "C.J. Stroud",
+                    "position": "QB"
+                },
+                {
+                    "points": 21.6,
+                    "projPoints": 13.081345828999998,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 17,
+                    "proTeamAbbrev": "NE",
+                    "name": "Rhamondre Stevenson",
+                    "position": "RB"
+                },
+                {
+                    "points": 0,
+                    "projPoints": 11.349451505,
+                    "status": "STATUS_SCHEDULED",
+                    "proTeamId": 25,
+                    "proTeamAbbrev": "SF",
+                    "name": "George Kittle",
+                    "position": "Bench"
+                },
+                {
+                    "points": 3.7,
+                    "projPoints": 13.215460625,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 28,
+                    "proTeamAbbrev": "WSH",
+                    "name": "Terry McLaurin",
+                    "position": "Bench"
+                },
+                {
+                    "points": 20.8,
+                    "projPoints": 11.3614465258,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 12,
+                    "proTeamAbbrev": "KC",
+                    "name": "Xavier Worthy",
+                    "position": "Bench"
+                },
+                {
+                    "points": 9.0,
+                    "projPoints": 8.404155849,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 12,
+                    "proTeamAbbrev": "KC",
+                    "name": "Harrison Butker",
+                    "position": "K"
+                },
+                {
+                    "points": 3.0,
+                    "projPoints": 3.773091074999999,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 33,
+                    "proTeamAbbrev": "BAL",
+                    "name": "Ravens D/ST",
+                    "position": "Bench"
+                },
+                {
+                    "points": 12.3,
+                    "projPoints": 11.890800856,
+                    "status": "STATUS_IN_PROGRESS",
+                    "proTeamId": 5,
+                    "proTeamAbbrev": "CLE",
+                    "name": "Jerome Ford",
+                    "position": "Bench"
+                },
+                {
+                    "points": 8.0,
+                    "projPoints": 6.884556176999999,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 15,
+                    "proTeamAbbrev": "MIA",
+                    "name": "Dolphins D/ST",
+                    "position": "D/ST"
+                }
+            ],
+            "Name": "Brian G"
+        },
+        {
+            "totalPoints": 107.80000000000001,
+            "donePlay": 7,
+            "inPlay": 0,
+            "leftToPlay": 2,
+            "projPoints": 133.81715528979998,
+            "Team": "Peyton's Pointed Team",
+            "ownerId": "{6D56A84B-3DC8-4CB2-AA10-427DE47CF022}",
+            "roster": [
+                {
+                    "points": 0,
+                    "projPoints": 19.4093208631,
+                    "status": "STATUS_SCHEDULED",
+                    "proTeamId": 8,
+                    "proTeamAbbrev": "DET",
+                    "name": "Amon-Ra St. Brown",
+                    "position": "WR"
+                },
+                {
+                    "points": 0,
+                    "projPoints": 16.535497811699997,
+                    "status": "STATUS_SCHEDULED",
+                    "proTeamId": 20,
+                    "proTeamAbbrev": "NYJ",
+                    "name": "Garrett Wilson",
+                    "position": "FLEX"
+                },
+                {
+                    "points": 17.700000000000003,
+                    "projPoints": 14.47650994,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 34,
+                    "proTeamAbbrev": "HOU",
+                    "name": "Nico Collins",
+                    "position": "WR"
+                },
+                {
+                    "points": 13.3,
+                    "projPoints": 17.274239641999998,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 2,
+                    "proTeamAbbrev": "BUF",
+                    "name": "James Cook",
+                    "position": "RB"
+                },
+                {
+                    "points": 18.900000000000002,
+                    "projPoints": 16.110538766000005,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 26,
+                    "proTeamAbbrev": "SEA",
+                    "name": "Kenneth Walker III",
+                    "position": "RB"
+                },
+                {
+                    "points": 1.5,
+                    "projPoints": 12.007445276,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 30,
+                    "proTeamAbbrev": "JAX",
+                    "name": "Evan Engram",
+                    "position": "TE"
+                },
+                {
+                    "points": 0.0,
+                    "projPoints": 0.0,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 4,
+                    "proTeamAbbrev": "CIN",
+                    "name": "Tee Higgins",
+                    "position": "Bench"
+                },
+                {
+                    "points": 4.0,
+                    "projPoints": 10.200622589,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 23,
+                    "proTeamAbbrev": "PIT",
+                    "name": "Jaylen Warren",
+                    "position": "Bench"
+                },
+                {
+                    "points": 3.9000000000000004,
+                    "projPoints": 12.475858510000002,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 26,
+                    "proTeamAbbrev": "SEA",
+                    "name": "Jaxon Smith-Njigba",
+                    "position": "Bench"
+                },
+                {
+                    "points": 4.5,
+                    "projPoints": 10.458059398,
+                    "status": "STATUS_IN_PROGRESS",
+                    "proTeamId": 6,
+                    "proTeamAbbrev": "DAL",
+                    "name": "Jake Ferguson",
+                    "position": "Bench"
+                },
+                {
+                    "points": 10.2,
+                    "projPoints": 12.127567197000003,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 28,
+                    "proTeamAbbrev": "WSH",
+                    "name": "Austin Ekeler",
+                    "position": "Bench"
+                },
+                {
+                    "points": 10.0,
+                    "projPoints": 8.425354911000001,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 21,
+                    "proTeamAbbrev": "PHI",
+                    "name": "Jake Elliott",
+                    "position": "K"
+                },
+                {
+                    "points": 26.0,
+                    "projPoints": 7.377762053,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 3,
+                    "proTeamAbbrev": "CHI",
+                    "name": "Bears D/ST",
+                    "position": "D/ST"
+                },
+                {
+                    "points": 20.4,
+                    "projPoints": 22.200486027,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 9,
+                    "proTeamAbbrev": "GB",
+                    "name": "Jordan Love",
+                    "position": "QB"
+                }
+            ],
+            "Name": "Peyton"
+        },
+        {
+            "totalPoints": 84.66,
+            "donePlay": 7,
+            "inPlay": 0,
+            "leftToPlay": 2,
+            "projPoints": 133.737893404,
+            "Team": "Major F Stars",
+            "ownerId": "{59565568-0CFC-4DFD-8499-4238E679CD6C}",
+            "roster": [
+                {
+                    "points": 26.0,
+                    "projPoints": 19.686607589700003,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 15,
+                    "proTeamAbbrev": "MIA",
+                    "name": "Tyreek Hill",
+                    "position": "WR"
+                },
+                {
+                    "points": 0,
+                    "projPoints": 17.145307721699997,
+                    "status": "STATUS_SCHEDULED",
+                    "proTeamId": 14,
+                    "proTeamAbbrev": "LAR",
+                    "name": "Puka Nacua",
+                    "position": "WR"
+                },
+                {
+                    "points": 10.600000000000001,
+                    "projPoints": 14.735908553,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 33,
+                    "proTeamAbbrev": "BAL",
+                    "name": "Derrick Henry",
+                    "position": "RB"
+                },
+                {
+                    "points": 22.0,
+                    "projPoints": 17.68731794,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 18,
+                    "proTeamAbbrev": "NO",
+                    "name": "Alvin Kamara",
+                    "position": "RB"
+                },
+                {
+                    "points": 6.4,
+                    "projPoints": 14.1439097776,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 12,
+                    "proTeamAbbrev": "KC",
+                    "name": "Travis Kelce",
+                    "position": "TE"
+                },
+                {
+                    "points": 8.06,
+                    "projPoints": 23.155739333,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 4,
+                    "proTeamAbbrev": "CIN",
+                    "name": "Joe Burrow",
+                    "position": "QB"
+                },
+                {
+                    "points": 4.6000000000000005,
+                    "projPoints": 13.204425683,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 13,
+                    "proTeamAbbrev": "LV",
+                    "name": "Zamir White",
+                    "position": "FLEX"
+                },
+                {
+                    "points": 3.9000000000000004,
+                    "projPoints": 13.3436005414,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 29,
+                    "proTeamAbbrev": "CAR",
+                    "name": "Diontae Johnson",
+                    "position": "Bench"
+                },
+                {
+                    "points": 4.0,
+                    "projPoints": 12.835515491399999,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 30,
+                    "proTeamAbbrev": "JAX",
+                    "name": "Christian Kirk",
+                    "position": "Bench"
+                },
+                {
+                    "points": 7.0,
+                    "projPoints": 8.227022522999999,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 33,
+                    "proTeamAbbrev": "BAL",
+                    "name": "Justin Tucker",
+                    "position": "K"
+                },
+                {
+                    "points": 2.1,
+                    "projPoints": 9.6879964886,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 3,
+                    "proTeamAbbrev": "CHI",
+                    "name": "Rome Odunze",
+                    "position": "Bench"
+                },
+                {
+                    "points": 0,
+                    "projPoints": 19.1114764549,
+                    "status": "STATUS_SCHEDULED",
+                    "proTeamId": 20,
+                    "proTeamAbbrev": "NYJ",
+                    "name": "Aaron Rodgers",
+                    "position": "Bench"
+                },
+                {
+                    "points": 0,
+                    "projPoints": 5.751654283,
+                    "status": "STATUS_SCHEDULED",
+                    "proTeamId": 25,
+                    "proTeamAbbrev": "SF",
+                    "name": "49ers D/ST",
+                    "position": "D/ST"
+                },
+                {
+                    "points": 5.3,
+                    "projPoints": 11.330365619999998,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 4,
+                    "proTeamAbbrev": "CIN",
+                    "name": "Chase Brown",
+                    "position": "Bench"
+                }
+            ],
+            "Name": "Dennis"
+        },
+        {
+            "totalPoints": 155.74,
+            "donePlay": 8,
+            "inPlay": 1,
+            "leftToPlay": 0,
+            "projPoints": 129.50252974440002,
+            "Team": "The BumperKarls",
+            "ownerId": "{C3FA1FC7-613C-4FE7-A05C-02608D26ACA4}",
+            "roster": [
+                {
+                    "points": 12.2,
+                    "projPoints": 16.6567397451,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 4,
+                    "proTeamAbbrev": "CIN",
+                    "name": "Ja'Marr Chase",
+                    "position": "WR"
+                },
+                {
+                    "points": 33.199999999999996,
+                    "projPoints": 17.311080914000005,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 21,
+                    "proTeamAbbrev": "PHI",
+                    "name": "Saquon Barkley",
+                    "position": "RB"
+                },
+                {
+                    "points": 10.9,
+                    "projPoints": 16.393160225000003,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 13,
+                    "proTeamAbbrev": "LV",
+                    "name": "Davante Adams",
+                    "position": "FLEX"
+                },
+                {
+                    "points": 26.799999999999997,
+                    "projPoints": 16.253041135999997,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 34,
+                    "proTeamAbbrev": "HOU",
+                    "name": "Joe Mixon",
+                    "position": "RB"
+                },
+                {
+                    "points": 8.0,
+                    "projPoints": 12.469623027,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 22,
+                    "proTeamAbbrev": "ARI",
+                    "name": "Trey McBride",
+                    "position": "TE"
+                },
+                {
+                    "points": 17.14,
+                    "projPoints": 23.545016372,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 12,
+                    "proTeamAbbrev": "KC",
+                    "name": "Patrick Mahomes",
+                    "position": "QB"
+                },
+                {
+                    "points": 13.5,
+                    "projPoints": 12.8345808573,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 23,
+                    "proTeamAbbrev": "PIT",
+                    "name": "George Pickens",
+                    "position": "WR"
+                },
+                {
+                    "points": 5.0,
+                    "projPoints": 12.572438626999999,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 3,
+                    "proTeamAbbrev": "CHI",
+                    "name": "D'Andre Swift",
+                    "position": "Bench"
+                },
+                {
+                    "points": 1.8,
+                    "projPoints": 11.948594296000001,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 10,
+                    "proTeamAbbrev": "TEN",
+                    "name": "DeAndre Hopkins",
+                    "position": "Bench"
+                },
+                {
+                    "points": 8.4,
+                    "projPoints": 10.978198128,
+                    "status": "STATUS_IN_PROGRESS",
+                    "proTeamId": 5,
+                    "proTeamAbbrev": "CLE",
+                    "name": "David Njoku",
+                    "position": "Bench"
+                },
+                {
+                    "points": 21.0,
+                    "projPoints": 7.874678551,
+                    "status": "STATUS_IN_PROGRESS",
+                    "proTeamId": 6,
+                    "proTeamAbbrev": "DAL",
+                    "name": "Brandon Aubrey",
+                    "position": "K"
+                },
+                {
+                    "points": 14.100000000000001,
+                    "projPoints": 10.758591501999998,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 4,
+                    "proTeamAbbrev": "CIN",
+                    "name": "Zack Moss",
+                    "position": "Bench"
+                },
+                {
+                    "points": 13.0,
+                    "projPoints": 6.164608917,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 23,
+                    "proTeamAbbrev": "PIT",
+                    "name": "Steelers D/ST",
+                    "position": "D/ST"
+                },
+                {
+                    "points": 0,
+                    "projPoints": 19.579931773,
+                    "status": "STATUS_SCHEDULED",
+                    "proTeamId": 25,
+                    "proTeamAbbrev": "SF",
+                    "name": "Brock Purdy",
+                    "position": "Bench"
+                }
+            ],
+            "Name": "Kyle"
+        },
+        {
+            "totalPoints": 84.28,
+            "donePlay": 6,
+            "inPlay": 0,
+            "leftToPlay": 3,
+            "projPoints": 126.41581499809999,
+            "Team": "Newest Outlaw",
+            "ownerId": "{AD0C8351-96CF-4C5D-9E9B-0004BA3FD667}",
+            "roster": [
+                {
+                    "points": 10.8,
+                    "projPoints": 16.75361728,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 11,
+                    "proTeamAbbrev": "IND",
+                    "name": "Jonathan Taylor",
+                    "position": "RB"
+                },
+                {
+                    "points": 0,
+                    "projPoints": 16.589690961000002,
+                    "status": "STATUS_SCHEDULED",
+                    "proTeamId": 8,
+                    "proTeamAbbrev": "DET",
+                    "name": "Jahmyr Gibbs",
+                    "position": "RB"
+                },
+                {
+                    "points": 0,
+                    "projPoints": 14.7684978,
+                    "status": "STATUS_SCHEDULED",
+                    "proTeamId": 14,
+                    "proTeamAbbrev": "LAR",
+                    "name": "Cooper Kupp",
+                    "position": "WR"
+                },
+                {
+                    "points": 35.18,
+                    "projPoints": 27.398241186,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 2,
+                    "proTeamAbbrev": "BUF",
+                    "name": "Josh Allen",
+                    "position": "QB"
+                },
+                {
+                    "points": 16.2,
+                    "projPoints": 13.7363322741,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 15,
+                    "proTeamAbbrev": "MIA",
+                    "name": "Jaylen Waddle",
+                    "position": "WR"
+                },
+                {
+                    "points": 0,
+                    "projPoints": 13.531713054,
+                    "status": "STATUS_SCHEDULED",
+                    "proTeamId": 25,
+                    "proTeamAbbrev": "SF",
+                    "name": "Brandon Aiyuk",
+                    "position": "FLEX"
+                },
+                {
+                    "points": 19.3,
+                    "projPoints": 13.332622637000002,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 22,
+                    "proTeamAbbrev": "ARI",
+                    "name": "James Conner",
+                    "position": "Bench"
+                },
+                {
+                    "points": 18.9,
+                    "projPoints": 13.648479061000002,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 16,
+                    "proTeamAbbrev": "MIN",
+                    "name": "Aaron Jones",
+                    "position": "Bench"
+                },
+                {
+                    "points": 3.3000000000000003,
+                    "projPoints": 12.318960532999998,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 7,
+                    "proTeamAbbrev": "DEN",
+                    "name": "Javonte Williams",
+                    "position": "Bench"
+                },
+                {
+                    "points": 3.9,
+                    "projPoints": 11.22848596,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 15,
+                    "proTeamAbbrev": "MIA",
+                    "name": "Raheem Mostert",
+                    "position": "Bench"
+                },
+                {
+                    "points": 7.1,
+                    "projPoints": 10.041365305,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 21,
+                    "proTeamAbbrev": "PHI",
+                    "name": "Dallas Goedert",
+                    "position": "TE"
+                },
+                {
+                    "points": 14.7,
+                    "projPoints": 10.952149951,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 30,
+                    "proTeamAbbrev": "JAX",
+                    "name": "Brian Thomas Jr.",
+                    "position": "Bench"
+                },
+                {
+                    "points": -2.0,
+                    "projPoints": 5.2544515039999995,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 12,
+                    "proTeamAbbrev": "KC",
+                    "name": "Chiefs D/ST",
+                    "position": "D/ST"
+                },
+                {
+                    "points": 0.0,
+                    "projPoints": 0.0,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 16,
+                    "proTeamAbbrev": "MIN",
+                    "name": "T.J. Hockenson",
+                    "position": "IR"
+                },
+                {
+                    "points": 17.0,
+                    "projPoints": 8.341905634,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 34,
+                    "proTeamAbbrev": "HOU",
+                    "name": "Ka'imi Fairbairn",
+                    "position": "K"
+                }
+            ],
+            "Name": "Dan"
+        },
+        {
+            "totalPoints": 112.62,
+            "donePlay": 7,
+            "inPlay": 0,
+            "leftToPlay": 2,
+            "projPoints": 127.75642321979998,
+            "Team": "I'm Upright",
+            "ownerId": "{437A967B-2085-46F3-A046-63D4FA60691B}",
+            "roster": [
+                {
+                    "points": 15.9,
+                    "projPoints": 18.1340282479,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 16,
+                    "proTeamAbbrev": "MIN",
+                    "name": "Justin Jefferson",
+                    "position": "WR"
+                },
+                {
+                    "points": 0,
+                    "projPoints": 15.687108454,
+                    "status": "STATUS_SCHEDULED",
+                    "proTeamId": 14,
+                    "proTeamAbbrev": "LAR",
+                    "name": "Kyren Williams",
+                    "position": "RB"
+                },
+                {
+                    "points": 16.6,
+                    "projPoints": 17.135584701000003,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 27,
+                    "proTeamAbbrev": "TB",
+                    "name": "Rachaad White",
+                    "position": "RB"
+                },
+                {
+                    "points": 20.42,
+                    "projPoints": 24.014557386999996,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 21,
+                    "proTeamAbbrev": "PHI",
+                    "name": "Jalen Hurts",
+                    "position": "QB"
+                },
+                {
+                    "points": 10.0,
+                    "projPoints": 13.6300036048,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 3,
+                    "proTeamAbbrev": "CHI",
+                    "name": "DJ Moore",
+                    "position": "WR"
+                },
+                {
+                    "points": 21.900000000000002,
+                    "projPoints": 14.2837083411,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 34,
+                    "proTeamAbbrev": "HOU",
+                    "name": "Stefon Diggs",
+                    "position": "FLEX"
+                },
+                {
+                    "points": 22.3,
+                    "projPoints": 13.885085104500002,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 27,
+                    "proTeamAbbrev": "TB",
+                    "name": "Chris Godwin",
+                    "position": "Bench"
+                },
+                {
+                    "points": 11.100000000000001,
+                    "projPoints": 14.8360590861,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 33,
+                    "proTeamAbbrev": "BAL",
+                    "name": "Zay Flowers",
+                    "position": "Bench"
+                },
+                {
+                    "points": 33.1,
+                    "projPoints": 11.812212024899999,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 9,
+                    "proTeamAbbrev": "GB",
+                    "name": "Jayden Reed",
+                    "position": "Bench"
+                },
+                {
+                    "points": 18.400000000000002,
+                    "projPoints": 11.019010192999998,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 10,
+                    "proTeamAbbrev": "TEN",
+                    "name": "Tony Pollard",
+                    "position": "Bench"
+                },
+                {
+                    "points": 11.8,
+                    "projPoints": 9.771022105,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 13,
+                    "proTeamAbbrev": "LV",
+                    "name": "Brock Bowers",
+                    "position": "TE"
+                },
+                {
+                    "points": 28.16,
+                    "projPoints": 19.955833386000002,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 28,
+                    "proTeamAbbrev": "WSH",
+                    "name": "Jayden Daniels",
+                    "position": "Bench"
+                },
+                {
+                    "points": 0,
+                    "projPoints": 7.864991032999999,
+                    "status": "STATUS_SCHEDULED",
+                    "proTeamId": 20,
+                    "proTeamAbbrev": "NYJ",
+                    "name": "Greg Zuerlein",
+                    "position": "K"
+                },
+                {
+                    "points": 16.0,
+                    "projPoints": 7.235419346000001,
+                    "status": "STATUS_FINAL",
+                    "proTeamId": 18,
+                    "proTeamAbbrev": "NO",
+                    "name": "Saints D/ST",
+                    "position": "D/ST"
+                }
+            ],
+            "Name": "Tyler"
         }
     ]
 }
