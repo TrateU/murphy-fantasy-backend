@@ -114,6 +114,9 @@ def getDetailedMatchup(year,week):
                             new_player['projPoints'] = new_player['points']
                             add_team['projPoints'] += new_player['points']
                             new_player['isFinal'] = True
+                if new_player['status'] == 'STATUS_FINAL':
+                    new_player['projPoints'] = new_player['points']
+                    new_player['isFinal'] = True
 
 
                         
