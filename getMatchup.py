@@ -69,6 +69,7 @@ def getDetailedMatchup(year,week):
                     if proTeam['id'] == new_player['proTeamId']:
                         new_player["proTeamAbbrev"] = proTeam["abbrev"]
                         new_player["status"] = proTeam['gameStatus']
+                        new_player['startTime'] = proTeam['start']
 
                 for stat in player["playerPoolEntry"]["player"]["stats"]:
                     if stat["scoringPeriodId"] == week and stat["statSourceId"] == 0:

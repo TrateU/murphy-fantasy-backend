@@ -4,181 +4,231 @@
             "id": 1,
             "name": "Falcons",
             "abbrev": "ATL",
-            "gameStatus": "STATUS_FINAL"
+            "gameStatus": "STATUS_FINAL",
+            "start": "Sun - 01:00"
         },
         {
             "id": 2,
             "name": "Bills",
             "abbrev": "BUF",
-            "gameStatus": "STATUS_FINAL"
+            "gameStatus": "STATUS_FINAL",
+            "start": "Sun - 01:00"
         },
         {
             "id": 3,
             "name": "Bears",
             "abbrev": "CHI",
-            "gameStatus": "STATUS_FINAL"
+            "gameStatus": "STATUS_FINAL",
+            "start": "Sun - 01:00"
         },
         {
             "id": 4,
             "name": "Bengals",
             "abbrev": "CIN",
-            "gameStatus": "STATUS_FINAL"
+            "gameStatus": "STATUS_FINAL",
+            "start": "Sun - 01:00"
         },
         {
             "id": 5,
             "name": "Browns",
             "abbrev": "CLE",
-            "gameStatus": "STATUS_IN_PROGRESS"
+            "gameStatus": "STATUS_FINAL",
+            "start": "Sun - 04:25"
         },
         {
             "id": 6,
             "name": "Cowboys",
             "abbrev": "DAL",
-            "gameStatus": "STATUS_IN_PROGRESS"
+            "gameStatus": "STATUS_FINAL",
+            "start": "Sun - 04:25"
         },
         {
             "id": 7,
             "name": "Broncos",
             "abbrev": "DEN",
-            "gameStatus": "STATUS_FINAL"
+            "gameStatus": "STATUS_FINAL",
+            "start": "Sun - 04:05"
         },
         {
             "id": 8,
             "name": "Lions",
             "abbrev": "DET",
-            "gameStatus": "STATUS_SCHEDULED"
+            "gameStatus": "STATUS_FINAL",
+            "start": "Sun - 08:20"
         },
         {
             "id": 9,
             "name": "Packers",
             "abbrev": "GB",
-            "gameStatus": "STATUS_FINAL"
+            "gameStatus": "STATUS_FINAL",
+            "start": "Fri - 08:15"
         },
         {
             "id": 10,
             "name": "Titans",
             "abbrev": "TEN",
-            "gameStatus": "STATUS_FINAL"
+            "gameStatus": "STATUS_FINAL",
+            "start": "Sun - 01:00"
         },
         {
             "id": 11,
             "name": "Colts",
             "abbrev": "IND",
-            "gameStatus": "STATUS_FINAL"
+            "gameStatus": "STATUS_FINAL",
+            "start": "Sun - 01:00"
         },
         {
             "id": 12,
             "name": "Chiefs",
             "abbrev": "KC",
-            "gameStatus": "STATUS_FINAL"
+            "gameStatus": "STATUS_FINAL",
+            "start": "Thu - 08:40"
         },
         {
             "id": 13,
             "name": "Raiders",
             "abbrev": "LV",
-            "gameStatus": "STATUS_FINAL"
+            "gameStatus": "STATUS_FINAL",
+            "start": "Sun - 04:05"
         },
         {
             "id": 14,
             "name": "Rams",
             "abbrev": "LAR",
-            "gameStatus": "STATUS_SCHEDULED"
+            "gameStatus": "STATUS_FINAL",
+            "start": "Sun - 08:20"
         },
         {
             "id": 15,
             "name": "Dolphins",
             "abbrev": "MIA",
-            "gameStatus": "STATUS_FINAL"
+            "gameStatus": "STATUS_FINAL",
+            "start": "Sun - 01:00"
         },
         {
             "id": 16,
             "name": "Vikings",
             "abbrev": "MIN",
-            "gameStatus": "STATUS_FINAL"
+            "gameStatus": "STATUS_FINAL",
+            "start": "Sun - 01:00"
         },
         {
             "id": 17,
             "name": "Patriots",
             "abbrev": "NE",
-            "gameStatus": "STATUS_FINAL"
+            "gameStatus": "STATUS_FINAL",
+            "start": "Sun - 01:00"
         },
         {
             "id": 18,
             "name": "Saints",
             "abbrev": "NO",
-            "gameStatus": "STATUS_FINAL"
+            "gameStatus": "STATUS_FINAL",
+            "start": "Sun - 01:00"
         },
         {
             "id": 19,
             "name": "Giants",
             "abbrev": "NYG",
-            "gameStatus": "STATUS_FINAL"
+            "gameStatus": "STATUS_FINAL",
+            "start": "Sun - 01:00"
         },
         {
             "id": 20,
             "name": "Jets",
             "abbrev": "NYJ",
-            "gameStatus": "STATUS_SCHEDULED"
+            "gameStatus": "STATUS_SCHEDULED",
+            "start": "Mon - 08:15"
         },
         {
             "id": 21,
             "name": "Eagles",
             "abbrev": "PHI",
-            "gameStatus": "STATUS_FINAL"
+            "gameStatus": "STATUS_FINAL",
+            "start": "Fri - 08:15"
         },
         {
             "id": 22,
             "name": "Cardinals",
             "abbrev": "ARI",
-            "gameStatus": "STATUS_FINAL"
+            "gameStatus": "STATUS_FINAL",
+            "start": "Sun - 01:00"
         },
         {
             "id": 23,
             "name": "Steelers",
             "abbrev": "PIT",
-            "gameStatus": "STATUS_FINAL"
+            "gameStatus": "STATUS_FINAL",
+            "start": "Sun - 01:00"
         },
         {
             "id": 24,
             "name": "Chargers",
             "abbrev": "LAC",
-            "gameStatus": "STATUS_FINAL"
+            "gameStatus": "STATUS_FINAL",
+            "start": "Sun - 04:05"
         },
         {
             "id": 25,
             "name": "49ers",
             "abbrev": "SF",
-            "gameStatus": "STATUS_SCHEDULED"
+            "gameStatus": "STATUS_SCHEDULED",
+            "start": "Mon - 08:15"
         },
         {
             "id": 26,
             "name": "Seahawks",
             "abbrev": "SEA",
-            "gameStatus": "STATUS_FINAL"
+            "gameStatus": "STATUS_FINAL",
+            "start": "Sun - 04:05"
         },
         {
             "id": 27,
             "name": "Buccaneers",
             "abbrev": "TB",
-            "gameStatus": "STATUS_IN_PROGRESS"
+            "gameStatus": "STATUS_FINAL",
+            "start": "Sun - 04:25"
         },
         {
             "id": 28,
             "name": "Commanders",
             "abbrev": "WSH",
-            "gameStatus": "STATUS_IN_PROGRESS"
+            "gameStatus": "STATUS_FINAL",
+            "start": "Sun - 04:25"
         },
         {
             "id": 29,
             "name": "Panthers",
             "abbrev": "CAR",
-            "gameStatus": "STATUS_FINAL"
+            "gameStatus": "STATUS_FINAL",
+            "start": "Sun - 01:00"
         },
         {
             "id": 30,
             "name": "Jaguars",
             "abbrev": "JAX",
-            "gameStatus": "STATUS_FINAL"
+            "gameStatus": "STATUS_FINAL",
+            "start": "Sun - 01:00"
+        },
+        {
+            "id": 31
+        },
+        {
+            "id": 32
+        },
+        {
+            "id": 33,
+            "name": "Ravens",
+            "abbrev": "BAL",
+            "gameStatus": "STATUS_FINAL",
+            "start": "Thu - 08:40"
+        },
+        {
+            "id": 34,
+            "name": "Texans",
+            "abbrev": "HOU",
+            "gameStatus": "STATUS_FINAL",
+            "start": "Sun - 01:00"
         }
     ]
 }
