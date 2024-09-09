@@ -64,6 +64,7 @@ def getDetailedMatchup(year,week):
                 new_player['projPoints'] = 0
                 new_player['status'] = ''
                 new_player['proTeamId'] = player['playerPoolEntry']['player']['proTeamId']
+                new_player['isFinal'] = False
 
                 for proTeam in proTeamInfo['teams']:
                     if proTeam['id'] == new_player['proTeamId']:
@@ -112,6 +113,7 @@ def getDetailedMatchup(year,week):
                             add_team['donePlay'] += 1
                             new_player['projPoints'] = new_player['points']
                             add_team['projPoints'] += new_player['points']
+                            new_player['isFinal'] = True
 
 
                         
