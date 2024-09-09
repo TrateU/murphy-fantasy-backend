@@ -33,7 +33,8 @@ def getLiveStatus(year,week):
         for event in scoreboard_response['events']:
             for competitor in event["competitions"][0]["competitors"]:
                 if int(competitor['id']) == team['id']:
-                    team['name'] = competitor['team']['name']
+                    if 'name' in competitor['team']:
+                        team['name'] = competitor['team']['name']
                     team['abbrev'] = competitor['team']['abbreviation']
                     team['gameStatus'] = event['status']['type']['name']
                     team['start'] = getStart(event['date'])
