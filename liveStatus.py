@@ -10,7 +10,7 @@ def getStart(time):
     dt_est = dt_utc.astimezone(est)
 
     day_of_week = dt_est.strftime("%a")
-    time_of_day = dt_est.strftime("%I:%M")
+    time_of_day = dt_est.strftime("%-I:%M")
 
     return f'{day_of_week} - {time_of_day}'
 
