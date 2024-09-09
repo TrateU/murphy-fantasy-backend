@@ -26,6 +26,10 @@ def getLiveStatus(year,week):
         teams["teams"].append({"id": i})
 
     for team in teams["teams"]:
+        team['name'] = ""
+        team['abbrev'] = ""
+        team['gameStatus'] = ""
+        team['start'] = ""
         for event in scoreboard_response['events']:
             for competitor in event["competitions"][0]["competitors"]:
                 if int(competitor['id']) == team['id']:
