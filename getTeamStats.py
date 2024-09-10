@@ -110,6 +110,7 @@ def getStats(year):
 
         if team['Wins'] + team['Losses'] > 0:
             team['wPercentage'] = team['Wins'] / (team['Wins'] + team['Losses'])
+        if team['DivWins'] + team['DivLosses'] > 0:
             team['wDivPercentage'] = team['DivWins'] / (team['DivWins'] + team['DivLosses'])
     
     return stats
