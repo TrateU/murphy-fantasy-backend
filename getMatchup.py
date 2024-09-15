@@ -109,6 +109,9 @@ def getDetailedMatchup(year,week):
                         case 'STATUS_IN_PROGRESS':
                             add_team['inPlay'] += 1
                             add_team['projPoints'] += new_player['projPoints']
+                        case 'STATUS_HALFTIME':
+                            add_team['inPlay'] += 1
+                            add_team['projPoints'] += new_player['projPoints']
                         case 'STATUS_FINAL':
                             add_team['donePlay'] += 1
                             new_player['projPoints'] = new_player['points']

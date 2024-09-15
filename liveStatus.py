@@ -10,7 +10,7 @@ def getStart(time):
     dt_est = dt_utc.astimezone(est)
 
     day_of_week = dt_est.strftime("%a")
-    time_of_day = dt_est.strftime("%-I:%M")
+    time_of_day = dt_est.strftime("%I:%M").lstrip('0')
 
     return f'{day_of_week} - {time_of_day}'
 
@@ -42,10 +42,10 @@ def getLiveStatus(year,week):
         
 
 
-    #with open('test_2.json', 'w') as f:
-        #json.dump(teams,f)
+    with open('test_2.json', 'w') as f:
+        json.dump(teams,f)
 
     return teams
 
 
-#getLiveStatus(2024,1)
+getLiveStatus(2024,2)
