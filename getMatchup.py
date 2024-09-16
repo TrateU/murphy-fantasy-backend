@@ -3,6 +3,18 @@ import json
 import pandas as pd
 import liveStatus
 
+def getProjected(actual, proj, timeleft):
+    projRate = proj / 60
+
+    if(timeleft > 55):
+        actRate = projRate
+    else:
+        actRate = actual / (60 - timeleft)
+
+    projTotal = (((actRate + 2 * projRate) / 3) * timeleft) + actual
+
+    return projTotal
+
 def getDetailedMatchup(year,week):
     # Define league IDs and year
     league_id_A = 52278251
@@ -65,12 +77,14 @@ def getDetailedMatchup(year,week):
                 new_player['status'] = ''
                 new_player['proTeamId'] = player['playerPoolEntry']['player']['proTeamId']
                 new_player['isFinal'] = False
+                new_player['timeleft'] = 0
 
                 for proTeam in proTeamInfo['teams']:
                     if proTeam['id'] == new_player['proTeamId']:
                         new_player["proTeamAbbrev"] = proTeam["abbrev"]
                         new_player["status"] = proTeam['gameStatus']
                         new_player['startTime'] = proTeam['start']
+                        new_player['timeleft'] = proTeam['timeleft']
 
                 for stat in player["playerPoolEntry"]["player"]["stats"]:
                     if stat["scoringPeriodId"] == week and stat["statSourceId"] == 0:
@@ -105,18 +119,18 @@ def getDetailedMatchup(year,week):
                     match new_player['status']:
                         case 'STATUS_SCHEDULED':
                             add_team["leftToPlay"] += 1
-                            add_team['projPoints'] += new_player['projPoints']
                         case 'STATUS_IN_PROGRESS':
                             add_team['inPlay'] += 1
-                            add_team['projPoints'] += new_player['projPoints']
+                            new_player["projPoints"] = getProjected(new_player['points'],new_player['projPoints'],new_player['timeleft'])
                         case 'STATUS_HALFTIME':
                             add_team['inPlay'] += 1
-                            add_team['projPoints'] += new_player['projPoints']
+                            new_player["projPoints"] = getProjected(new_player['points'],new_player['projPoints'],new_player['timeleft'])
                         case 'STATUS_FINAL':
                             add_team['donePlay'] += 1
                             new_player['projPoints'] = new_player['points']
-                            add_team['projPoints'] += new_player['points']
                             new_player['isFinal'] = True
+
+                    add_team['projPoints'] += new_player['projPoints']
                 if new_player['status'] == 'STATUS_FINAL':
                     new_player['projPoints'] = new_player['points']
                     new_player['isFinal'] = True

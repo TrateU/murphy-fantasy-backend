@@ -14,12 +14,16 @@ def getStart(time):
 
     return f'{day_of_week} - {time_of_day}'
 
+def getTimeLeft(clock,quarter):
+    return 60 - ((15 * quarter) - (clock / 60))
+
 
 def getLiveStatus(year,week):
     url = f'https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates={year}&week={week}'
 
 
     scoreboard_response = requests.get(url).json()
+
 
     teams = {"teams":[]}
     for i in range(1,35):
@@ -30,6 +34,7 @@ def getLiveStatus(year,week):
         team['abbrev'] = ""
         team['gameStatus'] = ""
         team['start'] = ""
+        team['timeleft'] = 0
         for event in scoreboard_response['events']:
             for competitor in event["competitions"][0]["competitors"]:
                 if int(competitor['id']) == team['id']:
@@ -38,14 +43,8 @@ def getLiveStatus(year,week):
                     team['abbrev'] = competitor['team']['abbreviation']
                     team['gameStatus'] = event['status']['type']['name']
                     team['start'] = getStart(event['date'])
+                    team['timeleft'] = int(getTimeLeft(event['status']['clock'],event['status']['period']))
+
                     break
-        
-
-
-    with open('test_2.json', 'w') as f:
-        json.dump(teams,f)
 
     return teams
-
-
-getLiveStatus(2024,2)
