@@ -157,7 +157,7 @@ def getDetailedMatchup(year,week):
             team['Name'] = 'Jack Em'
         if team['Name'] == 'Unknown Owner' and team['Team'] == "I'm Up Right":
             team['Name'] = 'Tyler'
-        if team['Name'] == 'Brian Jr' and team['Team'] == "P U ":
+        if team['Name'] == 'Brian Jr' and team['Team'] == "GrandBabies":
             team['Name'] = 'Brian Sr'
 
     #with open('test.json', 'w') as f:
