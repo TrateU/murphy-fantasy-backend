@@ -31,7 +31,8 @@ def getWeeklyScores(year):
         {"member_id": "{C3FA1FC7-613C-4FE7-A05C-02608D26ACA4}", "name": "Brian G"},
         {"member_id": "{E126E0E8-A4B6-470C-ACBB-4FFB80D3D383}", "name": "Kyle"},
         {"member_id": "{2C2C9FFD-CDA3-4381-AC9F-FDCDA3A381C7}", "name": "John"},
-        {"member_id": "{36C370D4-D94B-4B1C-8C3C-ABB2A5A95DE7}", "name": "Brian Sr"}
+        {"member_id": "{36C370D4-D94B-4B1C-8C3C-ABB2A5A95DE7}", "name": "Brian Sr"},
+        {"member_id": "{75AEC037-FEBA-4282-B8FD-8968D37AB06B}", "name": "Jackson"}
     ]
 
     # Convert custom data to a dictionary for quick lookups
@@ -134,6 +135,7 @@ def getWeeklyScores(year):
     scores_df.loc[(scores_df['Name'] == 'Trate') & (scores_df['Team'] == 'Jack Emmett'), 'Name'] = 'Jack Em'
     scores_df.loc[(scores_df['Name'] == 'Unknown Owner') & (scores_df['Team'] == "I'm Up Right"), 'Name'] = 'Tyler'
     scores_df.loc[(scores_df['Name'] == 'Brian Jr') & (scores_df['Team'] == "GrandBabies"), 'Name'] = 'Brian Sr'
+    scores_df.loc[(scores_df['Name'] == 'Colin') & (scores_df['Team'] == "Cohen T"), 'Name'] = 'Cohen'
     # Save to CSV
     #scores_df.to_csv(f'./public/data/scores{year}.csv', index=False)
 

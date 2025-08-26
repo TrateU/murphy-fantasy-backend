@@ -1,0 +1,224 @@
+{
+    "teams": [
+        {
+            "totalPoints": 0,
+            "donePlay": 0,
+            "inPlay": 0,
+            "leftToPlay": 0,
+            "projPoints": 0,
+            "Team": "Jack Emmett",
+            "ownerId": "{0F87DB98-AAD6-4018-8A99-4CE4EE5F71C6}",
+            "roster": [],
+            "Name": "Jack Em"
+        },
+        {
+            "totalPoints": 0,
+            "donePlay": 0,
+            "inPlay": 0,
+            "leftToPlay": 0,
+            "projPoints": 0,
+            "Team": "I Did It Illegally",
+            "ownerId": "{88D64FB7-44C6-4DB5-AFBF-D3136E76744E}",
+            "roster": [],
+            "Name": "Sean"
+        },
+        {
+            "totalPoints": 0,
+            "donePlay": 0,
+            "inPlay": 0,
+            "leftToPlay": 0,
+            "projPoints": 0,
+            "Team": "Two Time Champs",
+            "ownerId": "{FAFD64E5-BFD6-4DFD-BAC5-6F92DB1E33D6}",
+            "roster": [],
+            "Name": "Scott"
+        },
+        {
+            "totalPoints": 0,
+            "donePlay": 0,
+            "inPlay": 0,
+            "leftToPlay": 0,
+            "projPoints": 0,
+            "Team": "Team Dragonfly",
+            "ownerId": "{C732A445-7027-4B50-82BE-9B37760B36A7}",
+            "roster": [],
+            "Name": "Jack Jr"
+        },
+        {
+            "totalPoints": 0,
+            "donePlay": 0,
+            "inPlay": 0,
+            "leftToPlay": 0,
+            "projPoints": 0,
+            "Team": "Trate's Football Team",
+            "ownerId": "{57685D79-5D3D-49FE-A85D-795D3DD9FEF0}",
+            "roster": [],
+            "Name": "Trate"
+        },
+        {
+            "totalPoints": 0,
+            "donePlay": 0,
+            "inPlay": 0,
+            "leftToPlay": 0,
+            "projPoints": 0,
+            "Team": "2nd Newest Outlaw",
+            "ownerId": "{AD0C8351-96CF-4C5D-9E9B-0004BA3FD667}",
+            "roster": [],
+            "Name": "Dan"
+        },
+        {
+            "totalPoints": 0,
+            "donePlay": 0,
+            "inPlay": 0,
+            "leftToPlay": 0,
+            "projPoints": 0,
+            "Team": "Major F***ing Star",
+            "ownerId": "{59565568-0CFC-4DFD-8499-4238E679CD6C}",
+            "roster": [],
+            "Name": "Dennis"
+        },
+        {
+            "totalPoints": 0,
+            "donePlay": 0,
+            "inPlay": 0,
+            "leftToPlay": 0,
+            "projPoints": 0,
+            "Team": "Peyton's Perfect Team",
+            "ownerId": "{6D56A84B-3DC8-4CB2-AA10-427DE47CF022}",
+            "roster": [],
+            "Name": "Peyton"
+        },
+        {
+            "totalPoints": 0,
+            "donePlay": 0,
+            "inPlay": 0,
+            "leftToPlay": 0,
+            "projPoints": 0,
+            "Team": "The BumperKarls",
+            "ownerId": "{E126E0E8-A4B6-470C-ACBB-4FFB80D3D383}",
+            "roster": [],
+            "Name": "Kyle"
+        },
+        {
+            "totalPoints": 0,
+            "donePlay": 0,
+            "inPlay": 0,
+            "leftToPlay": 0,
+            "projPoints": 0,
+            "Team": "I\u2019m Upright",
+            "ownerId": "{437A967B-2085-46F3-A046-63D4FA60691B}",
+            "roster": [],
+            "Name": "Tyler"
+        },
+        {
+            "totalPoints": 0,
+            "donePlay": 0,
+            "inPlay": 0,
+            "leftToPlay": 0,
+            "projPoints": 0,
+            "Team": "Dumb Doras",
+            "ownerId": "{110EE426-6B0F-4FB9-B080-39EC67F770A2}",
+            "roster": [],
+            "Name": "Brian Jr"
+        },
+        {
+            "totalPoints": 0,
+            "donePlay": 0,
+            "inPlay": 0,
+            "leftToPlay": 0,
+            "projPoints": 0,
+            "Team": "Fluffy Bunny Feet",
+            "ownerId": "{2C2C9FFD-CDA3-4381-AC9F-FDCDA3A381C7}",
+            "roster": [],
+            "Name": "John"
+        },
+        {
+            "totalPoints": 0,
+            "donePlay": 0,
+            "inPlay": 0,
+            "leftToPlay": 0,
+            "projPoints": 0,
+            "Team": "brady's Best Team",
+            "ownerId": "{0C3DEE60-4AB3-454A-9925-78D9E65D1A1D}",
+            "roster": [],
+            "Name": "Brady"
+        },
+        {
+            "totalPoints": 0,
+            "donePlay": 0,
+            "inPlay": 0,
+            "leftToPlay": 0,
+            "projPoints": 0,
+            "Team": "Philly Fanatics",
+            "ownerId": "{C3FA1FC7-613C-4FE7-A05C-02608D26ACA4}",
+            "roster": [],
+            "Name": "Brian G"
+        },
+        {
+            "totalPoints": 0,
+            "donePlay": 0,
+            "inPlay": 0,
+            "leftToPlay": 0,
+            "projPoints": 0,
+            "Team": "Jackson's Scary Team",
+            "ownerId": "{75AEC037-FEBA-4282-B8FD-8968D37AB06B}",
+            "roster": [],
+            "Name": "Jackson"
+        },
+        {
+            "totalPoints": 0,
+            "donePlay": 0,
+            "inPlay": 0,
+            "leftToPlay": 0,
+            "projPoints": 0,
+            "Team": "Brian's Brilliant Team",
+            "ownerId": "{36C370D4-D94B-4B1C-8C3C-ABB2A5A95DE7}",
+            "roster": [],
+            "Name": "Brian Sr"
+        },
+        {
+            "totalPoints": 0,
+            "donePlay": 0,
+            "inPlay": 0,
+            "leftToPlay": 0,
+            "projPoints": 0,
+            "Team": "Brick'd Up",
+            "ownerId": "{F98A212C-11B8-4354-8A21-2C11B8E35492}",
+            "roster": [],
+            "Name": "Colin"
+        },
+        {
+            "totalPoints": 0,
+            "donePlay": 0,
+            "inPlay": 0,
+            "leftToPlay": 0,
+            "projPoints": 0,
+            "Team": "Cohen T",
+            "ownerId": "{F98A212C-11B8-4354-8A21-2C11B8E35492}",
+            "roster": [],
+            "Name": "Cohen"
+        },
+        {
+            "totalPoints": 0,
+            "donePlay": 0,
+            "inPlay": 0,
+            "leftToPlay": 0,
+            "projPoints": 0,
+            "Team": "Santa's Coming to Trophy",
+            "ownerId": "{EA136F56-F17F-4118-936F-56F17F4118A1}",
+            "roster": [],
+            "Name": "Michael"
+        },
+        {
+            "totalPoints": 0,
+            "donePlay": 0,
+            "inPlay": 0,
+            "leftToPlay": 0,
+            "projPoints": 0,
+            "Team": "Matthew's Magnificent Team",
+            "ownerId": "{4AAD9058-FC75-407D-901F-5F00BE21E7CB}",
+            "roster": [],
+            "Name": "Matt"
+        }
+    ]
+}

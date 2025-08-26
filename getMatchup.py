@@ -43,7 +43,8 @@ def getDetailedMatchup(year,week):
         {"member_id": "{C3FA1FC7-613C-4FE7-A05C-02608D26ACA4}", "name": "Brian G"},
         {"member_id": "{E126E0E8-A4B6-470C-ACBB-4FFB80D3D383}", "name": "Kyle"},
         {"member_id": "{2C2C9FFD-CDA3-4381-AC9F-FDCDA3A381C7}", "name": "John"},
-        {"member_id": "{36C370D4-D94B-4B1C-8C3C-ABB2A5A95DE7}", "name": "Brian Sr"}
+        {"member_id": "{36C370D4-D94B-4B1C-8C3C-ABB2A5A95DE7}", "name": "Brian Sr"},
+        {"member_id": "{75AEC037-FEBA-4282-B8FD-8968D37AB06B}", "name": "Jackson"}
     ]
 
     rosters_response_A = requests.get(url_A, params={"view": "mRoster","scoringPeriodId":week}).json()
@@ -159,9 +160,11 @@ def getDetailedMatchup(year,week):
             team['Name'] = 'Tyler'
         if team['Name'] == 'Brian Jr' and team['Team'] == "GrandBabies":
             team['Name'] = 'Brian Sr'
+        if team['Name'] == 'Colin' and team['Team'] == "Cohen T":
+            team['Name'] = 'Cohen'
 
-    #with open('test.json', 'w') as f:
-       # json.dump(rosters,f)
+    with open('test.json', 'w') as f:
+        json.dump(rosters,f)
     return rosters
 
-#getDetailedMatchup(2024,1)
+getDetailedMatchup(2025,1)
