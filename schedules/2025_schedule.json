@@ -629,49 +629,6 @@
                     "teamB": "Brian G"
                 }
             ]
-        },
-        {
-            "Week": 15,
-            "Matchups": [
-                {
-                    "teamA": "UNKNOWN",
-                    "teamB": "UNKNOWN"
-                },
-                {
-                    "teamA": "UNKNOWN",
-                    "teamB": "UNKNOWN"
-                },
-                {
-                    "teamA": "UNKNOWN",
-                    "teamB": "UNKNOWN"
-                },
-                {
-                    "teamA": "UNKNOWN",
-                    "teamB": "UNKNOWN"
-                }
-            ]
-        },
-        {
-            "Week": 16,
-            "Matchups": [
-                {
-                    "teamA": "UNKNOWN",
-                    "teamB": "UNKNOWN"
-                },
-                {
-                    "teamA": "UNKNOWN",
-                    "teamB": "UNKNOWN"
-                }
-            ]
-        },
-        {
-            "Week": 17,
-            "Matchups": [
-                {
-                    "teamA": "UNKNOWN",
-                    "teamB": "UNKNOWN"
-                }
-            ]
         }
     ]
 }
