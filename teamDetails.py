@@ -80,7 +80,7 @@ def getTeamDetails(year):
                         new_player['averagePoints'] = stat['appliedAverage']
                         new_player['totalPoints'] = stat['appliedTotal']
                         break
-                new_player["posRank"] = player['playerPoolEntry']["ratings"]["0"]["positionalRanking"]
+                #new_player["posRank"] = player['playerPoolEntry']["ratings"]["0"]["positionalRanking"]
 
                     
                 add_team['roster'].append(new_player)
@@ -97,4 +97,7 @@ def getTeamDetails(year):
                 team["Roster"] = roster['roster']
                 break
     
+
+    
     return teamStats
+
