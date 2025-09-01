@@ -136,6 +136,8 @@ def getWeeklyScores(year):
     scores_df.loc[(scores_df['Name'] == 'Unknown Owner') & (scores_df['Team'] == "I'm Up Right"), 'Name'] = 'Tyler'
     scores_df.loc[(scores_df['Name'] == 'Brian Jr') & (scores_df['Team'] == "GrandBabies"), 'Name'] = 'Brian Sr'
     scores_df.loc[(scores_df['Name'] == 'Colin') & (scores_df['Team'] == "THE Contenders"), 'Name'] = 'Cohen'
+    scores_df.loc[(scores_df['Name'] == 'Colin') & (scores_df['Team'] == "Cohen's Tough Team"), 'Name'] = 'Cohen'
+    scores_df.loc[(scores_df['Name'] == 'Colin') & (scores_df['Team'] != "Brick'd Up"), 'Name'] = 'Cohen'
     # Save to CSV
     #scores_df.to_csv(f'./public/data/scores{year}.csv', index=False)
 
