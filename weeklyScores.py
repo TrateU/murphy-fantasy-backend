@@ -3,6 +3,7 @@ import requests
 import json
 import pandas as pd
 
+
 def getWeeklyScores(year):
     # Define league IDs and year
     league_id_A = 52278251
@@ -61,6 +62,8 @@ def getWeeklyScores(year):
     team_json_A = team_response_A.json()
     matchup_json_B = matchup_response_B.json()
     team_json_B = team_response_B.json()
+
+    
 
     # Extract teams and members
     members_A = team_json_A['members']
@@ -178,11 +181,24 @@ def getWeeklyScores(year):
                         team['Score'] = 198.92
                     if team['Name'] == 'Peyton':
                         team['Score'] = 132.24
+    if year == 2025:
+        week = {"Week":17,
+                "Scores": [
+                    {"Name":"Scott","Team":"Two Time Champs","Score":0},
+                    {"Name":"Michael","Team":"Santa's Coming to Trophy","Score":0}
+                ],
+                "Matchups": [{"teamA":"Scott","teamB":"Michael"}]
+        }
+        weekly_scores['WeeklyScores'].append(week)
 
         
-
-
+    with open('test.json', 'w') as f:
+        json.dump(weekly_scores,f)
+    
 
     weekly_scores = json.dumps(weekly_scores, indent=1)
-    
+  
     return weekly_scores
+
+getWeeklyScores(2025)
+
