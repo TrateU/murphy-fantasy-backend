@@ -191,14 +191,9 @@ def getWeeklyScores(year):
         }
         weekly_scores['WeeklyScores'].append(week)
 
-        
-    with open('test.json', 'w') as f:
-        json.dump(weekly_scores,f)
     
-
     weekly_scores = json.dumps(weekly_scores, indent=1)
   
     return weekly_scores
 
-getWeeklyScores(2025)
 
