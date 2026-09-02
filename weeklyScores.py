@@ -68,10 +68,10 @@ def getWeeklyScores(year):
     matchup_json_B = matchup_response_B.json()
     team_json_B = team_response_B.json()
 
-    with open('teamA.json', 'w') as f:
-            json.dump(team_json_A,f)
-    with open('teamB.json', 'w') as f:
-            json.dump(team_json_B,f)
+    #with open('teamA.json', 'w') as f:
+    #        json.dump(team_json_A,f)
+    #with open('teamB.json', 'w') as f:
+    #        json.dump(team_json_B,f)
 
     # Extract teams and members
     members_A = team_json_A['members']
@@ -199,8 +199,8 @@ def getWeeklyScores(year):
         }
         weekly_scores['WeeklyScores'].append(week)
 
-    with open('test.json', 'w') as f:
-                json.dump(weekly_scores,f)
+    #with open('test.json', 'w') as f:
+    #            json.dump(weekly_scores,f)
 
     
     weekly_scores = json.dumps(weekly_scores, indent=1)
@@ -209,6 +209,6 @@ def getWeeklyScores(year):
   
     return weekly_scores
 
-getWeeklyScores(2026)
+#getWeeklyScores(2026)
 
 
