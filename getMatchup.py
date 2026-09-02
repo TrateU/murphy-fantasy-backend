@@ -44,7 +44,10 @@ def getDetailedMatchup(year,week):
         {"member_id": "{E126E0E8-A4B6-470C-ACBB-4FFB80D3D383}", "name": "Kyle"},
         {"member_id": "{2C2C9FFD-CDA3-4381-AC9F-FDCDA3A381C7}", "name": "John"},
         {"member_id": "{36C370D4-D94B-4B1C-8C3C-ABB2A5A95DE7}", "name": "Brian Sr"},
-        {"member_id": "{75AEC037-FEBA-4282-B8FD-8968D37AB06B}", "name": "Jackson"}
+        {"member_id": "{75AEC037-FEBA-4282-B8FD-8968D37AB06B}", "name": "Jackson"},
+        {"member_id": "{9EABDE4A-6764-40A2-ABDE-4A676450A221}", "name": "Patrick"},
+        {"member_id": "{C051FCB7-075A-4FC6-8F62-E802758E1F92}", "name": "Jack Jr"},
+        {"member_id": "{6159E9BE-3D3C-4237-A788-BEDB7AB31128}", "name": "Tyler"}
     ]
 
     rosters_response_A = requests.get(url_A, params={"view": "mRoster","scoringPeriodId":week}).json()
@@ -169,4 +172,4 @@ def getDetailedMatchup(year,week):
         json.dump(rosters,f)
     return rosters
 
-getDetailedMatchup(2025,1)
+getDetailedMatchup(2026,1)

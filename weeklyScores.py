@@ -33,7 +33,10 @@ def getWeeklyScores(year):
         {"member_id": "{E126E0E8-A4B6-470C-ACBB-4FFB80D3D383}", "name": "Kyle"},
         {"member_id": "{2C2C9FFD-CDA3-4381-AC9F-FDCDA3A381C7}", "name": "John"},
         {"member_id": "{36C370D4-D94B-4B1C-8C3C-ABB2A5A95DE7}", "name": "Brian Sr"},
-        {"member_id": "{75AEC037-FEBA-4282-B8FD-8968D37AB06B}", "name": "Jackson"}
+        {"member_id": "{75AEC037-FEBA-4282-B8FD-8968D37AB06B}", "name": "Jackson"},
+        {"member_id": "{9EABDE4A-6764-40A2-ABDE-4A676450A221}", "name": "Patrick"},
+        {"member_id": "{C051FCB7-075A-4FC6-8F62-E802758E1F92}", "name": "Jack Jr"},
+        {"member_id": "{6159E9BE-3D3C-4237-A788-BEDB7AB31128}", "name": "Tyler"}
     ]
 
     # Convert custom data to a dictionary for quick lookups
@@ -57,13 +60,18 @@ def getWeeklyScores(year):
     matchup_response_B = requests.get(url_B, params={"view": "mMatchup"})
     team_response_B = requests.get(url_B, params={"view": "mTeam"})
 
+    
+
     # Transform the response into JSON
     matchup_json_A = matchup_response_A.json()
     team_json_A = team_response_A.json()
     matchup_json_B = matchup_response_B.json()
     team_json_B = team_response_B.json()
 
-    
+    with open('teamA.json', 'w') as f:
+            json.dump(team_json_A,f)
+    with open('teamB.json', 'w') as f:
+            json.dump(team_json_B,f)
 
     # Extract teams and members
     members_A = team_json_A['members']
@@ -191,9 +199,16 @@ def getWeeklyScores(year):
         }
         weekly_scores['WeeklyScores'].append(week)
 
+    with open('test.json', 'w') as f:
+                json.dump(weekly_scores,f)
+
     
     weekly_scores = json.dumps(weekly_scores, indent=1)
+
+    
   
     return weekly_scores
+
+getWeeklyScores(2026)
 
 

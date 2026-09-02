@@ -112,5 +112,10 @@ def getStats(year):
             team['wPercentage'] = team['Wins'] / (team['Wins'] + team['Losses'])
         if team['DivWins'] + team['DivLosses'] > 0:
             team['wDivPercentage'] = team['DivWins'] / (team['DivWins'] + team['DivLosses'])
+
+    with open('test.json', 'w') as f:
+            json.dump(stats,f)
     
     return stats
+
+getStats(2026)

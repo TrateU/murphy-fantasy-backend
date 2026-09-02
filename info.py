@@ -1,26 +1,29 @@
 currentYear = 2026
 
 custom_data = [
-    {"member_id": "{4AAD9058-FC75-407D-901F-5F00BE21E7CB}", "name": "Matt", '2021div':'MFC', '2022div':'MFC', '2023div': 'MFC', '2024div': 'JFC', '2025div': 'JFC'},
-    {"member_id": "{0F87DB98-AAD6-4018-8A99-4CE4EE5F71C6}", "name": "Jack Em", '2021div':'MFC', '2022div':'JFC', '2023div': 'MFC', '2024div': 'JFC', '2025div': 'MFC'},
-    {"member_id": "{110EE426-6B0F-4FB9-B080-39EC67F770A2}", "name": "Brian Jr", '2021div':'MFC', '2022div':'JFC', '2023div': 'JFC', '2024div': 'MFC', '2025div': 'JFC'},
-    {"member_id": "{57685D79-5D3D-49FE-A85D-795D3DD9FEF0}", "name": "Trate", '2021div':'JFC', '2022div':'MFC', '2023div': 'JFC', '2024div': 'JFC', '2025div': 'MFC'},
-    {"member_id": "{88D64FB7-44C6-4DB5-AFBF-D3136E76744E}", "name": "Sean", '2021div':'JFC', '2022div':'JFC', '2023div': 'JFC', '2024div': 'JFC', '2025div': 'MFC'},
+    {"member_id": "{4AAD9058-FC75-407D-901F-5F00BE21E7CB}", "name": "Matt", '2021div':'MFC', '2022div':'MFC', '2023div': 'MFC', '2024div': 'JFC', '2025div': 'JFC', '2026div': 'MFC'},
+    {"member_id": "{0F87DB98-AAD6-4018-8A99-4CE4EE5F71C6}", "name": "Jack Em", '2021div':'MFC', '2022div':'JFC', '2023div': 'MFC', '2024div': 'JFC', '2025div': 'MFC', '2026div': 'JFC'},
+    {"member_id": "{110EE426-6B0F-4FB9-B080-39EC67F770A2}", "name": "Brian Jr", '2021div':'MFC', '2022div':'JFC', '2023div': 'JFC', '2024div': 'MFC', '2025div': 'JFC', '2026div': 'JFC'},
+    {"member_id": "{57685D79-5D3D-49FE-A85D-795D3DD9FEF0}", "name": "Trate", '2021div':'JFC', '2022div':'MFC', '2023div': 'JFC', '2024div': 'JFC', '2025div': 'MFC', '2026div': 'JFC'},
+    {"member_id": "{88D64FB7-44C6-4DB5-AFBF-D3136E76744E}", "name": "Sean", '2021div':'JFC', '2022div':'JFC', '2023div': 'JFC', '2024div': 'JFC', '2025div': 'MFC', '2026div': 'MFC'},
     {"member_id": "{C732A445-7027-4B50-82BE-9B37760B36A7}", "name": "Jack Jr", '2021div':'JFC', '2022div':'MFC', '2023div': 'MFC', '2024div': 'JFC', '2025div': 'MFC'},
-    {"member_id": "{EA136F56-F17F-4118-936F-56F17F4118A1}", "name": "Michael", '2021div':'MFC', '2022div':'MFC', '2023div': 'MFC', '2024div': 'JFC', '2025div': 'JFC'},
-    {"member_id": "{F98A212C-11B8-4354-8A21-2C11B8E35492}", "name": "Colin", '2021div':'JFC', '2022div':'MFC', '2023div': 'MFC', '2024div': 'JFC', '2025div': 'JFC'},
-    {"member_id": "{FAFD64E5-BFD6-4DFD-BAC5-6F92DB1E33D6}", "name": "Scott", '2021div':'MFC', '2022div':'JFC', '2023div': 'JFC', '2024div': 'JFC', '2025div': 'MFC'},
-    {"member_id": "{0C3DEE60-4AB3-454A-9925-78D9E65D1A1D}", "name": "Brady", '2021div':'MFC', '2022div':'JFC', '2023div': 'MFC', '2024div': 'MFC', '2025div': 'JFC'},
+    {"member_id": "{EA136F56-F17F-4118-936F-56F17F4118A1}", "name": "Michael", '2021div':'MFC', '2022div':'MFC', '2023div': 'MFC', '2024div': 'JFC', '2025div': 'JFC', '2026div': 'MFC'},
+    {"member_id": "{F98A212C-11B8-4354-8A21-2C11B8E35492}", "name": "Colin", '2021div':'JFC', '2022div':'MFC', '2023div': 'MFC', '2024div': 'JFC', '2025div': 'JFC', '2026div': 'JFC'},
+    {"member_id": "{FAFD64E5-BFD6-4DFD-BAC5-6F92DB1E33D6}", "name": "Scott", '2021div':'MFC', '2022div':'JFC', '2023div': 'JFC', '2024div': 'JFC', '2025div': 'MFC', '2026div': 'MFC'},
+    {"member_id": "{0C3DEE60-4AB3-454A-9925-78D9E65D1A1D}", "name": "Brady", '2021div':'MFC', '2022div':'JFC', '2023div': 'MFC', '2024div': 'MFC', '2025div': 'JFC', '2026div': 'MFC'},
     {"member_id": "{437A967B-2085-46F3-A046-63D4FA60691B}", "name": "Tyler", '2021div':'JFC', '2022div':'MFC', '2023div': 'MFC', '2024div': 'MFC', '2025div': 'MFC'},
-    {"member_id": "{59565568-0CFC-4DFD-8499-4238E679CD6C}", "name": "Dennis", '2021div':'JFC', '2022div':'MFC', '2023div': 'JFC', '2024div': 'MFC', '2025div': 'MFC'},
-    {"member_id": "{6D56A84B-3DC8-4CB2-AA10-427DE47CF022}", "name": "Peyton", '2021div':'JFC', '2022div':'MFC', '2023div': 'MFC', '2024div': 'MFC', '2025div': 'MFC'},
-    {"member_id": "{AD0C8351-96CF-4C5D-9E9B-0004BA3FD667}", "name": "Dan", '2021div':'JFC', '2022div':'JFC', '2023div': 'JFC', '2024div': 'MFC', '2025div': 'MFC'},
-    {"member_id": "{C3FA1FC7-613C-4FE7-A05C-02608D26ACA4}", "name": "Brian G", '2021div':'MFC', '2022div':'JFC', '2023div': 'JFC', '2024div': 'MFC', '2025div': 'JFC'},
-    {"member_id": "{E126E0E8-A4B6-470C-ACBB-4FFB80D3D383}", "name": "Kyle", '2021div':'MFC', '2022div':'JFC', '2023div': 'JFC', '2024div': 'MFC', '2025div': 'MFC'},
-    {"member_id": "{2C2C9FFD-CDA3-4381-AC9F-FDCDA3A381C7}", "name": "John", '2021div':'JFC', '2022div':'MFC', '2023div': 'MFC', '2024div': 'MFC', '2025div': 'JFC'},
-    {"member_id": "{36C370D4-D94B-4B1C-8C3C-ABB2A5A95DE7}", "name": "Brian Sr", '2021div':'MFC', '2022div':'JFC', '2023div': 'JFC', '2024div': 'JFC', '2025div': 'JFC'},
+    {"member_id": "{59565568-0CFC-4DFD-8499-4238E679CD6C}", "name": "Dennis", '2021div':'JFC', '2022div':'MFC', '2023div': 'JFC', '2024div': 'MFC', '2025div': 'MFC', '2026div': 'JFC'},
+    {"member_id": "{6D56A84B-3DC8-4CB2-AA10-427DE47CF022}", "name": "Peyton", '2021div':'JFC', '2022div':'MFC', '2023div': 'MFC', '2024div': 'MFC', '2025div': 'MFC', '2026div': 'MFC'},
+    {"member_id": "{AD0C8351-96CF-4C5D-9E9B-0004BA3FD667}", "name": "Dan", '2021div':'JFC', '2022div':'JFC', '2023div': 'JFC', '2024div': 'MFC', '2025div': 'MFC', '2026div': 'MFC'},
+    {"member_id": "{C3FA1FC7-613C-4FE7-A05C-02608D26ACA4}", "name": "Brian G", '2021div':'MFC', '2022div':'JFC', '2023div': 'JFC', '2024div': 'MFC', '2025div': 'JFC', '2026div': 'MFC'},
+    {"member_id": "{E126E0E8-A4B6-470C-ACBB-4FFB80D3D383}", "name": "Kyle", '2021div':'MFC', '2022div':'JFC', '2023div': 'JFC', '2024div': 'MFC', '2025div': 'MFC', '2026div': 'MFC'},
+    {"member_id": "{2C2C9FFD-CDA3-4381-AC9F-FDCDA3A381C7}", "name": "John", '2021div':'JFC', '2022div':'MFC', '2023div': 'MFC', '2024div': 'MFC', '2025div': 'JFC', '2026div': 'JFC'},
+    {"member_id": "{36C370D4-D94B-4B1C-8C3C-ABB2A5A95DE7}", "name": "Brian Sr", '2021div':'MFC', '2022div':'JFC', '2023div': 'JFC', '2024div': 'JFC', '2025div': 'JFC', '2026div': 'MFC'},
     {"member_id": "{75AEC037-FEBA-4282-B8FD-8968D37AB06B}", "name": "Jackson", '2025div': 'JFC'},
-    {"member_id": "{F98A212C-11B8-4354-8A21-2C11B8E35492}", "name": "Cohen", '2025div': 'JFC'}
+    {"member_id": "{F98A212C-11B8-4354-8A21-2C11B8E35492}", "name": "Cohen", '2025div': 'JFC'},
+    {"member_id": "{9EABDE4A-6764-40A2-ABDE-4A676450A221}", "name": "Patrick", '2026div': 'JFC'},
+    {"member_id": "{C051FCB7-075A-4FC6-8F62-E802758E1F92}", "name": "Jack Jr", '2026div': 'JFC'},
+    {"member_id": "{6159E9BE-3D3C-4237-A788-BEDB7AB31128}", "name": "Tyler", '2026div': 'JFC'}
 ]
 
 weekdates2024 = [
