@@ -87,7 +87,7 @@ def getStats(year):
             if year < info.currentYear:
                 isPast = True
             else:
-                for weeks in info.weekdates2025:
+                for weeks in info.weekdates2026:
                     if weeks['Week'] == score['Week']:
                         if today >= datetime.strptime(weeks['end'],"%Y-%m-%d"): 
                             isPast = True
