@@ -44,7 +44,8 @@ def getStats(year):
     for team in stats['teamStats']:
         for memeber in info.custom_data:
             if team['Name'] == memeber['name']:
-                team['Division'] = memeber[f'{year}div']
+                if f'{year}div' in memeber:
+                    team['Division'] = memeber[f'{year}div']
 
     for team in stats['teamStats']:
         #Setting weekly score details.
@@ -114,8 +115,8 @@ def getStats(year):
             team['wDivPercentage'] = team['DivWins'] / (team['DivWins'] + team['DivLosses'])
 
     #with open('test.json', 'w') as f:
-     #       json.dump(stats,f)
+    #        json.dump(stats,f)
     
     return stats
 
-#getStats(2026)
+#getStats(2025)
